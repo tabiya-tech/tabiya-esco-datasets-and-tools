@@ -1,0 +1,13 @@
+{
+  "name": "tabiya-esco-datasets-and-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": "git@github.com:tabiya-tech/tabiya-esco-datasets-and-tools.git",
+  "author": "Benisis, Apostolos <apostolos@benisis.de>",
+  "license": "MIT",
+  "dependencies": {
+    "stream-transform": "~3.2.6",
+    "csv": "~6.3.1"
+  }
+}
