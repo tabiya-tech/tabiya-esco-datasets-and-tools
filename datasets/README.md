@@ -57,7 +57,7 @@ Contains the ESCO v.1.1.0 classification and relations files compressed.
 The actual data where downloaded from the following links:   
 https://ec.europa.eu/esco/download/ESCO%20dataset%20-%20v1.1.0%20-%20classification%20-%20en%20-%20csv.zip
 
-https://ec.europa.eu/esco/download/ESCO%20dataset%20-%20v1.0.1%20-%20classification%20-%20%20-%20csv.zip
+https://ec.europa.eu/esco/download/ESCO%20dataset%20-%20v1.1.0%20-%20classification%20-%20%20-%20csv.zip
 
 # Tabiya
 
