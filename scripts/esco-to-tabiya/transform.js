@@ -96,7 +96,7 @@ function OccupationsRecordTransformer(record) {
     ID: addConceptUriToMap(record['conceptUri']),
     UUID: "",
     ORIGINUUID: "",
-    ISCOGROUP: record['iscoGroup'],
+    ISCOGROUPCODE: record['iscoGroup'],
     CODE: record['code'],
     PREFERREDLABEL: record['preferredLabel'],
     ALTLABELS: record['altLabels'],
@@ -322,7 +322,7 @@ function exportSampleData(source_classification_folder, source_relations_folder,
   stats.Occupations = processData(
     source_classification_folder + 'occupations_en.csv',
     target_folder + 'occupations.csv',
-    OccupationsRecordTransformer, 1000
+    OccupationsRecordTransformer
   );
 
   stats.OccupationsHierarchy = processData(
