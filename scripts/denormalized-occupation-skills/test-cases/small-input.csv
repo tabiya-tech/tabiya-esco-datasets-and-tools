@@ -1,0 +1,4 @@
+id,resp_name,resp_surname,ID_number,reported_title,ESCO_matches,ESCO_occ_1,ESCO_occ_2,ESCO_occ_3
+1,Anne-Charlotte,Giminez,9411112345069,baker,1,2654.1.7,2654.1.7,2654.1.7
+2,Christian,Meyer,9411112345068,street seller,1,1411.3,2654.1.7,2654.1.7
+3,Robert ,Hill,9411112345067,"hairdresser, goods seller, and babysitter",3,2654.1.7,2654.1.7,2654.1.7

@@ -1,0 +1,9 @@
+id,resp_name,resp_surname,ID_number,reported_title,ESCO_matches,ESCO_occ_1,ESCO_occ_2,ESCO_occ_3
+1,Anne-Charlotte,Giminez,9411112345069,baker,1,7512.1,,
+2,Christian,Meyer,9411112345068,street seller,1,5223.7,7512.1,
+3,Robert ,Hill,9411112345067,"hairdresser, goods seller, and babysitter",3,5141.1,5223.7,5311.1
+4,Fuaad,Coovadia,9411112345066,baker,1,7512.1,,
+5,Tichinashe,Mabugu,9411112345065,unique,0,,,
+6,Tichinashe,Mabugu,9411112345065,unique,0,7512.1,7512.1,7512.1
+7,Tichinashe,Mabugu,9411112345065,unique,0,,7512.1,
+8,Tichinashe,Mabugu,9411112345065,unique,0,,,7512.1

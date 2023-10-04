@@ -6,8 +6,18 @@
   "repository": "git@github.com:tabiya-tech/tabiya-esco-datasets-and-tools.git",
   "author": "Benisis, Apostolos <apostolos@benisis.de>",
   "license": "MIT",
+  "scripts": {
+    "prebuild:denormalized-occupation-skills": "rm -rf dist",
+    "build:denormalized-occupation-skills": "esbuild scripts/denormalized-occupation-skills/denormalize-occupation-skills.js scripts/denormalized-occupation-skills/test-cases/sample-input.csv datasets/tabiya/esco-v1.1.1/csv/occupation_skill_relations.csv datasets/tabiya/esco-v1.1.1/csv/occupations.csv datasets/tabiya/esco-v1.1.1/csv/skills.csv --minify --sourcemap --loader:.csv=copy --entry-names=[name] --asset-names=[name] --bundle --platform=node --outdir=dist",
+    "postbuild:denormalized-occupation-skills": "mkdir -p ./dist/esco-v1.1.1/ && mv ./dist/occupation_skill_relations.csv ./dist/occupations.csv ./dist/skills.csv ./dist/esco-v1.1.1/"
+  },
+  "": " ",
   "dependencies": {
+    "csv": "~6.3.1",
     "stream-transform": "~3.2.6",
-    "csv": "~6.3.1"
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "esbuild": "0.19.4"
   }
 }
