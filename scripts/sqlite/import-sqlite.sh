@@ -15,6 +15,7 @@ fi
 
 # Loop through CSV files in the directory
 for file in $CSV_DIRECTORY/*.csv; do
+    echo "Processing file: $file"
     # Get the table name from the filename (without the extension)
     table=$(basename "$file" .csv)
 

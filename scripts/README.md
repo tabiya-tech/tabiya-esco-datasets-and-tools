@@ -13,3 +13,5 @@ Also make sure to run `npm install` in the root project folder to install the re
 Contains the scripts used to import and export the ESCO classification system to and from a sqlite database.
 
 To run the scripts you need to have [sqlite](https://www.sqlite.org/index.html) installed.
+
+## [denormalized-occupation-skills](denormalized-occupation-skills)
