@@ -31,19 +31,19 @@ function parseArguments() {
     maxSkills: argv.maxSkills,
     pathToEscoFiles: argv.pathToEscoFiles,
     outputFilePath: argv.outputFilePath || path.join(parsedInputFilePath.dir, parsedInputFilePath.name + '.output.csv'),
+    essentialSkillsOnly: !!argv.essentialSkillsOnly
   }
 }
 
 function printHelp() {
   console.log('Usage: node denormalize-occupation-skills.js --inputFilePath [/path/to/input/file.csv] --maxSkills [number] --pathToEscoFiles [/path/to/esco/files]\n');
-  console.log('\n');
   console.log('Mandatory arguments:');
-  console.log('   --inputFilePath: Path to the input file');
+  console.log('   --inputFilePath: Path to the input file.');
   console.log('   --maxSkills: Maximum number of skills to include for each occupation.');
-  console.log('   --pathToEscoFiles: The folder with the esco files (occupations.csv, skills.csv, occupation_skill_relations.csv)');
-  console.log('\n');
+  console.log('   --pathToEscoFiles: The folder with the esco files (occupations.csv, skills.csv, occupation_skill_relations.csv).\n');
   console.log('Optional arguments:');
-  console.log('   --outputFilePath: Path to the output file. Default is [inputFilePath].output.csv');
+  console.log('   --outputFilePath: Path to the output file. Default is [inputFilePath].output.csv.');
+  console.log('   --essentialSkillsOnly: Specify whether to include only skills with relation type "essential" in the output.');
 }
 
 function shuffle(array) {
@@ -77,13 +77,16 @@ function getOccupationId(escoCode) {
   return null;
 }
 
-function getSkills(occupationId, maxSkills) {
+function getSkills(occupationId, maxSkills, essentialSkillsOnly) {
   const skills = Array(maxSkills).fill("");
   if (occupationId === null) {
     return skills;
   }
 
-  const skillsIds = shuffle(global_relations.filter(relation => relation['OCCUPATIONID'] === occupationId).map(relation => relation['SKILLID']));
+  const filterFnCallback = (relation) => {
+    return relation['OCCUPATIONID'] === occupationId && (relation['RELATIONTYPE'] === 'essential' || !essentialSkillsOnly);
+  };
+  const skillsIds = shuffle(global_relations.filter(filterFnCallback).map(relation => relation['SKILLID']));
 
   for (let i = 0; i < skillsIds.length && i < skills.length; i++) {
     const skill = global_allSkills.find(skill => skill['ID'] === skillsIds[i]);
@@ -100,6 +103,8 @@ function getSkills(occupationId, maxSkills) {
 // Get the arguments
 const args = parseArguments();
 
+console.log('Running the script with the following arguments:');
+console.log(args);
 // Load the esco data
 const global_allOccupations = getRecords(args.pathToEscoFiles + '/occupations.csv');
 const global_allSkills = getRecords(args.pathToEscoFiles + '/skills.csv');
@@ -118,7 +123,7 @@ inputRecords.forEach(record => {
     const escoCode = record[escoCodeKey];
     const occupationId = getOccupationId(escoCode);
     // Get the skills for each occupation
-    const skills = getSkills(occupationId, args.maxSkills);
+    const skills = getSkills(occupationId, args.maxSkills, args.essentialSkillsOnly);
     // Write the skills to the output record
     skills.forEach((skill, index) => {
       const skillKey = escoCodeKey + '_skill_' + (index + 1);
