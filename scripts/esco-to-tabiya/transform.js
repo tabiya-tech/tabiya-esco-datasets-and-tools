@@ -200,6 +200,7 @@ function SkillsHierarchyRecordTransformer(record) {
 function OccupationsSkillsRelationsRecordTransformer(record) {
   const occupationID = getUUIDFromConceptUri(record['occupationUri'])
   const skillID = getUUIDFromConceptUri(record['skillUri'])
+  const occupationType = record['occupationType'] || "esco";
 
   if (!occupationID) {
     console.warn("Occupation-To-Skill Relations: OccupationUri is not known: " + JSON.stringify(record))
@@ -217,9 +218,10 @@ function OccupationsSkillsRelationsRecordTransformer(record) {
   }
 
   return {
+    OCCUPATIONTYPE: occupationType,
     OCCUPATIONID: occupationID,
     RELATIONTYPE: record['relationType'],
-    SKILLID: skillID,
+    SKILLID: skillID
   }
 }
 
