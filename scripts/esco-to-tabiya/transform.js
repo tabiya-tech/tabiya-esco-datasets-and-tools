@@ -104,6 +104,7 @@ function OccupationsRecordTransformer(record) {
     DEFINITION: record['definition'],
     SCOPENOTE: record['scopeNote'],
     REGULATEDPROFESSIONNOTE: record['regulatedProfessionNote'],
+    OCCUPATIONTYPE: "ESCO"
   }
 }
 
@@ -254,100 +255,100 @@ function SkillsSkillsRelationsRecordTransformer(record) {
 function exportCompleteData(source_classification_folder, source_relations_folder, target_folder, stats) {
 
   stats.ISCOGroups = processData(
-    source_classification_folder + 'ISCOGroups_en.csv',
-    target_folder + 'ISCOGroups.csv',
-    ISCOGroupsRecordTransformer
+      source_classification_folder + 'ISCOGroups_en.csv',
+      target_folder + 'ISCOGroups.csv',
+      ISCOGroupsRecordTransformer
   );
 
   stats.SkillGroups = processData(
-    source_classification_folder + 'skillGroups_en.csv',
-    target_folder + 'skillGroups.csv',
-    SkillGroupsRecordTransformer
+      source_classification_folder + 'skillGroups_en.csv',
+      target_folder + 'skillGroups.csv',
+      SkillGroupsRecordTransformer
   );
 
   stats.Skills = processData(
-    source_classification_folder + 'skills_en.csv',
-    target_folder + 'skills.csv',
-    SkillsRecordTransformer
+      source_classification_folder + 'skills_en.csv',
+      target_folder + 'skills.csv',
+      SkillsRecordTransformer
   );
 
   stats.Occupations = processData(
-    source_classification_folder + 'occupations_en.csv',
-    target_folder + 'occupations.csv',
-    OccupationsRecordTransformer
+      source_classification_folder + 'occupations_en.csv',
+      target_folder + 'occupations.csv',
+      OccupationsRecordTransformer
   );
 
   stats.OccupationsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsOccPillar.csv',
-    target_folder + 'occupations_hierarchy.csv',
-    OccupationsHierarchyRecordTransformer
+      source_relations_folder + 'broaderRelationsOccPillar.csv',
+      target_folder + 'occupations_hierarchy.csv',
+      OccupationsHierarchyRecordTransformer
   );
 
   stats.SkillsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsSkillPillar.csv',
-    target_folder + 'skills_hierarchy.csv',
-    SkillsHierarchyRecordTransformer
+      source_relations_folder + 'broaderRelationsSkillPillar.csv',
+      target_folder + 'skills_hierarchy.csv',
+      SkillsHierarchyRecordTransformer
   );
 
   stats.OccupationSkillRelations = processData(
-    source_relations_folder + 'occupationSkillRelations.csv',
-    target_folder + 'occupation_skill_relations.csv',
-    OccupationsSkillsRelationsRecordTransformer
+      source_relations_folder + 'occupationSkillRelations.csv',
+      target_folder + 'occupation_skill_relations.csv',
+      OccupationsSkillsRelationsRecordTransformer
   );
 
   stats.SkillSkillRelations = processData(
-    source_relations_folder + 'skillSkillRelations.csv',
-    target_folder + 'skill_skill_relations.csv',
-    SkillsSkillsRelationsRecordTransformer
+      source_relations_folder + 'skillSkillRelations.csv',
+      target_folder + 'skill_skill_relations.csv',
+      SkillsSkillsRelationsRecordTransformer
   );
 }
 
 function exportSampleData(source_classification_folder, source_relations_folder, target_folder, stats) {
   stats.ISCOGroups = processData(
-    source_classification_folder + 'ISCOGroups_en.csv',
-    target_folder + 'ISCOGroups.csv',
-    ISCOGroupsRecordTransformer
+      source_classification_folder + 'ISCOGroups_en.csv',
+      target_folder + 'ISCOGroups.csv',
+      ISCOGroupsRecordTransformer
   );
 
   stats.SkillGroups = processData(
-    source_classification_folder + 'skillGroups_en.csv',
-    target_folder + 'skillGroups.csv',
-    SkillGroupsRecordTransformer
+      source_classification_folder + 'skillGroups_en.csv',
+      target_folder + 'skillGroups.csv',
+      SkillGroupsRecordTransformer
   );
 
   stats.Skills = processData(
-    source_classification_folder + 'skills_en.csv',
-    target_folder + 'skills.csv',
-    SkillsRecordTransformer, 1000
+      source_classification_folder + 'skills_en.csv',
+      target_folder + 'skills.csv',
+      SkillsRecordTransformer, 1000
   );
 
   stats.Occupations = processData(
-    source_classification_folder + 'occupations_en.csv',
-    target_folder + 'occupations.csv',
-    OccupationsRecordTransformer
+      source_classification_folder + 'occupations_en.csv',
+      target_folder + 'occupations.csv',
+      OccupationsRecordTransformer
   );
 
   stats.OccupationsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsOccPillar.csv',
-    target_folder + 'occupations_hierarchy.csv',
-    OccupationsHierarchyRecordTransformer
+      source_relations_folder + 'broaderRelationsOccPillar.csv',
+      target_folder + 'occupations_hierarchy.csv',
+      OccupationsHierarchyRecordTransformer
   );
 
   stats.SkillsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsSkillPillar.csv',
-    target_folder + 'skills_hierarchy.csv',
-    SkillsHierarchyRecordTransformer
+      source_relations_folder + 'broaderRelationsSkillPillar.csv',
+      target_folder + 'skills_hierarchy.csv',
+      SkillsHierarchyRecordTransformer
   );
   stats.OccupationSkillRelations = processData(
-    source_relations_folder + 'occupationSkillRelations.csv',
-    target_folder + 'occupation_skill_relations.csv',
-    OccupationsSkillsRelationsRecordTransformer
+      source_relations_folder + 'occupationSkillRelations.csv',
+      target_folder + 'occupation_skill_relations.csv',
+      OccupationsSkillsRelationsRecordTransformer
   );
 
   stats.SkillSkillRelations = processData(
-    source_relations_folder + 'skillSkillRelations.csv',
-    target_folder + 'skill_skill_relations.csv',
-    SkillsSkillsRelationsRecordTransformer
+      source_relations_folder + 'skillSkillRelations.csv',
+      target_folder + 'skill_skill_relations.csv',
+      SkillsSkillsRelationsRecordTransformer
   );
 }
 
@@ -397,9 +398,9 @@ let stats = {
 }
 
 exportCompleteData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/esco-v1.1.1/csv/', stats);
+    'datasets/esco/v1.1.1/classification/en/csv/',
+    'datasets/esco/v1.1.1/relations/csv/',
+    'datasets/tabiya/esco-v1.1.1/csv/', stats);
 console.info("Transformed data: " + 'datasets/tabiya/esco-v1.1.1/csv/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
 
 
@@ -421,10 +422,10 @@ stats = {
 }
 
 exportSampleData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/samples/esco-v1.1.1/',
-  stats
+    'datasets/esco/v1.1.1/classification/en/csv/',
+    'datasets/esco/v1.1.1/relations/csv/',
+    'datasets/tabiya/samples/esco-v1.1.1/',
+    stats
 );
 
 console.info("Transformed data: " + 'datasets/tabiya/samples/esco-v1.1.1/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
