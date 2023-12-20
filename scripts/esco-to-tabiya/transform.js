@@ -5,6 +5,7 @@ const fs = require('fs');
 const {transform} = require("csv/sync");
 const {parse} = require('csv/sync');
 const {stringify} = require('csv/sync');
+const {randomUUID} = require('crypto');
 const conceptUriToUUIDMapper = new Map()
 
 const TabiyaObjectType = {
@@ -51,8 +52,7 @@ function ISCOGroupsRecordTransformer(record) {
   return {
     ESCOURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
-    UUID: "",
-    ORIGINUUID: "",
+    UUIDHISTORY: randomUUID(),
     CODE: record['code'],
     PREFERREDLABEL: record['preferredLabel'],
     ALTLABELS: record['altLabels'],
@@ -64,8 +64,7 @@ function SkillGroupsRecordTransformer(record) {
   return {
     ESCOURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
-    UUID: "",
-    ORIGINUUID: "",
+    UUIDHISTORY: randomUUID(),
     CODE: record['code'],
     PREFERREDLABEL: record['preferredLabel'],
     ALTLABELS: record['altLabels'],
@@ -78,8 +77,7 @@ function SkillsRecordTransformer(record) {
   return {
     ESCOURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
-    UUID: "",
-    ORIGINUUID: "",
+    UUIDHISTORY: randomUUID(),
     SKILLTYPE: record['skillType'],
     REUSELEVEL: record['reuseLevel'],
     PREFERREDLABEL: record['preferredLabel'],
@@ -94,8 +92,7 @@ function OccupationsRecordTransformer(record) {
   return {
     ESCOURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
-    UUID: "",
-    ORIGINUUID: "",
+    UUIDHISTORY: randomUUID(),
     ISCOGROUPCODE: record['iscoGroup'],
     CODE: record['code'],
     PREFERREDLABEL: record['preferredLabel'],
@@ -104,6 +101,7 @@ function OccupationsRecordTransformer(record) {
     DEFINITION: record['definition'],
     SCOPENOTE: record['scopeNote'],
     REGULATEDPROFESSIONNOTE: record['regulatedProfessionNote'],
+    OCCUPATIONTYPE: "ESCO"
   }
 }
 
@@ -200,7 +198,7 @@ function SkillsHierarchyRecordTransformer(record) {
 function OccupationsSkillsRelationsRecordTransformer(record) {
   const occupationID = getUUIDFromConceptUri(record['occupationUri'])
   const skillID = getUUIDFromConceptUri(record['skillUri'])
-  const occupationType = record['occupationType'] || "esco";
+  const occupationType = record['occupationType'] || "ESCO";
 
   if (!occupationID) {
     console.warn("Occupation-To-Skill Relations: OccupationUri is not known: " + JSON.stringify(record))
@@ -359,7 +357,7 @@ function exportSampleData(source_classification_folder, source_relations_folder,
 
 // send console output to file
 let util = require('util');
-let log_file = fs.createWriteStream(__dirname + '/debug.log', {flags : 'w'});
+let log_file = fs.createWriteStream(__dirname + '/debug.log', {flags: 'w'});
 //let log_stdout = process.stdout;
 
 const error_stats = {
@@ -367,19 +365,19 @@ const error_stats = {
   errors: 0,
 }
 
-console.warn = function(d) { //
+console.warn = function (d) { //
   log_file.write(util.format(d) + '\n');
   error_stats.warnings++;
   //log_stdout.write(util.format(d) + '\n');
 };
 
-console.error = function(d) { //
+console.error = function (d) { //
   log_file.write(util.format(d) + '\n');
   error_stats.errors++;
   //log_stdout.write(util.format(d) + '\n');
 };
 
-console.debug = function(d) { //
+console.debug = function (d) { //
   log_file.write(util.format(d) + '\n');
   //log_stdout.write(util.format(d) + '\n');
 };
