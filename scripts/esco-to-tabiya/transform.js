@@ -1,5 +1,12 @@
 #!/usr/bin/env node
 
+/*
+  This is a script to transform the ESCO data into the Tabiya format to generate the first
+  version of the tabiya esco csv files. It is only intended for one time use,
+  as once the base data is generated, the UUIDs should not change. If you need to regenerate
+  the data (for example, in order to update the structure), you should use a different script
+  that will not recreate the UUIDs, and instead mutates the csv files in place.
+ */
 //--------------------------------------------------------------------------
 const fs = require('fs');
 const {transform} = require("csv/sync");
