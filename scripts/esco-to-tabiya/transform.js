@@ -50,7 +50,7 @@ function getUUIDFromConceptUri(conceptUri) {
 
 function ISCOGroupsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     CODE: record['code'],
@@ -62,7 +62,7 @@ function ISCOGroupsRecordTransformer(record) {
 
 function SkillGroupsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     CODE: record['code'],
@@ -75,7 +75,7 @@ function SkillGroupsRecordTransformer(record) {
 
 function SkillsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     SKILLTYPE: record['skillType'],
@@ -90,7 +90,7 @@ function SkillsRecordTransformer(record) {
 
 function OccupationsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     ISCOGROUPCODE: record['iscoGroup'],
@@ -395,9 +395,9 @@ let stats = {
 }
 
 exportCompleteData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/esco-v1.1.1/csv/', stats);
+  '../../datasets/esco/v1.1.1/classification/en/csv/',
+  '../../datasets/esco/v1.1.1/relations/csv/',
+  '../../datasets/tabiya/esco-v1.1.1/csv/', stats);
 console.info("Transformed data: " + 'datasets/tabiya/esco-v1.1.1/csv/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
 
 
@@ -419,9 +419,9 @@ stats = {
 }
 
 exportSampleData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/samples/esco-v1.1.1/',
+  '../../datasets/esco/v1.1.1/classification/en/csv/',
+  '../../datasets/esco/v1.1.1/relations/csv/',
+  '../../datasets/tabiya/samples/esco-v1.1.1/',
   stats
 );
 
