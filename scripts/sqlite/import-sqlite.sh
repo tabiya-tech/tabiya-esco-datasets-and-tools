@@ -3,10 +3,10 @@
 SQLITE_BIN=./bin/sqlite3
 
 # Path to SQLite database file
-DATABASE="datasets/esco/v1.1.1/classification/en/sql/database.db"
+DATABASE="datasets/tabiya/esco-v1.1.1/sql/database.db"
 
 # Path to directory containing CSV files
-CSV_DIRECTORY="datasets/esco/v1.1.1/classification/en/csv"
+CSV_DIRECTORY="../../datasets/tabiya/esco-v1.1.1/csv"
 
 # Create the SQLite database file if it doesn't exist
 if [[ ! -e $DATABASE ]]; then

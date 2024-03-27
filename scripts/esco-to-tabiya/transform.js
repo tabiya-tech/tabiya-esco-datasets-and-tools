@@ -1,5 +1,12 @@
 #!/usr/bin/env node
 
+/*
+  This is a script to transform the ESCO data into the Tabiya format to generate the first
+  version of the tabiya esco csv files. It is only intended for one time use,
+  as once the base data is generated, the UUIDs should not change. If you need to regenerate
+  the data (for example, in order to update the structure), you should use a different script
+  that will not recreate the UUIDs, and instead mutates the csv files in place.
+ */
 //--------------------------------------------------------------------------
 const fs = require('fs');
 const {transform} = require("csv/sync");
@@ -50,7 +57,7 @@ function getUUIDFromConceptUri(conceptUri) {
 
 function ISCOGroupsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     CODE: record['code'],
@@ -62,7 +69,7 @@ function ISCOGroupsRecordTransformer(record) {
 
 function SkillGroupsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     CODE: record['code'],
@@ -75,7 +82,7 @@ function SkillGroupsRecordTransformer(record) {
 
 function SkillsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     SKILLTYPE: record['skillType'],
@@ -90,7 +97,7 @@ function SkillsRecordTransformer(record) {
 
 function OccupationsRecordTransformer(record) {
   return {
-    ESCOURI: record['conceptUri'],
+    ORIGINURI: record['conceptUri'],
     ID: addConceptUriToMap(record['conceptUri']),
     UUIDHISTORY: randomUUID(),
     ISCOGROUPCODE: record['iscoGroup'],
@@ -395,9 +402,9 @@ let stats = {
 }
 
 exportCompleteData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/esco-v1.1.1/csv/', stats);
+  '../../datasets/esco/v1.1.1/classification/en/csv/',
+  '../../datasets/esco/v1.1.1/relations/csv/',
+  '../../datasets/tabiya/esco-v1.1.1/csv/', stats);
 console.info("Transformed data: " + 'datasets/tabiya/esco-v1.1.1/csv/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
 
 
@@ -419,9 +426,9 @@ stats = {
 }
 
 exportSampleData(
-  'datasets/esco/v1.1.1/classification/en/csv/',
-  'datasets/esco/v1.1.1/relations/csv/',
-  'datasets/tabiya/samples/esco-v1.1.1/',
+  '../../datasets/esco/v1.1.1/classification/en/csv/',
+  '../../datasets/esco/v1.1.1/relations/csv/',
+  '../../datasets/tabiya/samples/esco-v1.1.1/',
   stats
 );
 
