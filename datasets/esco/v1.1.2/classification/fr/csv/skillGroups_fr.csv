@@ -1,0 +1,1561 @@
+conceptType,conceptUri,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,scopeNote,inScheme,description,code
+SkillGroup,http://data.europa.eu/esco/isced-f/00,programmes et certifications génériques,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/000,programmes et certifications génériques non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0000,programmes et certifications génériques non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/001,programmes et certifications de base,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0011,programmes et certifications de base,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/002,compétences en lecture et en calcul,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0021,alphabétisation et apprentissage du calcul,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/003,compétences personnelles,,,released,2021-08-30T14:40:52.642Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0031,compétences et développement personnels,,,released,2021-08-30T14:39:42.497Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/009,programmes et certifications génériques non classé ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0099,programmes et certifications génériques non classé ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/01,éducation,,,released,2022-01-13T14:57:09.082Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/011,éducation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0110,éducation non définie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0111,sciences de l’éducation,,,released,2021-03-31T13:40:54.827Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0112,formation des enseignants au niveau préscolaire,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0113,formation des enseignants sans spécialisation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0114,formation des enseignants avec spécialisation,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0119,éducation non classée ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/018,programmes interdisciplinaires et certifications impliquant l'éducation,,,released,2022-01-13T14:49:36.928Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0188,programmes interdisciplinaires et certifications impliquant l'éducation,,,released,2022-01-13T14:56:35.789Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/02,lettres et arts,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/020,lettres et arts non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0200,lettres et arts non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/021,arts,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0210,arts non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0211,techniques audiovisuelles et production multimédia,,,released,2020-12-09T11:26:29.522Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0212,"stylisme, décoration et design industriel",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0213,beaux-arts,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0214,artisanat,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0215,"musique, théâtre, danse, cirque",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0219,arts non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/022,lettres (à l’exception des langues),,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0220,lettres (à l’exception des langues) non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0221,religion et théologie,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0222,histoire et archéologie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0223,philosophie et morale,,,released,2020-12-07T10:26:05.246Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0228,programmes interdisciplinaires et certifications impliquant les lettres,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0229,lettres (à l’exception des langues) non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/023,langues,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0230,langues non définies,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0231,acquisition d’une langue,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0232,littérature et linguistique,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0239,langues non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/028,programmes interdisciplinaires et certifications impliquant les arts et les lettres,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0288,programmes interdisciplinaires et certifications impliquant les arts et les lettres,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/029,arts et lettres non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0299,arts et lettres non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/03,"sciences sociales, journalisme et information",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/030,"sciences sociales, journalisme et information non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0300,"sciences sociales, journalisme et information non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/031,sciences sociales et du comportement,,,released,2021-08-30T15:15:39.32Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0310,sciences sociales et du comportement non définies,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0311,économie,,,released,2020-12-11T09:35:38.933Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0312,sciences politiques et éducation civique,,,released,2021-07-30T14:05:56.438Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0313,psychologie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0314,sociologie et études culturelles,,,released,2020-12-04T13:31:07.399Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0319,sciences sociales et du comportement non classés ailleurs,,,released,2021-08-30T15:15:21.651Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/032,journalisme et information,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0320,journalisme et information non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0321,journalism and reporting,,,released,2020-12-04T16:47:24.347Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0322,"library, information and archival studies",,,released,2020-12-09T20:47:53.146Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0329,journalisme et information non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/038,"programmes interdisciplinaires et certifications impliquant les sciences sociales, le journalisme et l'information",,,released,2022-01-13T15:21:50.681Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0388,"programmes interdisciplinaires et certifications impliquant les sciences sociales, le journalisme et l'information",,,released,2022-01-13T15:21:22.245Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/039,"sciences sociales, journalisme et information non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0399,"sciences sociales, journalisme et information non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/04,"commerce, administration et droit",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/040,"commerce, administration et droit non définis",,,released,2020-12-10T13:24:05.932Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0400,"commerce, administration et droit non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/041,commerce et administration,,,released,2021-04-14T08:10:44.581Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0410,commerce et administration non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0411,comptabilité et fiscalité,,,released,2020-12-07T21:14:41.501Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0412,"finance, banque et assurances",,,released,2020-12-08T21:23:38.087Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0413,gestion et administration,,,released,2021-10-04T20:15:29.324Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0414,marketing et publicité,,,released,2020-12-07T11:35:12.431Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0415,travail de secrétariat et de bureau,,,released,2021-04-14T10:07:44.809Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0416,vente en gros et au détail,,,released,2021-04-14T10:07:32.576Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0417,compétences professionnelles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0419,commerce et administration non classés ailleurs,,,released,2022-06-07T12:48:05.343Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/042,droit,,,released,2021-07-30T13:52:25.257Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0421,droit,,,released,2021-07-30T14:04:16.202Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/048,"programmes interdisciplinaires et certifications impliquant le commerce, l'administration et le droit",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0488,"programmes interdisciplinaires et certifications impliquant le commerce, l'administration et le droit",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/049,"commerce, administration et droit non classés ailleurs",,,released,2022-06-07T12:45:17.113Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0499,"commerce, administration et droit non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/05,"sciences naturelles, mathématiques et statistiques",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/050,"sciences naturelles, mathématiques et statistiques non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0500,"sciences naturelles, mathématiques et statistiques non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/051,sciences biologiques et apparentées,,,released,2021-07-30T14:01:15.618Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0510,sciences biologiques et apparentées non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0511,biologie,,,released,2020-12-10T09:03:13.029Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0512,biochimie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0519,sciences biologiques et apparentées non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/052,environnement,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0520,environnement non défini,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0521,sciences environnementales,,,released,2021-07-30T14:06:04.663Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0522,environnements naturels et faune et flore,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0529,environnement non classé ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/053,sciences physiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0530,sciences physiques non définies,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0531,chimie,,,released,2021-07-30T14:03:14.166Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0532,sciences de la terre,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0533,physique,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0539,sciences physiques non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/054,mathématiques et statistiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0540,mathématiques et statistiques non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0541,mathématiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0542,statistiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/058,"programmes interdisciplinaires et certifications impliquant les sciences naturelles, mathématiques et statistiques",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0588,"programmes interdisciplinaires et certifications impliquant les sciences naturelles, mathématiques et statistiques",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/059,"sciences naturelles, mathématiques et statistiques non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0599,"sciences naturelles, mathématiques et statistiques non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/06,technologies de l’information et de la communication (tic),,,released,2021-08-30T14:57:56.832Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/061,technologies de l’information et de la communication (tic),,,released,2021-08-30T14:53:01.939Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0610,technologies de l’information et de la communication (tic) non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0611,utilisation d’un ordinateur,,,released,2020-12-09T11:43:41.996Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0612,conception et administration de bases de données et de réseau,,,released,2021-04-14T10:20:03.249Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0613,développement et analyse de logiciels et d’applications,,,released,2021-04-06T14:39:29.928Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0619,technologies de l’information et de la communication (tic) non classés ailleurs,,,released,2021-08-30T14:57:47.87Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/068,programmes interdisciplinaires et certifications impliquant les technologies de l’information et de la communication (tic),,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0688,programmes interdisciplinaires et certifications impliquant les technologies de l’information et de la communication (tic),,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/07,"ingénierie, industries de transformation et construction",,,released,2022-01-13T15:06:40.148Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/070,"ingénierie, industries de transformation et construction non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0700,"ingénierie, industries de transformation et construction non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/071,ingénierie et techniques apparentées,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0710,ingénierie et techniques apparentées non définis,,,released,2020-12-10T13:33:16.212Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0711,ingénierie chimique et processus,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0712,technologie de la protection de l’environnement,,,released,2021-07-30T13:57:33.904Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0713,électricité et énergie,,,released,2021-04-14T10:14:59.189Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0714,électronique et automatisation,,,released,2020-12-10T13:41:26.68Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0715,mécanique et techniques apparentées,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0716,"véhicules à moteur, bateaux et aéronefs",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0719,ingénierie et techniques apparentées non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/072,industries de transformation et de traitement,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0720,industries de transformation et de traitement non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0721,traitement des aliments,,,released,2021-03-12T10:34:19.136Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0722,"matériaux (verre, papier, plastique et bois)",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0723,"textiles (vêtements, chaussures et cuir)",,,released,2020-12-07T15:19:56.923Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0724,exploitation minière et extraction,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0729,industries de transformation et de traitement non classés ailleurs,,,released,2022-01-13T15:06:17.576Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/073,architecture et bâtiment,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0730,architecture et bâtiment non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0731,architecture et urbanisme,,,released,2021-07-30T13:48:13.569Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0732,construction et génie civil,,,released,2021-07-30T13:53:51.456Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/078,"programmes interdisciplinaires et certifications impliquant l'ingénierie, les industries de transformation et la construction",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0788,"programmes interdisciplinaires et certifications impliquant l'ingénierie, les industries de transformation et la construction",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/079,"ingénierie, industries de transformation et construction non classés ailleurs",,,released,2022-01-13T15:04:52.225Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0799,"ingénierie, industries de transformation et construction non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/08,"agriculture, sylviculture et halieutique et sciences vétérinaires",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/080,"agriculture, sylviculture et halieutique et sciences vétérinaires non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0800,"agriculture, sylviculture et halieutique et sciences vétérinaires non définis",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/081,agriculture,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0810,agriculture non définie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0811,culture et élevage,,,released,2021-03-16T13:50:53.105Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0812,horticulture,,,released,2021-03-12T10:30:59.29Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0819,agriculture non classé ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/082,sylviculture,,,released,2021-04-14T08:04:24.58Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0821,sylviculture,,,released,2021-04-14T08:06:48.503Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/083,halieutique,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0831,halieutique,,,released,2021-03-16T13:50:37.609Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/084,sciences vétérinaires,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0841,sciences vétérinaires,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/088,"programmes interdisciplinaires et certifications impliquant l'agriculture, la sylviculture et l'halieutique et les sciences vétérinaires",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0888,"programmes interdisciplinaires et certifications impliquant l'agriculture, la sylviculture et l'halieutique et les sciences vétérinaires",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/089,"agriculture, sylviculture et halieutique et sciences vétérinaires non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0899,"agriculture, sylviculture et halieutique et sciences vétérinaires non classés ailleurs",,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/09,santé et protection sociales,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/090,santé et protection sociales non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0900,santé et protection sociales non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/091,santé,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0910,santé non définie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0911,études dentaires,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0912,médecine,,,released,2021-07-30T13:57:41.849Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0913,soins infirmiers et formation de sages-femmes,,,released,2021-09-20T12:26:36.821Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0914,diagnostic médical et technologie de traitement,,,released,2020-12-10T10:19:23.619Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0915,thérapie et rééducation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0916,pharmacie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0917,médecine et thérapies traditionnelles et complémentaires,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0919,santé non classée ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/092,protection sociale,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0920,protection sociale non définie,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0921,soins gérontologiques et aux adultes handicapés,,,released,2021-10-04T20:14:30.53Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0922,soins aux enfants et à la jeunesse,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0923,travail social et orientation,,,released,2021-07-30T13:54:08.502Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0929,protection sociale non classée ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/098,programmes interdisciplinaires et certifications impliquant la santé et la protection sociales,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0988,programmes interdisciplinaires et certifications impliquant la santé et la protection sociales,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/099,santé et protection sociales non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/0999,santé et protection sociales non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/10,services,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/100,services non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1000,services non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/101,services aux particuliers,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1010,services aux particuliers non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1011,services domestiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1012,services de soins de beauté et de coiffure,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1013,hôtellerie et services de restauration,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1014,sports,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1015,"voyage, tourisme et loisirs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1019,services aux particuliers non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/102,hygiène et services de santé au travail,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1020,hygiène et services de santé au travail non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1021,salubrité publique,,,released,2020-12-07T11:59:16.586Z,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1022,santé et sécurité au travail,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1029,hygiène et services de santé au travail non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/103,services de sûreté,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1030,services de sûreté non définis,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1031,sécurité militaire et défense,,,released,2020-12-10T13:06:54.77Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1032,protection des biens et des personnes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1039,services de sûreté non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/104,services de transport,,,released,2021-08-30T15:04:37.69Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1041,services de transport,,,released,2021-08-30T15:03:22.252Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/108,programmes interdisciplinaires et certifications impliquant les services,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1088,programmes interdisciplinaires et certifications impliquant les services,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/109,services non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,
+SkillGroup,http://data.europa.eu/esco/isced-f/1099,services non classés ailleurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/isced-f/99,domaine inconnu,,,released,2021-03-12T11:44:36.574Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/999,domaine inconnu,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f
+http://data.europa.eu/esco/concept-scheme/skills",,
+SkillGroup,http://data.europa.eu/esco/isced-f/9999,domaine inconnu,,,released,2022-01-12T20:03:01.494Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/isced-f",,
+SkillGroup,http://data.europa.eu/esco/skill/00d5d1d2-c521-4c58-9df5-2939c0ce9adb,accompagner et accueillir des personnes,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.4.2
+SkillGroup,http://data.europa.eu/esco/skill/0101f8a4-4243-4e67-813b-3e2a6274f7e2,suivre l’évolution dans un domaine d’expertise,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.9
+SkillGroup,http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,aptitudes et compétences liées à la gestion de soi,,,released,2021-08-30T08:11:14.03Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Aptitudes et compétences exigeant des individus qu’ils comprennent et contrôlent leurs propres capacités et limites et utilisent cette conscience de soi pour gérer des activités dans divers contextes. Il s’agit notamment de la capacité d’agir de manière réfléchie et responsable, d’accepter les critiques, de s’adapter au changement et de saisir les possibilités de développement personnel et professionnel.
+  ",T3
+SkillGroup,http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installer, entretenir et réparer des équipements mécaniques",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.7
+SkillGroup,http://data.europa.eu/esco/skill/036afa6e-cdde-4b38-a53a-8e7910a840e1,collaborer au sein d’équipes et de réseaux,,,released,2021-09-14T07:57:53.667Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Soutenir ou former un groupe pour œuvrer à la réalisation d’un objectif commun d’une manière qui témoigne de la compréhension et du respect des fonctions et des compétences des autres.
+  ",T4.3
+SkillGroup,http://data.europa.eu/esco/skill/03961960-e729-4768-ab0a-49886132f17a,utiliser des langues étrangères,,,released,2021-04-14T10:04:10.228Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.15.1
+SkillGroup,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,manipuler et déplacer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6
+SkillGroup,http://data.europa.eu/esco/skill/03efa398-a1cc-4589-9c10-84bf10f8d42d,"installer, entretenir et réparer des équipements mécaniques",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.7.0
+SkillGroup,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protéger et mettre en œuvre,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3
+SkillGroup,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,aptitudes et compétences transversales,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,T
+SkillGroup,http://data.europa.eu/esco/skill/062a9fde-cd91-44f9-9a2f-9e2bc3b281fd,prodiguer des conseils relatifs à des questions environnementales,,,released,2020-12-08T19:34:13.541Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.5.5
+SkillGroup,http://data.europa.eu/esco/skill/06769591-b8cf-46b2-b1d3-6602b1cf440e,exploiter des machines de traitement du bois et de fabrication de papier,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4.6
+SkillGroup,http://data.europa.eu/esco/skill/06fdd94c-292d-49e3-9c78-bbcbc2088232,tenir des registres opérationnels,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.2.5
+SkillGroup,http://data.europa.eu/esco/skill/0779d482-4154-4fbb-9a22-d9fd89c39d67,"organiser, planifier et programmer des travaux et activités",,,released,2020-12-11T09:16:01.788Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.2.0
+SkillGroup,http://data.europa.eu/esco/skill/07f47dea-587c-40c0-990a-6c092cc3e6a4,s’entretenir avec des personnes pour connaître leurs opinions,,,released,2021-09-20T14:03:31.797Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.7.1
+SkillGroup,http://data.europa.eu/esco/skill/08104c27-d4b2-4d40-ae97-dde65e71712f,prodiguer des conseils relatifs à la santé et la sécurité,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.9
+SkillGroup,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,concevoir des systèmes et des produits,,,released,2020-12-09T12:10:09.688Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.11
+SkillGroup,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,compétences en matière d’information,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2
+SkillGroup,http://data.europa.eu/esco/skill/0a400212-8693-4b1f-b0ca-d1f82c321916,fournir une assistance médicale ou des traitements médicaux,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.2.0
+SkillGroup,http://data.europa.eu/esco/skill/0a4c5823-8b09-4e6b-95b4-8036ef3b9c4c,défendre des besoins individuels ou collectifs,,,released,2022-06-19T12:25:44.633Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.2.4
+SkillGroup,http://data.europa.eu/esco/skill/0a88a13f-693a-4dde-b44c-22e6f98fabc6,exploiter des équipements de communication,,,released,2021-09-16T16:37:34.751Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6.4
+SkillGroup,http://data.europa.eu/esco/skill/0ac31705-79ff-4409-a818-c9d0a6388e84,apporter des conseils,,,released,2020-12-04T16:35:28.167Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.1.0
+SkillGroup,http://data.europa.eu/esco/skill/0b3930a2-8a13-4932-8a09-4c72ec8af464,contrôler la qualité des marchandises,,,released,2022-06-21T15:02:59.368Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.8.10
+SkillGroup,http://data.europa.eu/esco/skill/0b8d15c9-7b4f-4163-b863-fe5b756d3e7f,réparer et installer des équipements mécaniques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.7.1
+SkillGroup,http://data.europa.eu/esco/skill/0b9968af-72de-470a-98e1-2d19577443fb,résoudre des problèmes informatiques,,,released,2021-09-16T17:48:22.348Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.2.3
+SkillGroup,http://data.europa.eu/esco/skill/0c92c33c-2859-4705-87ae-4fdd71d0f8f6,utiliser plus d’une langue,,,released,2021-04-15T08:19:35.605Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.15.0
+SkillGroup,http://data.europa.eu/esco/skill/0d80a782-99ff-4f49-abbe-c72524c6f390,négocier et gérer contrats et conventions,,,released,2020-12-11T13:14:15.065Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.1.1
+SkillGroup,http://data.europa.eu/esco/skill/0e0a44a8-654c-4e85-986a-fb4386114838,contrôler la sûreté ou la sécurité,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.4
+SkillGroup,http://data.europa.eu/esco/skill/0edd863d-b02d-4714-a1a2-835d6dd23c55,installer des matériaux d’isolation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.2.3
+SkillGroup,http://data.europa.eu/esco/skill/0f804e14-001d-4ec0-b3f7-eb6a23ad43cb,négocier,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.1.0
+SkillGroup,http://data.europa.eu/esco/skill/0f8f9438-8529-41b8-bb7a-4d91121e3192,fabriquer des schémas et des canevas,,,released,2020-12-07T14:54:09.56Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.6.2
+SkillGroup,http://data.europa.eu/esco/skill/1034004c-0347-4765-8794-b65d2c92b379,documenter et enregistrer des informations,,,released,2020-12-10T10:43:07.597Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.2.0
+SkillGroup,http://data.europa.eu/esco/skill/103af23e-d56c-47ab-b991-55c94dcdef50,conseiller et consulter,,,released,2021-12-17T12:56:40.76Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.0
+SkillGroup,http://data.europa.eu/esco/skill/1072f444-8a7d-41c1-aa6f-d536f20d94bf,faire de l’écriture artistique et créative,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.13.2
+SkillGroup,http://data.europa.eu/esco/skill/119a2f5c-3c3e-4b0d-9813-06a553c8860c,fournir une assistance générale aux personnes,,,released,2022-08-24T13:46:54.315Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.4.4
+SkillGroup,http://data.europa.eu/esco/skill/12022223-8c30-418a-8f83-658396c9fec2,aptitudes et compétences physiques et manuelles,,,released,2021-08-30T09:17:04.357Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Aptitudes et compétences liées à la capacité d’exécuter des tâches et des activités nécessitant de la dextérité manuelle, de l’agilité ou de la force physique. Il s’agit notamment d’effectuer des tâches et des activités dans des environnements exigeants ou dangereux nécessitant de l’endurance ou de la résistance. Ces tâches et activités peuvent être réalisées à la main, avec d’autres interventions physiques directes, ou à l’aide d’équipements, d’outils ou de technologies (tels que des appareils TIC, des machines, des outils d’artisanat ou des instruments de musique) qui nécessitent un guidage, l’exécution de mouvements ou l’application d’une force.
+  ",T5
+SkillGroup,http://data.europa.eu/esco/skill/13d301d0-98cb-414f-a8f9-a3f059228133,traiter des problèmes,,,released,2021-08-30T15:44:01.988Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Élaborer et mettre en œuvre des solutions aux problèmes pratiques, opérationnels ou conceptuels qui se posent lors de l’exécution de tâches, dans un large éventail de contextes.
+  ",T2.3
+SkillGroup,http://data.europa.eu/esco/skill/14c41899-0224-4cbc-bd8c-e946ada2da87,travailler de manière efficace,,,released,2021-08-30T16:07:41.362Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills","Atteindre les objectifs de manière indépendante et optimale sur le plan du temps, des efforts ou des coûts.
+  ",T3.1
+SkillGroup,http://data.europa.eu/esco/skill/151bd6ca-74be-47bb-9dab-9c7387114006,exploiter des machines de traitement et de finition des métaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4.2
+SkillGroup,http://data.europa.eu/esco/skill/15dfca7a-5dde-4199-bad3-c00600387258,manipuler et éliminer des déchets et des matières dangereuses,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.13
+SkillGroup,http://data.europa.eu/esco/skill/15fa3879-ac0e-46e6-ae36-609bae9c19c3,contrôler des activités opérationnelles,,,released,2021-01-20T14:32:12.736Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.2
+SkillGroup,http://data.europa.eu/esco/skill/164510d1-1216-4dc0-b9d1-a7f6af19e469,élaborer des plans d’intervention d’urgence,,,released,2020-12-08T12:02:22.719Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.1.7
+SkillGroup,http://data.europa.eu/esco/skill/173fbafb-d2e0-4b89-be1c-548b1cc47160,assister et soutenir des collaborateurs,,,released,2021-09-15T14:03:28.111Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.8.6
+SkillGroup,http://data.europa.eu/esco/skill/185c56ee-098f-46a1-af87-56337085da6f,protéger des dispositifs tic,,,released,2021-09-24T16:34:47.664Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.2.2
+SkillGroup,http://data.europa.eu/esco/skill/1893b4bc-0eb2-41de-96e3-9c8f1f1eac41,inspecter la sécurité et la qualité des denrées alimentaires,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.9
+SkillGroup,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,construire et réparer des structures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1
+SkillGroup,http://data.europa.eu/esco/skill/18f2a44e-28ef-4ae3-8ea2-347e33bd9a4b,exploiter des machines destinées à la fabrication de produits,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.0
+SkillGroup,http://data.europa.eu/esco/skill/190f64e1-b7b6-4c53-b20b-80f9215ef6ca,"diriger, superviser et coordonner des projets",,,released,2022-06-21T15:19:54.98Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.2.3
+SkillGroup,http://data.europa.eu/esco/skill/193af349-b20e-4277-94bf-b184e92b8d6a,gérer des budgets ou des finances,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.3.1
+SkillGroup,http://data.europa.eu/esco/skill/19990cb0-e9d5-41c7-9638-88700b47271e,exploiter des équipements de terrassement,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.1.1
+SkillGroup,http://data.europa.eu/esco/skill/1bb32451-7ca4-4fa2-a2c0-2083c426d76c,servir des aliments et des boissons,,,released,2021-09-30T13:22:07.41Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.5.2
+SkillGroup,http://data.europa.eu/esco/skill/1bc1cf2a-a7f6-4769-a13b-cc26a2214498,"préparer de la documentation relative aux contrats, aux demandes ou aux permis",,,released,2022-06-22T10:53:34.19Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.2.3
+SkillGroup,http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,déplacer et lever,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.2
+SkillGroup,http://data.europa.eu/esco/skill/1d4be2e3-ac64-426f-838d-1e7cb8600927,aptitudes à la gestion,,,released,2021-04-06T07:14:44.313Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.0.0
+SkillGroup,http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"fabriquer des moules, des moulages, des modèles et des motifs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.6
+SkillGroup,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"surveiller, inspecter et tester",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8
+SkillGroup,http://data.europa.eu/esco/skill/1f2950c0-ef1e-44b4-9a55-125ccd7b78af,analyser et évaluer des informations et des données,,,released,2022-06-19T11:47:35.83Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.7.0
+SkillGroup,http://data.europa.eu/esco/skill/20136935-e6a1-417b-81df-9b94d4c2c371,signaler des incidents et des défectuosités,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.2.7
+SkillGroup,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,exploiter des machines pour l’extraction et le traitement des matières premières,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4
+SkillGroup,http://data.europa.eu/esco/skill/2258cde2-a95b-4b2c-b105-59e84b0a364b,assurer la gestion et l’administration des ressources humaines,,,released,2022-06-22T14:05:20.877Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.3.2
+SkillGroup,http://data.europa.eu/esco/skill/22d15a65-7262-4a6d-b981-53671b95ad29,laver et entretenir des textiles et des vêtements,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.12.0
+SkillGroup,http://data.europa.eu/esco/skill/23cfb269-eec1-4011-8e57-c86203ce9fd7,fournir un retour d’information,,,released,2020-12-11T12:31:47.977Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.3
+SkillGroup,http://data.europa.eu/esco/skill/23d7bd85-d8d5-4455-b64d-3b0998f2425d,mesurer des dimensions et des propriétés connexes,,,released,2021-03-16T14:41:08.752Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.5.1
+SkillGroup,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,travailler avec des ordinateurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5
+SkillGroup,http://data.europa.eu/esco/skill/2486154b-e3fd-4938-8316-029f62afdcb9,assister et apporter des soins,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.0
+SkillGroup,http://data.europa.eu/esco/skill/24a39c1b-b8cc-4210-8b74-b388a90e8f59,joindre des pièces en recourant aux techniques de soudage ou de brasage,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.6
+SkillGroup,http://data.europa.eu/esco/skill/24aa32e7-5b7c-42fd-b045-11f0c3d9b6e3,mettre en place et protéger des systèmes informatiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.2.0
+SkillGroup,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,conseiller et consulter,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5
+SkillGroup,http://data.europa.eu/esco/skill/258fea29-09db-4918-8235-0d7d529cd31c,rechercher et filtrer des données numériques et les parcourir,,,released,2021-09-24T16:38:20.533Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.5.1
+SkillGroup,http://data.europa.eu/esco/skill/28d2ab6c-38a2-476e-85fe-7982fd242943,accéder à des données numériques et les analyser,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.5
+SkillGroup,http://data.europa.eu/esco/skill/29dcc31e-a8d6-4a62-b3c1-2de81e966e39,rassembler des informations à partir de sources physiques ou électroniques,,,released,2022-06-19T14:48:30.73Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.4.1
+SkillGroup,http://data.europa.eu/esco/skill/29fbde52-e525-4653-96d0-acd59ccb28d8,aider des personnes à accéder à des services,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.1.3
+SkillGroup,http://data.europa.eu/esco/skill/2ad2ee1c-afc9-402f-91ab-c9c0911b209d,fabriquer des instruments ou des bijoux de précision,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.1
+SkillGroup,http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,construire,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7
+SkillGroup,http://data.europa.eu/esco/skill/2b2c3254-7f6c-47e2-84f1-aece946fbfae,maintenir une attitude positive,,,released,2021-08-30T16:03:19.52Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills","Surmonter l’adversité, faire preuve de résilience et trouver des moyens de résoudre ou de gérer les effets des épreuves de la vie.
+  ",T3.3
+SkillGroup,http://data.europa.eu/esco/skill/2b6e15f5-dfa0-4e7c-9687-5665b07e56a4,protéger la vie privée et les données à caractère personnel,,,released,2021-09-16T16:19:43.358Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.6
+SkillGroup,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,exploiter des machines destinées à la fabrication de produits,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.5
+SkillGroup,http://data.europa.eu/esco/skill/2bf2c727-ee42-4fc5-a4d7-2cd62b880433,nettoyer,,,released,2021-08-06T10:25:31.866Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.11.0
+SkillGroup,http://data.europa.eu/esco/skill/2c7252b7-59b8-40eb-ac7c-17f78a94f7e7,installer une infrastructure intérieure ou extérieure,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.2.0
+SkillGroup,http://data.europa.eu/esco/skill/2d02d98c-20c4-4b46-bf44-e5f85a3f03ed,construire et développer des équipes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.6
+SkillGroup,http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,écrire et composer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.13
+SkillGroup,http://data.europa.eu/esco/skill/30b280e7-2468-440b-a78f-f1e7f515d60a,"positionner des matériaux, des outils ou de l’équipement",,,released,2022-08-02T10:51:49.029Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.2.4
+SkillGroup,http://data.europa.eu/esco/skill/31397e38-43b9-43ba-943f-192b834e6b54,obtenir des informations verbalement,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.7.0
+SkillGroup,http://data.europa.eu/esco/skill/316df5b7-31c4-4f4e-ae69-aad1b873b995,interpréter des documents et des schémas techniques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.1.3
+SkillGroup,http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,négocier,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.1
+SkillGroup,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenter et enregistrer des informations,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.2
+SkillGroup,http://data.europa.eu/esco/skill/32c017fd-28ab-4051-bf68-74de952c2f77,gérer des informations,,,released,2022-06-19T11:53:20.252Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.3.0
+SkillGroup,http://data.europa.eu/esco/skill/32c854c1-6f1f-4f1c-8e4c-368a68a10db3,élaborer des recettes ou des menus,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.11.3
+SkillGroup,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,aptitudes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S
+SkillGroup,http://data.europa.eu/esco/skill/335be43a-3267-400e-b5cb-c9e234dc7544,enseigner des matières universitaires ou professionnelles,,,released,2022-06-21T09:17:11.947Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.3.1
+SkillGroup,http://data.europa.eu/esco/skill/3374fb57-056f-49e0-9fc5-000465e13794,former aux procédures de sécurité,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.3.2
+SkillGroup,http://data.europa.eu/esco/skill/3399045f-8078-4066-8b46-475b49b260ab,travailler avec des appareils et applications numériques,,,released,2021-08-30T13:29:19.698Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Effectuer des tâches numériques simples telles que l’utilisation de matériel informatique déjà configuré, la recherche d’informations sur l’internet, l’utilisation de logiciels standard pour communiquer ou collaborer avec d’autres personnes ou créer et éditer des contenus simples, et la sélection de mesures standard de protection des appareils, des données à caractère personnel et de la vie privée dans les environnements numériques.
+  ",T1.3
+SkillGroup,http://data.europa.eu/esco/skill/34691a8a-ec8e-4eaa-b6e7-f4dbf144c644,prodiguer des conseils dans le domaine financier,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.5.2
+SkillGroup,http://data.europa.eu/esco/skill/347aa7ee-b640-41cc-ae7c-3c5eafda9fda,mesurer des propriétés physiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.5.0
+SkillGroup,http://data.europa.eu/esco/skill/35045957-e9e4-44b1-801a-9a49f6efaece,marquer des matériaux ou des objets pour leur identification,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.1.2
+SkillGroup,http://data.europa.eu/esco/skill/35dc2a23-cdc3-4291-930f-927ba2911949,assurer le respect de la législation,,,released,2022-06-21T15:52:14.949Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.7
+SkillGroup,http://data.europa.eu/esco/skill/36c9717b-e53a-4d16-b7df-b6555eff43f8,exploiter des véhicules nautiques à moteur,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.3.0
+SkillGroup,http://data.europa.eu/esco/skill/37272760-957a-4c34-b4f3-780ee285334d,"élaborer des plans financiers, commerciaux ou marketing",,,released,2020-12-07T11:46:34.47Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.1.2
+SkillGroup,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analyser et évaluer des informations et des données,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.7
+SkillGroup,http://data.europa.eu/esco/skill/37f2f637-1f54-4ea1-b677-5ca6cac24993,fabriquer des dispositifs médicaux et prothétiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.2
+SkillGroup,http://data.europa.eu/esco/skill/3926ec7d-64cd-4410-8283-493a1afdd57b,mettre à disposition des thérapies physiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.2.3
+SkillGroup,http://data.europa.eu/esco/skill/39499028-35bf-4d69-9275-fb98902ed88b,travailler avec des ordinateurs,,,released,2021-09-16T17:48:30.49Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.0.0
+SkillGroup,http://data.europa.eu/esco/skill/395e42b8-f637-4e7e-96d8-9c1976c05d92,réaliser des activités artistiques ou culturelles,,,released,2022-06-22T10:50:09.473Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.14.2
+SkillGroup,http://data.europa.eu/esco/skill/39d83364-c86f-4942-96d1-e5df582face9,"exploiter des équipements de formage des métaux, des matières plastiques ou du caoutchouc",,,released,2021-01-21T14:40:09.665Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.7
+SkillGroup,http://data.europa.eu/esco/skill/39fa260c-4f85-48e3-83ce-e292e696c233,concevoir des systèmes ou équipements électriques ou électroniques,,,released,2020-12-09T10:43:42.257Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.11.2
+SkillGroup,http://data.europa.eu/esco/skill/3afcf547-cefc-493a-8abb-aaa8b7088e4f,"chasser, piéger et abattre des animaux",,,released,2021-09-15T09:04:46.824Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.9.4
+SkillGroup,http://data.europa.eu/esco/skill/3b86c15f-3f66-4e50-abf5-544f2a942a0b,nettoyer des espaces extérieurs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.11.3
+SkillGroup,http://data.europa.eu/esco/skill/3bf93195-5239-4f73-94a6-349be598d462,donner des spectacles et divertir,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.14.0
+SkillGroup,http://data.europa.eu/esco/skill/3d54fec5-d9cb-45a0-bf8d-ffaf3790a5bb,mettre en application des aptitudes et des compétences liées à la santé,,,released,2021-09-13T12:45:19.726Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Apporter des soins pour le bien-être mental et physique de soi et d’autrui et respecter des normes sanitaires de base, y compris en matière d’hygiène. Obtenir et utiliser des informations sur la santé, et trouver et consulter les services et agences qui proposent des soins de santé et des conseils. Gérer les effets négatifs des maladies chroniques.
+  ",T6.1
+SkillGroup,http://data.europa.eu/esco/skill/3eacdaa9-fe4a-49ba-a085-c798097cf8d4,fabriquer des produits à base de tabac,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.8
+SkillGroup,http://data.europa.eu/esco/skill/3eef7ff2-3ade-41d4-b084-2bd2a3949e1c,évaluer des terrains ou des biens immobiliers,,,released,2020-12-04T13:51:21.97Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.7.1
+SkillGroup,http://data.europa.eu/esco/skill/3f1f77a5-9c2d-4b71-afb3-0328d8cbb05e,exploiter des machines pour l’extraction et le traitement des matières premières,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4.0
+SkillGroup,http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,présenter des informations,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.4
+SkillGroup,http://data.europa.eu/esco/skill/418e58f5-c50c-4147-baa0-83aeb43b796a,exploiter des machines de peinture ou de revêtement,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.5.1
+SkillGroup,http://data.europa.eu/esco/skill/424cce4d-71c9-47d9-93d6-4068403139f0,façonner des matériaux afin de créer des produits,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.7.2
+SkillGroup,http://data.europa.eu/esco/skill/42f18b92-1c20-46ed-bde0-9bc64ff1e475,nourrir et toiletter des animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.9.5
+SkillGroup,http://data.europa.eu/esco/skill/4364e0cd-66ad-4f0c-b96d-0ea6796067cb,s’occuper de plantes et de cultures,,,released,2022-06-07T08:31:38.289Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.4
+SkillGroup,http://data.europa.eu/esco/skill/43f425aa-f45d-4bb4-a200-6f82fa211b66,Langues,,,released,2021-04-15T08:20:00.078Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,L1
+SkillGroup,http://data.europa.eu/esco/skill/446a36a5-2376-439f-b46b-4a214ba0acdf,"utiliser des logiciels de traitement de texte, de publication et de présentation",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.6.2
+SkillGroup,http://data.europa.eu/esco/skill/44c81158-f789-41ad-a988-e8af0884a443,exploiter des aéronefs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.9.0
+SkillGroup,http://data.europa.eu/esco/skill/44ff6716-7d71-4a16-821b-61d10e9e290d,mettre en application des connaissances générales,,,released,2021-08-30T16:55:23.01Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Accéder aux connaissances de base liées à la science, à la technologie et à l’ingénierie, aux sciences humaines et sociales et à la philosophie, à l’éthique et à la religion, et les mettre en application.
+  ",T6.6
+SkillGroup,http://data.europa.eu/esco/skill/45ce91d6-574f-445e-a3d5-741f89bddb56,assurer la maintenance de l’équipement et de l’outillage mécaniques,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.7.2
+SkillGroup,http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transformer et mélanger des matériaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.3
+SkillGroup,http://data.europa.eu/esco/skill/4781b6b1-07bc-44be-8c2d-de0fa5db4250,mener des activités liées aux jeux,,,released,2021-10-14T12:50:46.363Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.14.3
+SkillGroup,http://data.europa.eu/esco/skill/47aa582a-3edb-45b5-9ef4-e87813ea327c,tester des véhicules,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.11
+SkillGroup,http://data.europa.eu/esco/skill/47b0d855-ea3c-45e9-8dcf-0e12e62261c4,calculer et estimer,,,released,2022-01-17T09:17:35.248Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.6.0
+SkillGroup,http://data.europa.eu/esco/skill/480a0b1b-aae9-4b39-9a4f-1c2b8ddcbc46,fabriquer des moules et des moulages de production,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.6.1
+SkillGroup,http://data.europa.eu/esco/skill/485b2e3b-f883-46d8-901f-ab521d4f8e58,trier des matériaux ou des produits,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.1.1
+SkillGroup,http://data.europa.eu/esco/skill/494b8057-daf5-46a0-b33b-416e0115c30a,utiliser des outils numériques pour contrôler des machines,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.7.0
+SkillGroup,http://data.europa.eu/esco/skill/4bbdc5eb-b710-4b76-816d-04926f7ac4a1,mettre à disposition des thérapies psychologiques et professionnelles,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.2.4
+SkillGroup,http://data.europa.eu/esco/skill/4d6a48ae-352e-4823-bc3a-3f3e9e2cae86,accéder à des données numériques et les analyser,,,released,2021-09-24T16:38:38.771Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.5.0
+SkillGroup,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,utiliser des instruments et des équipements de précision,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6
+SkillGroup,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,aptitudes et compétences de la vie courante,,,released,2021-08-30T09:47:58.442Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Aptitudes et compétences liées à la capacité de traiter et d’utiliser des connaissances et des informations qui revêtent une importance transversale et facilitent la citoyenneté active. Ces aptitudes et compétences relèvent des domaines de la santé, de l’environnement, de l’engagement civique, de la culture, du budget et de l’application de connaissances générales.
+  ",T6
+SkillGroup,http://data.europa.eu/esco/skill/4feed491-dc09-4218-814a-0146e13ef4fe,résoudre des problèmes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.9.0
+SkillGroup,http://data.europa.eu/esco/skill/50e42de7-4a5c-4f94-b160-765f547d840c,installer des dispositifs d’assistance,,,released,2021-03-30T12:16:14.895Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.2.6
+SkillGroup,http://data.europa.eu/esco/skill/51ffd92f-7ff4-4c38-83d4-7350fcfd6968,lisser des surfaces d’objets ou d’équipements,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.7.3
+SkillGroup,http://data.europa.eu/esco/skill/528c2f16-139f-4a5b-8880-a6f02ed33f2a,fabriquer des vêtements et des produits textiles,,,released,2020-12-07T14:51:41.895Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.6
+SkillGroup,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,travailler avec des tiers,,,released,2021-04-15T08:15:36.624Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8
+SkillGroup,http://data.europa.eu/esco/skill/54f7432d-a8b6-4ed4-a50e-9ec882320595,"surveiller, inspecter et tester",,,released,2021-03-31T12:02:58.558Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.8.0
+SkillGroup,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,aptitudes et compétences sociales et de communication,,,released,2021-08-30T09:00:34.189Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Aptitudes et compétences liées à la capacité d’interagir positivement et de façon productive avec d’autres personnes. Il s’agit notamment de communiquer des idées de manière efficace et empathique, de coordonner ses propres objectifs et actes avec ceux des autres, d’agir de manière structurée en fonction de valeurs, d’assurer le bien-être et la progression des autres, et de faire preuve de leadership.
+  ",T4
+SkillGroup,http://data.europa.eu/esco/skill/56c3ea4b-7cea-44da-969c-c21b07a55030,laver et entretenir des textiles et des vêtements,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.12
+SkillGroup,http://data.europa.eu/esco/skill/57216e88-a0d3-4b8c-af6c-b8232b4f48c2,utiliser des outils à main de précision,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.7.4
+SkillGroup,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,enseigner et former,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.3
+SkillGroup,http://data.europa.eu/esco/skill/577ce84f-0d21-4f25-8307-99c53f6f8437,déplacer et lever,,,released,2022-08-24T13:51:21.612Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.2.0
+SkillGroup,http://data.europa.eu/esco/skill/57a45369-afc1-4f5a-b157-6f18de506bab,construire,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.0
+SkillGroup,http://data.europa.eu/esco/skill/57e6af87-8a6b-4ecb-88e5-7c80b582ddd7,utiliser des instruments et des équipements de précision,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.6.0
+SkillGroup,http://data.europa.eu/esco/skill/583b1fb5-be8d-41f0-aa81-0b6bef4793c2,installer des équipements ou systèmes de plomberie ou de canalisation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.2.2
+SkillGroup,http://data.europa.eu/esco/skill/587e1cd6-a376-4c8f-8369-187c128d72a3,traiter des informations,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.4
+SkillGroup,http://data.europa.eu/esco/skill/58bd927f-e4cc-4b61-a679-cb91b3f8075a,suivre des instructions et des procédures,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.5
+SkillGroup,http://data.europa.eu/esco/skill/58beed15-8cf0-4bea-a24a-ad595768bba6,construire et réparer des structures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.0
+SkillGroup,http://data.europa.eu/esco/skill/58edb789-d085-4e7d-8b6e-b70913bebfca,installer et monter des éléments de construction,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.7
+SkillGroup,http://data.europa.eu/esco/skill/592525ab-b517-4c55-8c65-17e0f5d99205,assembler des produits électriques et électroniques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.3
+SkillGroup,http://data.europa.eu/esco/skill/59c46f34-bffd-4859-adf4-3839c2a73821,construire,,,released,2020-12-10T13:23:35.251Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.0.0
+SkillGroup,http://data.europa.eu/esco/skill/5bcec244-3efe-45ac-8891-0ab4a91e9c48,se conformer aux procédures en matière de santé et de sécurité,,,released,2021-09-30T13:21:36.327Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.3.1
+SkillGroup,http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organiser, planifier et programmer des travaux et activités",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.2
+SkillGroup,http://data.europa.eu/esco/skill/5c2d5780-23ed-4372-bb8d-c1846ee404ae,contrôler des ressources et des activités financières et économiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.3
+SkillGroup,http://data.europa.eu/esco/skill/5d1d2d04-5510-4918-a437-7f57d570483a,installer des toitures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.5
+SkillGroup,http://data.europa.eu/esco/skill/5dbb69d2-9e1b-4e0f-b8c0-0bac709729cf,peser,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.5.2
+SkillGroup,http://data.europa.eu/esco/skill/5ea47148-5289-49f2-80f8-bb1f54b37de0,appliquer des solutions ou revêtements de protection ou de décoration,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.3.3
+SkillGroup,http://data.europa.eu/esco/skill/5f92ff3e-288b-44aa-864d-5ebb1adb7925,mettre en forme des cheveux et leur appliquer des traitements de beauté,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.6.4
+SkillGroup,http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,apporter des conseils,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.1
+SkillGroup,http://data.europa.eu/esco/skill/6115ff80-3d84-4e87-8e2b-6ede7ee004b4,mettre en application des aptitudes et des compétences culturelles,,,released,2021-08-30T16:54:02.907Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Exprimer et interpréter de manière créative des idées, des expériences et des émotions. Adopter une ouverture à l’apprentissage des différentes expressions culturelles et artistiques.
+  ",T6.4
+SkillGroup,http://data.europa.eu/esco/skill/61d1dab2-6007-4b7c-9380-cd88207fa30f,éliminer des déchets ou débris non dangereux,,,released,2020-12-10T16:56:34.388Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.13.2
+SkillGroup,http://data.europa.eu/esco/skill/62023d5b-22ea-442e-ac46-39eb83c986fb,monter du mobilier,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.5
+SkillGroup,http://data.europa.eu/esco/skill/62afcfdd-a2a6-4143-bafb-59c77e15a01c,prodiguer des conseils concernant des produits et services,,,released,2021-03-30T12:20:05.78Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.3
+SkillGroup,http://data.europa.eu/esco/skill/64acded2-d944-4f85-a703-cfe9375f706a,exploiter des équipements agricoles ou sylvicoles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.1.2
+SkillGroup,http://data.europa.eu/esco/skill/64aeee4d-3791-4448-8ed8-9b49ad04f2fb,traduire et interpréter,,,released,2021-09-20T12:11:22.451Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.15.2
+SkillGroup,http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,conduire des véhicules,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.2
+SkillGroup,http://data.europa.eu/esco/skill/663e753c-2fc4-4bf6-9a06-a6ab2d705238,acheter des biens ou des services,,,released,2022-06-19T15:06:42.666Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.6.3
+SkillGroup,http://data.europa.eu/esco/skill/66fdc34c-2326-4baa-b8ff-7a1d1015fe3a,planifier et organiser,,,released,2021-08-30T14:01:57.38Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills","Diriger des activités et des tâches, établir des calendriers et coordonner les activités de groupes et de personnes afin de réaliser les objectifs dans les délais impartis et dans les limites du budget.
+  ",T2.2
+SkillGroup,http://data.europa.eu/esco/skill/682bb7ca-dbe9-4c33-9c7a-1ae56e28516e,charger et décharger des marchandises et des matériaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.2.1
+SkillGroup,http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtenir des informations verbalement,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.7
+SkillGroup,http://data.europa.eu/esco/skill/6a7fc30d-af16-4cc5-a957-29d174bdb61c,"gérer, collecter et stocker des données numériques",,,released,2022-06-22T14:10:40.773Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.5.2
+SkillGroup,http://data.europa.eu/esco/skill/6c4fa8c8-e9e1-49b5-897f-6b61fe649488,former aux procédures opérationnelles,,,released,2021-01-20T14:25:45.625Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.3.3
+SkillGroup,http://data.europa.eu/esco/skill/6c6957bf-cf1f-4483-9c7e-1655f251b01a,mettre en application des aptitudes et compétences entrepreneuriales et financières,,,released,2021-08-30T16:54:20.061Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Gérer ses propres finances et ressources et celles d’autres personnes. Faire preuve de persévérance, d’ouverture aux chances à saisir et aux risques, de capacité à mobiliser des ressources et de volonté de tirer des enseignements de l’expérience.
+  ",T6.5
+SkillGroup,http://data.europa.eu/esco/skill/6d0cad66-82dd-4854-a03a-68232942c68d,installer des éléments en bois et en métal,,,released,2022-06-19T12:25:44.633Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.1.2
+SkillGroup,http://data.europa.eu/esco/skill/6d535249-ac7c-4e44-8ada-09305c3a3900,"fabriquer des moules, des moulages, des modèles et des motifs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.6.0
+SkillGroup,http://data.europa.eu/esco/skill/6e62e776-fbfa-486c-a6df-58cd239c86fe,faire de l’écriture technique ou académique,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.13.3
+SkillGroup,http://data.europa.eu/esco/skill/6ee936b0-4e0c-4e04-97c7-1f4ee9230d67,développer des objectifs et des stratégies,,,released,2020-12-11T09:19:59.825Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.1.0
+SkillGroup,http://data.europa.eu/esco/skill/6f142deb-03a9-4cd7-94ce-e0f023ae2169,communiquer,,,released,2021-08-30T16:23:39.992Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Exprimer et échanger des informations, des idées, des concepts, des pensées et des sentiments, et résoudre des désaccords dans des contextes formels et informels, en utilisant des systèmes communs de mots, de signes et de règles.
+  ",T4.1
+SkillGroup,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,développer des objectifs et des stratégies,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.1
+SkillGroup,http://data.europa.eu/esco/skill/70ac2c90-656a-4fa3-886c-5b9305db2087,traiter des informations,,,released,2021-12-17T12:48:25.958Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.4.0
+SkillGroup,http://data.europa.eu/esco/skill/7194cdea-bca7-4c4a-8d49-3cb54b89d5a0,fournir une thérapie ou un traitement vétérinaire aux animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.9.7
+SkillGroup,http://data.europa.eu/esco/skill/72fe5d9f-4ec8-4fc4-b1d3-0dd83be0aa1a,couper des matériaux et percer des trous,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.7.1
+SkillGroup,http://data.europa.eu/esco/skill/73dba04a-7c18-439f-8757-b5f60532ba74,recruter et embaucher,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.7
+SkillGroup,http://data.europa.eu/esco/skill/73e602a0-f80f-4f56-8e21-3db4fd08709d,"fournir des soins médicaux, dentaires et infirmiers",,,released,2022-08-24T13:28:58.128Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.2.1
+SkillGroup,http://data.europa.eu/esco/skill/74052f13-4cae-4600-a4d3-8103004683f3,utiliser des outils manuels,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.7.0
+SkillGroup,http://data.europa.eu/esco/skill/74b7938e-f667-48ff-a26d-faed294ac6c9,fabriquer des modèles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.6.3
+SkillGroup,http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,mettre en place et protéger des systèmes informatiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.2
+SkillGroup,http://data.europa.eu/esco/skill/762f3830-baa8-4a7e-a5de-b49037d80885,s’occuper de plantes et de cultures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.4.0
+SkillGroup,http://data.europa.eu/esco/skill/775be776-b6ce-4322-a96f-11b2df84ce07,"créer des matériaux artistiques, visuels et instructifs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.12.0
+SkillGroup,http://data.europa.eu/esco/skill/77a2918f-5969-4545-a632-d3e6a853b2c5,dresser des animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.9.6
+SkillGroup,http://data.europa.eu/esco/skill/77e41477-4ecf-425b-8163-b18a5a54e593,recruter et embaucher,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.7.0
+SkillGroup,http://data.europa.eu/esco/skill/77ee8fad-188f-44cf-88ba-4e495a52d604,apporter une aide aux soins personnels,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.6.2
+SkillGroup,http://data.europa.eu/esco/skill/79f3d574-fcf2-445e-a087-cc774f19b861,exploiter des systèmes ou des équipements de pompage,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4.3
+SkillGroup,http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,superviser des personnes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.8
+SkillGroup,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,fournir une assistance médicale ou des traitements médicaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.2
+SkillGroup,http://data.europa.eu/esco/skill/7a8c9402-0550-4966-9ff6-0d65b0f6b1fb,"nettoyer des outils, des équipements, des pièces à usiner et des véhicules",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.11.1
+SkillGroup,http://data.europa.eu/esco/skill/7b942071-f688-4600-8d9f-ad4c0306abc7,"installer, entretenir et réparer des équipements électriques, électroniques et de précision",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.8
+SkillGroup,http://data.europa.eu/esco/skill/7ca69606-5ffc-4668-ae53-713c1f1612e6,exploiter des équipements scientifiques et de laboratoire,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6.3
+SkillGroup,http://data.europa.eu/esco/skill/7de7e3f6-d222-4f08-b3f0-e2deff7ef798,fournir des informations et une assistance au public et aux clients,,,released,2022-06-19T15:20:39.399Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.4.0
+SkillGroup,http://data.europa.eu/esco/skill/7e0b93e0-0de7-4607-b07f-27a6828d3ff0,élaborer des programmes éducatifs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.1.6
+SkillGroup,http://data.europa.eu/esco/skill/7e153e1d-2b12-43ad-89f3-0cf82ebc4a30,réaliser l’analyse et la gestion des risques,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.7.5
+SkillGroup,http://data.europa.eu/esco/skill/7eafec38-621a-4b6e-9298-bfe70ec0b253,réaliser des études universitaires ou de marché,,,released,2022-08-24T13:52:40.376Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.1.1
+SkillGroup,http://data.europa.eu/esco/skill/7ec00c15-c9bb-4b74-9b8b-681424e9ea2c,exploiter des machines d’emballage,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.2
+SkillGroup,http://data.europa.eu/esco/skill/802deca0-b880-4d1a-b366-e13b27621baf,respecter les procédures opérationnelles,,,released,2022-06-19T15:44:38.171Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.3
+SkillGroup,http://data.europa.eu/esco/skill/8064ae65-5d1b-44e1-9aaf-246a4285a9a6,se conformer aux lois et aux normes en matière de protection de l’environnement,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.2
+SkillGroup,http://data.europa.eu/esco/skill/8066edda-60e7-4e41-966b-4be09b049ab3,préparer des matériaux industriels pour la transformation ou l’utilisation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.3.3
+SkillGroup,http://data.europa.eu/esco/skill/80cf002a-6586-4db7-9c9a-88325a9a5e1b,mettre en application des aptitudes et des compétences liées à l’environnement,,,released,2021-09-13T17:37:26.558Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Réfléchir à l’incidence à court et à long terme des comportements individuels sur l’environnement physique et social, et adopter un travail et un mode de vie durables. Reconnaître la responsabilité individuelle et collective de la protection et de la restauration de l’environnement local et mondial, et motiver les autres.
+  ",T6.2
+SkillGroup,http://data.europa.eu/esco/skill/81d95361-e7dd-4f75-a243-d646a7dd6a28,finaliser des structures intérieures ou extérieures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.3.0
+SkillGroup,http://data.europa.eu/esco/skill/81f29457-6d0d-4f46-9e0a-7295c7c6f090,répondre aux plaintes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.1.3
+SkillGroup,http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,nettoyer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.11
+SkillGroup,http://data.europa.eu/esco/skill/82463bb1-85d1-4e99-a4ce-08508fc3b2a3,aider d’autres personnes,,,released,2021-08-30T16:28:59.285Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Guider ou aider des personnes moins expérimentées ou moins bien informées, et apporter un soutien aux personnes en difficulté.
+  ",T4.2
+SkillGroup,http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,capacités et compétences de réflexion,,,released,2021-08-30T08:20:35.122Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Aptitudes et compétences liées à la capacité d’appliquer les processus mentaux de collecte, de conceptualisation, d’analyse, de synthèse et d’évaluation des informations recueillies ou générées à partir de l’observation, de l’expérience, de la réflexion, du raisonnement ou de la communication. Il s’agit notamment de la capacité à évaluer et utiliser des informations de différents types pour planifier des activités, atteindre des objectifs, résoudre des problèmes, traiter des problématiques et exécuter des tâches complexes de manière routinière et novatrice.
+  ",T2
+SkillGroup,http://data.europa.eu/esco/skill/827de17d-3fc1-4ba5-b4e0-850c51e750c8,assembler et fabriquer des produits,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.0
+SkillGroup,http://data.europa.eu/esco/skill/82c084ea-15e9-4d55-98dc-ede0f767baee,compétences en matière d’information,,,released,2022-08-02T10:53:25.141Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.0
+SkillGroup,http://data.europa.eu/esco/skill/8369011d-de43-4800-bcce-be12e19828a5,accepter un retour d’information,,,released,2022-06-19T14:48:30.73Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.4
+SkillGroup,http://data.europa.eu/esco/skill/8427894f-2622-4b97-9366-72234a5fab50,exploiter des véhicules nautiques à moteur,,,released,2020-12-02T16:19:04.329Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.3
+SkillGroup,http://data.europa.eu/esco/skill/842ebeb2-d252-4bde-98fe-e0463f7009db,utiliser des outils numériques pour contrôler des machines,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.7
+SkillGroup,http://data.europa.eu/esco/skill/848c0306-8cbe-4693-a275-d99807c0173c,mettre en contact et en réseau,,,released,2022-06-19T14:48:30.73Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.2.0
+SkillGroup,http://data.europa.eu/esco/skill/85b379e7-e0b7-48b8-baa7-631f50a7cdd5,"communication, collaboration et créativité",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.0
+SkillGroup,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,aptitudes à la gestion,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4
+SkillGroup,http://data.europa.eu/esco/skill/872c0ddb-f056-4f51-afac-fc3d6fae0f5b,exploiter du matériel médical,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6.1
+SkillGroup,http://data.europa.eu/esco/skill/87dff904-fb74-4d59-972e-1c2387579d94,diriger des activités opérationnelles,,,released,2022-06-21T15:59:20.234Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.2.1
+SkillGroup,http://data.europa.eu/esco/skill/8826b057-0e80-4e3d-9efc-1e179d597f40,aider des personnes dans leur mobilité,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.6.1
+SkillGroup,http://data.europa.eu/esco/skill/883eab8c-d8a6-4e8b-9b11-7d9001e172ab,concevoir des systèmes et des produits,,,released,2020-12-02T16:09:56.551Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.11.0
+SkillGroup,http://data.europa.eu/esco/skill/888f286e-272f-4e54-8a3b-9fa391870618,"planter, tailler et récolter des arbres, des cultures et d’autres plantes",,,released,2022-06-07T09:52:51.187Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.4.2
+SkillGroup,http://data.europa.eu/esco/skill/8984a92c-416e-498f-abd3-a9dd819e5c03,installer des revêtements de sol et de mur,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.3.4
+SkillGroup,http://data.europa.eu/esco/skill/89f8435a-ebc1-42b6-bf5c-496999e99776,préparer des aliments et des boissons,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.5.1
+SkillGroup,http://data.europa.eu/esco/skill/8a3b45dc-8299-4b67-99db-6542daf79ac3,développer des relations ou des réseaux professionnels,,,released,2022-08-02T10:50:40.647Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.2.3
+SkillGroup,http://data.europa.eu/esco/skill/8a57f720-70b3-41de-877c-7d723977dc88,mesurer des propriétés physiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.5
+SkillGroup,http://data.europa.eu/esco/skill/8bbdf1f1-e943-45fc-af2f-1446cbd88245,utiliser plus d’une langue,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.15
+SkillGroup,http://data.europa.eu/esco/skill/8bde58aa-9d5b-422b-801c-ff9186dd648e,manipuler et éliminer des matériaux dangereux,,,released,2020-12-10T16:33:16.662Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.13.1
+SkillGroup,http://data.europa.eu/esco/skill/8bf9699c-f964-4e4b-ac3d-55aface09cbc,exploiter des équipements de production ou de distribution d’énergie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.4.4
+SkillGroup,http://data.europa.eu/esco/skill/8c298a9b-e9ea-4396-897d-9aba982df6a0,prodiguer des conseils relatifs à des questions d’ordre éducatif ou professionnel,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.5.8
+SkillGroup,http://data.europa.eu/esco/skill/8d80f33a-ab38-429b-a4ed-3b1a6f8f3b4a,exploiter des machines de mélange et de séparation,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.5
+SkillGroup,http://data.europa.eu/esco/skill/8da6cd59-61e1-43c4-8dfc-bc69d283ccc7,emballer des objets,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.1.3
+SkillGroup,http://data.europa.eu/esco/skill/8ddcb295-707e-459c-ba6a-66ffb37835c5,exploiter des équipements audiovisuels,,,released,2021-03-16T14:30:52.553Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.6.2
+SkillGroup,http://data.europa.eu/esco/skill/8e77453d-3665-4d00-b887-2e9adb29cd15,exploiter des véhicules ferroviaires,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.2.3
+SkillGroup,http://data.europa.eu/esco/skill/8eb65708-6a1c-4a11-8b51-ed9331962142,installer et monter un équipement de gréage,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.1.8
+SkillGroup,http://data.europa.eu/esco/skill/8ed41305-4abf-4b54-9f8f-0e043d26feba,élaborer des politiques et de la législation,,,released,2022-08-02T10:52:47.757Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.1.4
+SkillGroup,http://data.europa.eu/esco/skill/8f9f8b20-ff26-4392-b04f-695dcde5b90a,présenter des informations liées à la recherche ou à la technique,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.4.2
+SkillGroup,http://data.europa.eu/esco/skill/8fde007e-ea4c-48c2-84c5-752834acd31d,"mener à bien des études, des investigations et des examens",,,released,2021-07-12T08:54:30.476Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.1.0
+SkillGroup,http://data.europa.eu/esco/skill/906211b3-afed-4a2b-b5e1-33f2885fee85,réaliser des tâches de bureau et administratives,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.4.3
+SkillGroup,http://data.europa.eu/esco/skill/91860993-1a8b-4473-91f3-600aa1924bd0,adopter une approche proactive,,,released,2021-08-30T16:01:08.179Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Assumer des responsabilités en matière de gestion des activités et adopter une approche prospective pour anticiper les problèmes, mais aussi mettre au jour les possibilités.
+  ",T3.2
+SkillGroup,http://data.europa.eu/esco/skill/91b0b918-942e-4661-b88c-70b9396529e5,travailler avec des tiers,,,released,2021-12-17T12:53:52.273Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.0
+SkillGroup,http://data.europa.eu/esco/skill/925af2b5-2f4d-4cce-92cc-79e1ff887c7d,respecter un code de conduite éthique,,,released,2021-09-03T15:52:21.316Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Mener des activités sur le lieu de travail conformément aux principes acceptés du bien et du mal, notamment en ce qui concerne l’équité, la transparence et l’impartialité des pratiques de travail et la conduite envers d’autres personnes.
+  ",T4.5
+SkillGroup,http://data.europa.eu/esco/skill/92fc9726-5b5e-439e-a33c-06a8c63fbb9a,attribuer et contrôler des ressources,,,released,2021-12-17T12:49:57.067Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.3.0
+SkillGroup,http://data.europa.eu/esco/skill/95bf4552-6d5b-41dc-b990-53ace372f705,"documenter des conceptions, procédures, problèmes ou activités techniques",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.2.6
+SkillGroup,http://data.europa.eu/esco/skill/969845ce-6895-44a8-a3d2-b8c2d8b5de21,s’occuper d’enfants,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.6.3
+SkillGroup,http://data.europa.eu/esco/skill/97ff8a90-ec21-4f13-9b58-22cc9fc47221,installer des matériaux structurels de maçonnerie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.1
+SkillGroup,http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,attribuer et contrôler des ressources,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.3
+SkillGroup,http://data.europa.eu/esco/skill/98fb499f-9155-412d-a8a0-95ba97126fec,utiliser des outils numériques de collaboration et de productivité,,,released,2021-09-24T16:39:43.877Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.6.1
+SkillGroup,http://data.europa.eu/esco/skill/9a540c0f-81c0-4687-a14b-e9196d9af6c0,donner des instructions,,,released,2020-12-11T09:17:20.734Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.2
+SkillGroup,http://data.europa.eu/esco/skill/9adca63b-9c75-4804-8dab-d62872540a10,maîtriser des langues,,,released,2022-01-12T16:06:32.317Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Communiquer, lire, écrire, parler et écouter dans la langue maternelle ou dans une langue étrangère.
+  ",T1.1
+SkillGroup,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,travailler avec des machines et de l’équipement spécialisé,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8
+SkillGroup,http://data.europa.eu/esco/skill/9bdf8a77-8524-43da-bac6-d15d22e1b7ed,saisir et transformer des informations,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.4.2
+SkillGroup,http://data.europa.eu/esco/skill/9c17f73f-345c-4c55-8b59-47b445941b7b,assurer la médiation et le règlement de différends,,,released,2021-12-17T12:56:02.187Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.1.2
+SkillGroup,http://data.europa.eu/esco/skill/9d0d6866-cd91-490b-9e3a-d0914ad95a2e,manipuler des animaux,,,released,2021-09-15T09:05:01.998Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.9.0
+SkillGroup,http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installer une infrastructure intérieure ou extérieure,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.2
+SkillGroup,http://data.europa.eu/esco/skill/a0ad9ea8-9620-4aba-a836-cbdd16e12880,"exploiter des machines pour la fabrication et le traitement des textiles, des fourrures et des articles en cuir",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.3
+SkillGroup,http://data.europa.eu/esco/skill/a19c5139-1250-4a60-9c31-a3243cca06cc,communiquer avec les collègues et les clients,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.2.1
+SkillGroup,http://data.europa.eu/esco/skill/a4cf0e8a-54f6-4fd5-8650-1c82ea86cfd2,travailler avec des machines et de l’équipement spécialisé,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.0.0
+SkillGroup,http://data.europa.eu/esco/skill/a5524d0d-38e5-4cfc-96c4-46c3c6df3dd1,exploiter des matériels et engins mobiles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.1.0
+SkillGroup,http://data.europa.eu/esco/skill/a556a3db-cd48-42a5-825c-f95f6f5ccbfe,créer des affichages visuels et des décorations,,,released,2020-12-07T15:05:05.027Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.12.1
+SkillGroup,http://data.europa.eu/esco/skill/a60b664f-bb07-4dd1-8dfa-134a0827f8da,exploiter des équipements de levage ou de déplacement,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.1.3
+SkillGroup,http://data.europa.eu/esco/skill/a6b0802f-4c20-4123-8a84-d6c8631fedb1,"installer, entretenir et réparer des équipements électriques, électroniques et de précision",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.8.0
+SkillGroup,http://data.europa.eu/esco/skill/a6c3bda0-c759-495e-b2c5-062b3abe2097,mettre en œuvre de nouvelles procédures ou de nouveaux processus,,,released,2020-12-07T11:25:11.191Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.9.2
+SkillGroup,http://data.europa.eu/esco/skill/a7065828-10aa-4aba-b7d4-f23a30df5060,"installer et réparer des équipements électriques, électroniques et de précision",,,released,2020-12-10T10:29:22.935Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.8.1
+SkillGroup,http://data.europa.eu/esco/skill/a7956044-f468-4bc1-a83c-a8821b903a09,"exploiter des machines à découper, meuler et lisser",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.8
+SkillGroup,http://data.europa.eu/esco/skill/a8c3186b-c791-4d57-8f4f-4d12c7a5c6a7,programmer des systèmes informatiques,,,released,2021-07-09T16:08:18.11Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.1.0
+SkillGroup,http://data.europa.eu/esco/skill/a96b31dd-d72a-4c89-8947-524f14a16f82,"exploiter des machines d’extraction, de forage et de transformation de minéraux",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.4.1
+SkillGroup,http://data.europa.eu/esco/skill/a9703c5e-7fef-40d8-8fed-e5b31cc76818,assurer l’entretien des machines mécaniques,,,released,2022-06-19T12:20:52.48Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.7.3
+SkillGroup,http://data.europa.eu/esco/skill/aab9f44d-fe0e-46d8-a470-11ce82a64846,superviser une équipe ou un groupe,,,released,2020-12-08T09:58:50.546Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.8.1
+SkillGroup,http://data.europa.eu/esco/skill/ab877a24-335d-4676-b366-c5c06651481a,"communication, collaboration et créativité",,,released,2021-12-17T12:50:41.929Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.0.0
+SkillGroup,http://data.europa.eu/esco/skill/ab99d9a7-62eb-407b-92f2-bf7992a82004,créer des œuvres ou des performances artistiques,,,released,2022-06-21T09:05:08.279Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.12.3
+SkillGroup,http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,donner des spectacles et divertir,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.14
+SkillGroup,http://data.europa.eu/esco/skill/aca5081a-ceb0-4028-9cc5-1daafd4f86f9,mettre au point des solutions,,,released,2021-12-17T12:48:43.007Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.9.1
+SkillGroup,http://data.europa.eu/esco/skill/ad326fa7-f2e9-4421-8426-bc0c2e167143,soumettre des informations dans le cadre de procédures judiciaires,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.4.3
+SkillGroup,http://data.europa.eu/esco/skill/af84405b-896d-4ed3-9462-077ea9a2a188,collaborer et assurer la liaison,,,released,2022-06-21T14:57:51.72Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.2.5
+SkillGroup,http://data.europa.eu/esco/skill/afe3d82e-4a40-4aa4-a4e9-a6097c4a391e,écrire et composer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.13.0
+SkillGroup,http://data.europa.eu/esco/skill/b036eb5c-6a48-45b9-b2c6-f42f9e336204,prodiguer des conseils relatifs à des questions commerciales ou opérationnelles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.7
+SkillGroup,http://data.europa.eu/esco/skill/b1115b14-fa16-4c1e-be6c-91fd49a1808b,utiliser des outils de conception et de dessin assistés par ordinateur,,,released,2022-06-22T14:11:44.883Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.6.3
+SkillGroup,http://data.europa.eu/esco/skill/b2c688b0-9106-466d-8b88-eafdfe608e7d,concevoir des structures ou des installations,,,released,2021-04-09T13:18:25.74Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.11.4
+SkillGroup,http://data.europa.eu/esco/skill/b309d4f5-56f5-41c6-b712-92d1ed85b965,mener à bien des activités administratives,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.4.0
+SkillGroup,http://data.europa.eu/esco/skill/b32ef8a5-e3f7-40ef-8b40-913c003e1f4e,"préparer des documents financiers, des pièces comptables, des rapports ou des budgets financiers",,,released,2020-12-10T22:08:37.954Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.2.1
+SkillGroup,http://data.europa.eu/esco/skill/b590d4e5-7c62-4b4a-abc2-c270b482e0ce,concevoir des systèmes ou applications tic,,,released,2021-09-15T10:08:27.019Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.11.1
+SkillGroup,http://data.europa.eu/esco/skill/b593afe4-4179-4a83-9f05-21c8d32d8113,préparer et servir des aliments et des boissons,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.5.0
+SkillGroup,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,mettre en contact et en réseau,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.2
+SkillGroup,http://data.europa.eu/esco/skill/b7c82b1b-cff9-4641-a62f-e4e28395eade,cultiver des terres et des cultures,,,released,2021-12-13T21:32:11.472Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.4.1
+SkillGroup,http://data.europa.eu/esco/skill/b7e752ec-7b2e-46e6-ac24-8b1233609c31,diriger et motiver,,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.5.0
+SkillGroup,http://data.europa.eu/esco/skill/b82b2bad-41dd-40af-8242-e7d59a2ce786,"marteler, clouer et riveter",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.7.5
+SkillGroup,http://data.europa.eu/esco/skill/b84813aa-6c44-4d58-a240-556c2060fb4e,assister et apporter des soins,,,released,2021-09-30T13:20:52.1Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.0.0
+SkillGroup,http://data.europa.eu/esco/skill/b85711bc-32d6-42af-ae0f-e2e566d0dfca,préparer et servir des aliments et des boissons,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.5
+SkillGroup,http://data.europa.eu/esco/skill/b85caa4a-f04b-4331-80df-11404fd71225,"installer des équipements de chauffage, de ventilation et d’air conditionné",,,released,2020-12-08T11:23:48.839Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.2.1
+SkillGroup,http://data.europa.eu/esco/skill/b88bddd4-210e-405f-bbdf-729bb66605a0,"prescrire et commander des tests, traitements ou dispositifs médicaux",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.2.5
+SkillGroup,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembler et fabriquer des produits,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.5
+SkillGroup,http://data.europa.eu/esco/skill/b917784a-d7c9-437c-be6e-0de41067fa62,estimer les besoins en ressources,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.6.3
+SkillGroup,http://data.europa.eu/esco/skill/b94686e3-cce5-47a2-a8d8-402a0d0ed44e,aptitudes et compétences de base,,,released,2021-08-30T09:44:37.419Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Aptitudes et compétences qui sont à la base de l’interaction avec les autres et du développement et de l’apprentissage personnels. Il s’agit notamment de la capacité de comprendre, de parler, de lire et d’écrire une ou plusieurs langues, de travailler avec des chiffres et des mesures et d’utiliser des appareils et applications numériques.
+  ",T1
+SkillGroup,http://data.europa.eu/esco/skill/b975836b-d9b9-4724-88da-9a82b856e74b,enregistrer des informations juridiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.2.2
+SkillGroup,http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promouvoir, vendre et acheter",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.6
+SkillGroup,http://data.europa.eu/esco/skill/ba1f6201-b206-4459-b178-706db34a851d,analyser des données scientifiques et médicales,,,released,2020-12-11T09:22:19.086Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.7.2
+SkillGroup,http://data.europa.eu/esco/skill/bb99a123-88be-42a2-8758-f5a18e06ccc6,prendre des décisions,,,released,2022-08-02T10:46:51.743Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.9
+SkillGroup,http://data.europa.eu/esco/skill/bd1242ec-6dd5-4c7d-bf79-8de6be3b3815,assembler des produits mécaniques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.5.4
+SkillGroup,http://data.europa.eu/esco/skill/bdf2aa76-360d-429d-a967-bdb691f241fa,"exploiter des fours, des fournaises et des équipements de séchage",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.4.7
+SkillGroup,http://data.europa.eu/esco/skill/be7443ff-0747-43b8-8720-8e87fd34e692,résoudre des problèmes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.9
+SkillGroup,http://data.europa.eu/esco/skill/bf4196e4-839c-4f5f-b13b-eeed07ede160,exploiter des équipements industriels de précision,,,released,2020-12-10T16:29:46.835Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6.5
+SkillGroup,http://data.europa.eu/esco/skill/bf4822d3-1f66-499d-afc9-151a9ba33e58,préparer des mélanger ou des solutions,,,released,2020-12-09T08:40:02.853Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.3.1
+SkillGroup,http://data.europa.eu/esco/skill/bffa732b-12ab-4214-a4b3-498598820b1c,attribuer du travail à des tiers,,,released,2021-12-17T12:57:57.543Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.8.2
+SkillGroup,http://data.europa.eu/esco/skill/c098d6c1-dfee-4b02-8ce5-c6d80c98e18b,transformer et mélanger des matériaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.3.0
+SkillGroup,http://data.europa.eu/esco/skill/c1a13ee0-b00d-4cfa-a22c-20d284e398b0,aptitudes à la gestion,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.0
+SkillGroup,http://data.europa.eu/esco/skill/c1bd0ed6-053c-4703-981e-eaec5e57de18,gérer ou préparer de la documentation médicale,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.2.4
+SkillGroup,http://data.europa.eu/esco/skill/c206d301-14b0-4bea-8028-a3749303a512,suivre et évaluer les performances de personnes,,,released,2021-12-17T12:54:40.426Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.8.3
+SkillGroup,http://data.europa.eu/esco/skill/c20ac175-3aab-4aaa-9b9e-784c2dfb59cd,exécuter des transactions financières,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.4.2
+SkillGroup,http://data.europa.eu/esco/skill/c23e0a2f-f04b-45bc-b0dd-20571f6b502c,élaborer des politiques et procédures opérationnelles,,,released,2022-06-21T15:59:58.885Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.1.3
+SkillGroup,http://data.europa.eu/esco/skill/c34b06c4-d164-4e49-a784-89d47de42ec2,"concevoir des matériaux, systèmes ou produits industriels",,,released,2020-12-07T15:23:03.877Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.11.5
+SkillGroup,http://data.europa.eu/esco/skill/c4376e35-add7-43a0-8b2e-f5741f0df8fe,effectuer des enquêtes médico-légales et policières,,,released,2022-06-21T14:59:34.77Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.1.4
+SkillGroup,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,connaissances,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,K
+SkillGroup,http://data.europa.eu/esco/skill/c53a55a1-8b2b-4d2c-b12d-626742a3833a,utiliser des outils numériques pour le traitement du son et des images,,,released,2020-12-03T09:34:17.228Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.6.4
+SkillGroup,http://data.europa.eu/esco/skill/c54a0a94-9d45-4697-b7cb-f7eaef839031,conduire des véhicules lourds,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.2.1
+SkillGroup,http://data.europa.eu/esco/skill/c57c0294-9940-4626-8954-08055bc242ba,superviser des personnes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.8.0
+SkillGroup,http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"mener à bien des études, des investigations et des examens",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.1
+SkillGroup,http://data.europa.eu/esco/skill/c5ff50d7-97d3-401e-90ac-e5ae756a52de,surveiller les conditions sanitaires des êtres humains et des animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.8.6
+SkillGroup,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assister et apporter des soins,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3
+SkillGroup,http://data.europa.eu/esco/skill/c75655c3-ed29-441e-b403-4dd65bc891a5,prodiguer des conseils dans le domaine médical,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.5.4
+SkillGroup,http://data.europa.eu/esco/skill/c7f96545-46c4-451a-b284-014f4baed5ed,prendre des décisions,,,released,2021-12-17T12:52:46.944Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.9.0
+SkillGroup,http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"créer des matériaux artistiques, visuels et instructifs",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.12
+SkillGroup,http://data.europa.eu/esco/skill/c8f4aad2-ea23-49a2-9708-a6049c2d28ce,utiliser des instruments de mesure de précision,,,released,2020-12-10T17:46:15.65Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.6.6
+SkillGroup,http://data.europa.eu/esco/skill/ca5b2cf4-0f3e-4c47-b496-12d812a7e5d9,manipuler et déplacer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.0.0
+SkillGroup,http://data.europa.eu/esco/skill/cab71b2a-4b65-4e98-a7a9-0b20c39fc248,travailler avec des machines et de l’équipement spécialisé,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.0
+SkillGroup,http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"utiliser des outils numériques pour la collaboration, la création de contenu et la résolution de problèmes",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.6
+SkillGroup,http://data.europa.eu/esco/skill/caede8f1-6658-4d78-9eb4-2ad2c7ebf09b,enseigner et former,,,released,2021-09-30T15:58:04.159Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.3.0
+SkillGroup,http://data.europa.eu/esco/skill/cbe1b24e-00f3-4b17-94e9-1fcd34a11c3e,identifier des opportunités,,,released,2021-12-17T13:01:48.803Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.1.1
+SkillGroup,http://data.europa.eu/esco/skill/ccb6db6a-8538-431c-b740-5f241bdb71cf,manipuler et contrôler des objets et équipements,,,released,2021-08-30T16:48:17.42Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills","Déplacer ou soulever des objets, ou utiliser des équipements, des outils ou des technologies avec précision.
+  ",T5.1
+SkillGroup,http://data.europa.eu/esco/skill/cd9c487e-09ad-4b82-854b-118feb01f2ed,compétences en matière d’information,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.0.0
+SkillGroup,http://data.europa.eu/esco/skill/cdb2aecd-9dca-48fd-8d56-f0aace3ab5a9,présenter des informations générales,,,released,2021-12-17T12:55:43.975Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.4.1
+SkillGroup,http://data.europa.eu/esco/skill/ce17a874-b476-491d-a7a7-5f05d32ad542,diriger et motiver,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.5
+SkillGroup,http://data.europa.eu/esco/skill/ceca8bbe-cd58-49b4-8ef4-9a34a5ac0f75,exploiter des machines de traitement des aliments,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.5.4
+SkillGroup,http://data.europa.eu/esco/skill/cfd5ab8f-ef8a-4877-8243-ddf17ac74604,planifier des événements et des programmes,,,released,2022-06-19T15:23:46.929Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.2.2
+SkillGroup,http://data.europa.eu/esco/skill/d12a1be6-d916-436d-8274-ad97b5f24415,composer de la musique,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.13.1
+SkillGroup,http://data.europa.eu/esco/skill/d1815c8a-7755-4fe3-bacf-68bb0b6a0b55,mettre au point du matériel d’instruction ou promotionnel,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.12.2
+SkillGroup,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,utiliser des outils manuels,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.7
+SkillGroup,http://data.europa.eu/esco/skill/d2e8f452-ac19-4eed-b984-8f55d2a5b763,tester et analyser des substances,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.8.8
+SkillGroup,http://data.europa.eu/esco/skill/d3b2c894-33fb-47c4-aff0-27935a082bf6,"exploiter des équipements ou systèmes de traitement de pétrole, de produits chimiques ou d’eau",,,released,2021-04-27T13:08:08.432Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.4.5
+SkillGroup,http://data.europa.eu/esco/skill/d46193e0-be7d-4a90-91cc-4caba78e19d0,s’adresser à des tiers afin d’identifier leurs besoins,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.7.2
+SkillGroup,http://data.europa.eu/esco/skill/d519fadd-85bf-475f-bf14-c53a0290687d,surveiller les conditions environnementales,,,released,2020-12-08T11:41:32.598Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.8.5
+SkillGroup,http://data.europa.eu/esco/skill/d54970ba-d9f2-41ec-a852-bbd1e5796823,fournir des informations au public et aux clients,,,released,2022-08-24T13:40:12.532Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.4.1
+SkillGroup,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finaliser des structures intérieures ou extérieures,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.3
+SkillGroup,http://data.europa.eu/esco/skill/d69e45d3-1f3f-4e6a-8933-82e949277811,nettoyer les intérieurs et les extérieurs de bâtiments,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.11.2
+SkillGroup,http://data.europa.eu/esco/skill/d6a8a2a4-4e21-4ea6-b267-b5c63e687cfd,"prodiguer des conseils relatifs à des questions personnelles, familiales ou sociales",,,released,2022-07-15T14:44:44.924Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.1.1
+SkillGroup,http://data.europa.eu/esco/skill/d6c8dacb-b0c0-4544-b0b7-69b24df41ba1,gérer des activités de transport et de logistique,,,released,2022-06-21T15:54:18.563Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.2.4
+SkillGroup,http://data.europa.eu/esco/skill/d6e4373a-ef2c-4b64-9dc6-4140846f6609,programmer des systèmes informatiques,,,released,2021-07-09T16:07:23.426Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.1
+SkillGroup,http://data.europa.eu/esco/skill/d6e97b91-b75d-45f5-8566-667798957b0f,mettre en application des aptitudes et des compétences civiques,,,released,2021-09-06T09:49:10.132Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Interagir avec les citoyens et nouer des relations dans des communautés, en évaluant les informations et leurs sources, en réfléchissant à ses propres idées, valeurs et fonctions, et en reconnaissant et respectant les idées, les valeurs et les fonctions des autres.
+  ",T6.3
+SkillGroup,http://data.europa.eu/esco/skill/d700aa7a-0ed8-4967-a32c-4cb6075ab3b9,diagnostiquer des maladies,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.1.2
+SkillGroup,http://data.europa.eu/esco/skill/d7d2a468-587b-4a03-a305-e0a399ba69e6,écouter et poser des questions,,,released,2021-10-05T15:39:39.123Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.7.3
+SkillGroup,http://data.europa.eu/esco/skill/d94e1143-3a3a-4f6a-a881-df93bf56cf23,analyser des données financières et économiques,,,released,2020-12-09T12:11:28.514Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.7.3
+SkillGroup,http://data.europa.eu/esco/skill/d9b1387a-7cad-4b77-8481-7798a3b41714,exploiter des aéronefs,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.9
+SkillGroup,http://data.europa.eu/esco/skill/d9be4ab0-f7d9-4b27-bd01-6cf1d43d1865,installer des composants en béton,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.1.4
+SkillGroup,http://data.europa.eu/esco/skill/da230865-9d2a-42d9-a42e-37d89753109e,appliquer des matériaux pour combler des trous dans des surfaces,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S7.3.1
+SkillGroup,http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,exploiter des matériels et engins mobiles,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.1
+SkillGroup,http://data.europa.eu/esco/skill/db54693e-bcb0-4dae-8885-a43d510fb71f,élaborer des programmes de santé,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S4.1.5
+SkillGroup,http://data.europa.eu/esco/skill/dbbbe31a-9b8c-4459-a830-84363648f52c,conduire des véhicules légers,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.2.2
+SkillGroup,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration et créativité",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1
+SkillGroup,http://data.europa.eu/esco/skill/dcb9c446-bb08-44de-89b6-851ac2903eaf,exploiter des équipements d’impression et de production photographique,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.5.6
+SkillGroup,http://data.europa.eu/esco/skill/dddd229b-61e1-480d-80d6-d9d9ee9b5f54,gérer des informations,,,released,2022-06-07T12:34:37.336Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.3
+SkillGroup,http://data.europa.eu/esco/skill/de884168-32e7-4500-a227-3f0966f962b6,présenter des informations,,,released,2022-06-21T09:45:20.179Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.4.0
+SkillGroup,http://data.europa.eu/esco/skill/dfae80db-cf29-41e1-a48c-2bee901afff1,construire et développer des équipes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.6.0
+SkillGroup,http://data.europa.eu/esco/skill/e001ce62-78e7-4821-a7df-a08457c295ab,accomplir des procédures chirurgicales,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.2.2
+SkillGroup,http://data.europa.eu/esco/skill/e06f2d35-a160-46c2-89f1-9cae9c93c8b8,vendre des biens ou des services,,,released,2022-06-19T15:23:46.929Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.6.1
+SkillGroup,http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculer et estimer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.6
+SkillGroup,http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,fournir des informations et une assistance au public et aux clients,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.4
+SkillGroup,http://data.europa.eu/esco/skill/e2a5e046-3357-493e-bbdc-8d0ef82005cc,suivre l’évolution dans un domaine d’expertise,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.9.0
+SkillGroup,http://data.europa.eu/esco/skill/e2bdf081-333a-414f-b8ac-93c76290f167,encadrer et assurer le mentorat,,,released,2020-12-08T11:37:17.207Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.3.5
+SkillGroup,http://data.europa.eu/esco/skill/e35a5936-091d-4e87-bafe-f264e55bd656,compétences et connaissances linguistiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,L
+SkillGroup,http://data.europa.eu/esco/skill/e434e71a-f068-44ed-8059-d1af9eb592d7,Langues classiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,L2
+SkillGroup,http://data.europa.eu/esco/skill/e4da156d-a6c4-4b29-935b-eff9c9553cf1,travailler en équipes,,,released,2022-06-21T15:57:17.113Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.8.1
+SkillGroup,http://data.europa.eu/esco/skill/e52389a2-1a05-45b0-8db3-4bda0f0c0b48,réagir en fonction des circonstances physiques,,,released,2021-08-30T16:51:10.069Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills","Réagir et s’adapter à des conditions physiques changeantes ou dangereuses.
+  ",T5.2
+SkillGroup,http://data.europa.eu/esco/skill/e52cd6e7-f8dc-4f6f-b988-5554423f53fb,élever et soigner des animaux aquatiques,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.9.2
+SkillGroup,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,manipuler des animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.9
+SkillGroup,http://data.europa.eu/esco/skill/e5e3b8d7-a96d-41f4-acb6-563b0f7f2994,trier et emballer des marchandises et des matériaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.1.0
+SkillGroup,http://data.europa.eu/esco/skill/e67fd42d-25f1-4124-b0be-3b1e3bfdd70c,vérifier les identités et la documentation,,,released,2022-06-21T08:47:39.509Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.4
+SkillGroup,http://data.europa.eu/esco/skill/e6e784d0-38a2-4f0c-9fe9-d985a3269fd9,appliquer des revêtements texturés ou de maçonnerie,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S7.3.2
+SkillGroup,http://data.europa.eu/esco/skill/e6eeb84c-ad99-42e2-b883-e6ce338aef59,planifier des opérations et des processus de production,,,released,2022-06-21T15:25:51.729Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.2.5
+SkillGroup,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,apporter des soins personnels généraux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S3.6
+SkillGroup,http://data.europa.eu/esco/skill/e84d080a-ff6d-41a7-b7b9-133e97c7bf00,penser de manière créative et innovante,,,released,2021-08-30T15:44:33.322Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Générer de nouvelles idées ou combiner les idées existantes pour mettre au point des solutions innovantes.
+  ",T2.4
+SkillGroup,http://data.europa.eu/esco/skill/e852a2ed-c32e-4a39-bc4c-65a78ffe6bf2,"déplacer ou lever des matériaux, des équipements ou des fournitures",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.2.2
+SkillGroup,http://data.europa.eu/esco/skill/e963cf1f-dc3c-48b2-a0fa-274f5e7f50f6,stocker des marchandises et des matériaux,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.2.3
+SkillGroup,http://data.europa.eu/esco/skill/e9eb9c23-c1f4-4ce9-83c9-2f6a211cc536,maintenir et mettre en œuvre la sécurité physique,,,released,2022-06-21T08:58:51.033Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.5
+SkillGroup,http://data.europa.eu/esco/skill/eb6cc4ba-4bb8-4348-9a3b-dc419558f66a,prodiguer des conseils en matière de conception ou d’utilisation de technologies,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.6
+SkillGroup,http://data.europa.eu/esco/skill/ec0401f1-f690-46be-934b-f6f5611085f5,"assurer la maintenance d’équipements électriques, électroniques et de précision",,,released,2021-03-16T14:31:22.011Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S8.8.2
+SkillGroup,http://data.europa.eu/esco/skill/ec528c47-65f4-4187-9dc1-5a8889f84a06,analyser des opérations commerciales,,,released,2022-06-07T12:49:33.931Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.7.4
+SkillGroup,http://data.europa.eu/esco/skill/edc72cfe-78a8-4531-b00f-92992a0bb8cb,travailler avec des chiffres et des mesures,,,released,2021-08-30T13:51:58.932Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Appliquer des contenus, des informations, des idées et des processus numériques et mathématiques pour répondre aux exigences de base de l’apprentissage et du travail; il s’agit notamment de comprendre des chiffres, des schémas, la forme et l’espace, ainsi que le langage, les symboles, les procédures et les modes de pensée mathématiques utilisés pour atteindre des objectifs concrets.
+  ",T1.2
+SkillGroup,http://data.europa.eu/esco/skill/edcfd6ef-1a42-4e0a-97e2-2a2d61cac181,élever et soigner des animaux,,,released,2021-09-15T10:08:50.441Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.9.1
+SkillGroup,http://data.europa.eu/esco/skill/ee2576c0-1af5-44b5-8c0c-2002541d1ccc,former aux thèmes relevant du domaine sanitaire ou médical,,,released,2020-12-10T09:59:32.486Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.3.4
+SkillGroup,http://data.europa.eu/esco/skill/efb60300-0d55-4b2c-8038-8409587a4727,"promouvoir des biens, des services, ou des programmes",,,released,2022-08-24T13:36:35.207Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S1.6.2
+SkillGroup,http://data.europa.eu/esco/skill/efbb3d3b-a41c-4e0a-90a8-8e611eb1db9f,"prodiguer des conseils relatifs à des questions juridiques, réglementaires ou procédurales",,,released,2022-06-19T14:55:09.783Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.5.1
+SkillGroup,http://data.europa.eu/esco/skill/f0f8ceea-304e-42e8-80cf-ff1535eb7068,faire migrer et élever des animaux,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.9.3
+SkillGroup,http://data.europa.eu/esco/skill/f1612d7a-0338-4b0f-a2a4-86b5168e2596,collecter et préparer des spécimens ou des matériaux à tester,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.3.6
+SkillGroup,http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,trier et emballer des marchandises et des matériaux,,,released,2022-06-22T14:13:00.023Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.1
+SkillGroup,http://data.europa.eu/esco/skill/f289347f-a76d-4d03-a648-74b53ed1e636,fabriquer des denrées alimentaires et des produits connexes,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S6.5.7
+SkillGroup,http://data.europa.eu/esco/skill/f2cf57fe-d4cb-4b4a-831d-73171cc73909,"évaluer des systèmes, programmes, équipements et produits",,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.7.6
+SkillGroup,http://data.europa.eu/esco/skill/f306bf2a-271d-4059-ba7b-e83849cb8960,mener à bien des activités administratives,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.4
+SkillGroup,http://data.europa.eu/esco/skill/f4346da3-f6b2-4389-8a67-7c443b7e1609,pratiquer des sports,,,released,2021-08-06T11:15:38.673Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.14.1
+SkillGroup,http://data.europa.eu/esco/skill/f5328159-dfe9-4f25-b8e7-a03fb0d3a991,travailler avec des ordinateurs,,,released,2022-08-02T10:45:01.039Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S5.0
+SkillGroup,http://data.europa.eu/esco/skill/f55fac09-92a2-4a88-9a96-ee9fb5b18519,déterminer les valeurs de biens ou de services,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.6.2
+SkillGroup,http://data.europa.eu/esco/skill/f5c9eef3-0495-4747-9519-d71a58d252bd,démontrer une volonté d’apprendre,,,released,2021-09-13T13:32:34.13Z,,"http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Faire preuve d’une attitude positive à l’égard de demandes nouvelles et exigeantes et prendre des mesures pour tirer les leçons des difficultés rencontrées.
+  ",T3.4
+SkillGroup,http://data.europa.eu/esco/skill/f5f15f9c-6334-4728-8dc5-3a20a00dfc37,effectuer des calculs,,,released,2021-12-17T12:46:53.307Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S2.6.1
+SkillGroup,http://data.europa.eu/esco/skill/f73c2c9e-b097-4fcb-95d1-659ea0bd54a3,allouer et contrôler des ressources physiques,,,released,2022-06-19T15:45:14.266Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S4.3.3
+SkillGroup,http://data.europa.eu/esco/skill/f774131e-8f2d-43b6-8c20-7fe35fa0f0bd,"utiliser des outils numériques pour la collaboration, la création de contenu et la résolution de problèmes",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.6.0
+SkillGroup,http://data.europa.eu/esco/skill/f7c70392-a261-42e9-86a6-fccf3709ac81,conduire des véhicules,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S8.2.0
+SkillGroup,http://data.europa.eu/esco/skill/f7fc7bf8-f41d-44af-81e3-09b88e9779e6,tester des systèmes ou des équipements électriques et mécaniques,,,released,2022-06-19T15:45:33.818Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S2.8.1
+SkillGroup,http://data.europa.eu/esco/skill/f839b1da-78b6-4466-86f4-a5798821ea20,mettre en place des systèmes informatiques,,,released,2020-12-09T15:08:11.43Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S5.2.1
+SkillGroup,http://data.europa.eu/esco/skill/f8c676de-c871-424f-9a65-77059d07910a,manipuler et éliminer des déchets et des matières dangereuses,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.13.0
+SkillGroup,http://data.europa.eu/esco/skill/f9db77be-eb63-4937-a0d0-b581733e7d2a,apporter un soutien pour résoudre des problèmes,,,released,2022-08-24T13:39:08.535Z,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.1.2
+SkillGroup,http://data.europa.eu/esco/skill/fb01d224-882a-4346-99e2-bfd56f52d09c,"promouvoir, vendre et acheter",,,released,,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy",,S1.6.0
+SkillGroup,http://data.europa.eu/esco/skill/fbb861f7-2386-4d17-84f7-6e340a8e6cd9,apporter des soins personnels,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.6.0
+SkillGroup,http://data.europa.eu/esco/skill/fe317a4c-e4e0-45ee-8b0d-204a68014f9e,protéger et mettre en œuvre,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S3.3.0
+SkillGroup,http://data.europa.eu/esco/skill/fe5eabaa-63f6-4c44-b405-fc3ded8d56cb,diriger d’autres personnes,,,released,2021-08-30T16:33:15.592Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy","Guider, diriger et motiver d’autres personnes.
+  ",T4.4
+SkillGroup,http://data.europa.eu/esco/skill/ff565308-8f29-4f1d-a342-9a29bd8b7446,manipuler et déplacer,,,released,,,"http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skills",,S6.0
+SkillGroup,http://data.europa.eu/esco/skill/fff1d675-c36a-4c12-9cd4-407f21ccd06a,"traiter des informations, idées et concepts",,,released,2021-08-30T13:39:50.945Z,,"http://data.europa.eu/esco/concept-scheme/skills
+http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+http://data.europa.eu/esco/concept-scheme/skill-transversal-groups","Évaluer, saisir, enregistrer, transcrire et mettre à jour des données au moyen de systèmes d’information électroniques ou manuels.
+  ",T2.1
