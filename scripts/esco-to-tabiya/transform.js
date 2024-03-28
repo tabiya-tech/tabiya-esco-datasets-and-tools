@@ -13,7 +13,15 @@ const {transform} = require("csv/sync");
 const {parse} = require('csv/sync');
 const {stringify} = require('csv/sync');
 const {randomUUID} = require('crypto');
+const matchAndAppendUUIDs = require('./mapUUIDS');
+
 const conceptUriToUUIDMapper = new Map()
+
+
+const BASE_PATH_IN = '../../datasets/esco/v1.1.2'
+const BASE_PATH_OUT = '../../datasets/tabiya/esco-v1.1.2(fr)'
+const BASE_PATH_SAMPLES = '../../datasets/tabiya/samples/esco-v1.1.2(fr)/'
+const LANGUAGE_CODE = 'fr'
 
 const TabiyaObjectType = {
   ISCOGroup: "ISCOGroup",
@@ -108,7 +116,8 @@ function OccupationsRecordTransformer(record) {
     DEFINITION: record['definition'],
     SCOPENOTE: record['scopeNote'],
     REGULATEDPROFESSIONNOTE: record['regulatedProfessionNote'],
-    OCCUPATIONTYPE: "ESCO"
+    OCCUPATIONTYPE: "escooccupation",
+    ISLOCALIZED: "false",
   }
 }
 
@@ -205,7 +214,7 @@ function SkillsHierarchyRecordTransformer(record) {
 function OccupationsSkillsRelationsRecordTransformer(record) {
   const occupationID = getUUIDFromConceptUri(record['occupationUri'])
   const skillID = getUUIDFromConceptUri(record['skillUri'])
-  const occupationType = record['occupationType'] || "ESCO";
+  const occupationType = record['occupationType'] || "escooccupation";
 
   if (!occupationID) {
     console.warn("Occupation-To-Skill Relations: OccupationUri is not known: " + JSON.stringify(record))
@@ -259,49 +268,49 @@ function SkillsSkillsRelationsRecordTransformer(record) {
 function exportCompleteData(source_classification_folder, source_relations_folder, target_folder, stats) {
 
   stats.ISCOGroups = processData(
-    source_classification_folder + 'ISCOGroups_en.csv',
-    target_folder + 'ISCOGroups.csv',
+    source_classification_folder + `ISCOGroups_${LANGUAGE_CODE}.csv`,
+    target_folder + 'isco_groups.csv',
     ISCOGroupsRecordTransformer
   );
 
   stats.SkillGroups = processData(
-    source_classification_folder + 'skillGroups_en.csv',
-    target_folder + 'skillGroups.csv',
+    source_classification_folder + `skillGroups_${LANGUAGE_CODE}.csv`,
+    target_folder + 'skill_groups.csv',
     SkillGroupsRecordTransformer
   );
 
   stats.Skills = processData(
-    source_classification_folder + 'skills_en.csv',
+    source_classification_folder + `skills_${LANGUAGE_CODE}.csv`,
     target_folder + 'skills.csv',
     SkillsRecordTransformer
   );
 
   stats.Occupations = processData(
-    source_classification_folder + 'occupations_en.csv',
+    source_classification_folder + `occupations_${LANGUAGE_CODE}.csv`,
     target_folder + 'occupations.csv',
     OccupationsRecordTransformer
   );
 
   stats.OccupationsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsOccPillar.csv',
+    source_relations_folder + `broaderRelationsOccPillar_fr.csv`,
     target_folder + 'occupations_hierarchy.csv',
     OccupationsHierarchyRecordTransformer
   );
 
   stats.SkillsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsSkillPillar.csv',
+    source_relations_folder + 'broaderRelationsSkillPillar_fr.csv',
     target_folder + 'skills_hierarchy.csv',
     SkillsHierarchyRecordTransformer
   );
 
   stats.OccupationSkillRelations = processData(
-    source_relations_folder + 'occupationSkillRelations.csv',
+    source_relations_folder + 'occupationSkillRelations_fr.csv',
     target_folder + 'occupation_skill_relations.csv',
     OccupationsSkillsRelationsRecordTransformer
   );
 
   stats.SkillSkillRelations = processData(
-    source_relations_folder + 'skillSkillRelations.csv',
+    source_relations_folder + 'skillSkillRelations_fr.csv',
     target_folder + 'skill_skill_relations.csv',
     SkillsSkillsRelationsRecordTransformer
   );
@@ -309,48 +318,48 @@ function exportCompleteData(source_classification_folder, source_relations_folde
 
 function exportSampleData(source_classification_folder, source_relations_folder, target_folder, stats) {
   stats.ISCOGroups = processData(
-    source_classification_folder + 'ISCOGroups_en.csv',
-    target_folder + 'ISCOGroups.csv',
+    source_classification_folder + `ISCOGroups_${LANGUAGE_CODE}.csv`,
+    target_folder + 'isco_groups.csv',
     ISCOGroupsRecordTransformer
   );
 
   stats.SkillGroups = processData(
-    source_classification_folder + 'skillGroups_en.csv',
-    target_folder + 'skillGroups.csv',
+    source_classification_folder + `skillGroups_${LANGUAGE_CODE}.csv`,
+    target_folder + 'skill_groups.csv',
     SkillGroupsRecordTransformer
   );
 
   stats.Skills = processData(
-    source_classification_folder + 'skills_en.csv',
+    source_classification_folder + `skills_${LANGUAGE_CODE}.csv`,
     target_folder + 'skills.csv',
     SkillsRecordTransformer, 1000
   );
 
   stats.Occupations = processData(
-    source_classification_folder + 'occupations_en.csv',
+    source_classification_folder + `occupations_${LANGUAGE_CODE}.csv`,
     target_folder + 'occupations.csv',
     OccupationsRecordTransformer
   );
 
   stats.OccupationsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsOccPillar.csv',
+    source_relations_folder + 'broaderRelationsOccPillar_fr.csv',
     target_folder + 'occupations_hierarchy.csv',
     OccupationsHierarchyRecordTransformer
   );
 
   stats.SkillsHierarchy = processData(
-    source_relations_folder + 'broaderRelationsSkillPillar.csv',
+    source_relations_folder + 'broaderRelationsSkillPillar_fr.csv',
     target_folder + 'skills_hierarchy.csv',
     SkillsHierarchyRecordTransformer
   );
   stats.OccupationSkillRelations = processData(
-    source_relations_folder + 'occupationSkillRelations.csv',
+    source_relations_folder + 'occupationSkillRelations_fr.csv',
     target_folder + 'occupation_skill_relations.csv',
     OccupationsSkillsRelationsRecordTransformer
   );
 
   stats.SkillSkillRelations = processData(
-    source_relations_folder + 'skillSkillRelations.csv',
+    source_relations_folder + 'skillSkillRelations_fr.csv',
     target_folder + 'skill_skill_relations.csv',
     SkillsSkillsRelationsRecordTransformer
   );
@@ -401,12 +410,43 @@ let stats = {
   SkillSkillRelations: 0,
 }
 
-exportCompleteData(
-  '../../datasets/esco/v1.1.1/classification/en/csv/',
-  '../../datasets/esco/v1.1.1/relations/csv/',
-  '../../datasets/tabiya/esco-v1.1.1/csv/', stats);
-console.info("Transformed data: " + 'datasets/tabiya/esco-v1.1.1/csv/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
+const matchOldUUIDS = (basePath, targetPath) => {
+  // add the existing uuids from the esco v1.1.1 to the new tabiya isco groups
+    matchAndAppendUUIDs(
+         basePath + 'isco_groups.csv',
+        targetPath + 'isco_groups.csv',
+        'CODE', targetPath + 'isco_groups.csv'
+    );
+  // add the existing uuids from the esco v1.1.1 to the new tabiya occupations
+  matchAndAppendUUIDs(
+      basePath + 'occupations.csv',
+      targetPath + 'occupations.csv',
+      'CODE', targetPath + 'occupations.csv'
+  );
+  // add the existing uuids from the esco v1.1.1 to the new tabiya skills
+    matchAndAppendUUIDs(
+        basePath + 'skills.csv',
+        targetPath + 'skills.csv',
+        'ORIGINURI', targetPath + 'skills.csv'
+    );
+    // add the existing uuids from the esco v1.1.1 to the new tabiya skill groups
+    matchAndAppendUUIDs(
+        basePath + 'skill_groups.csv',
+        targetPath + 'skill_groups.csv',
+        'ORIGINURI', targetPath + 'skill_groups.csv'
+    );
+}
 
+exportCompleteData(
+    BASE_PATH_IN + `/classification/${LANGUAGE_CODE}/csv/`,
+    BASE_PATH_IN + `/relations/${LANGUAGE_CODE}/csv/`,
+    BASE_PATH_OUT + '/csv/', stats);
+
+console.info("Transformed data: " + `${BASE_PATH_OUT}/csv/` + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
+
+// add the existing uuids from the esco v1.1.1 to the new tabiya data
+// remove this line if you want to generate a file with no ancestry
+matchOldUUIDS('../../datasets/tabiya/esco-v1.1.2/csv/', BASE_PATH_OUT + '/csv/');
 
 // Clear the mapping between conceptUri and UUID for the next run
 conceptUriToUUIDMapper.clear();
@@ -426,10 +466,13 @@ stats = {
 }
 
 exportSampleData(
-  '../../datasets/esco/v1.1.1/classification/en/csv/',
-  '../../datasets/esco/v1.1.1/relations/csv/',
-  '../../datasets/tabiya/samples/esco-v1.1.1/',
+  BASE_PATH_IN + `/classification/${LANGUAGE_CODE}/csv/`,
+  BASE_PATH_IN + `/relations/${LANGUAGE_CODE}/csv/`,
+  BASE_PATH_SAMPLES,
   stats
 );
 
-console.info("Transformed data: " + 'datasets/tabiya/samples/esco-v1.1.1/' + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
+console.info("Transformed data: " + BASE_PATH_SAMPLES + "\n" + JSON.stringify({...stats, ...error_stats}, null, 2));
+// add the existing uuids from the esco v1.1.1 to the new tabiya data
+// remove this line if you want to generate a file with no ancestry
+matchOldUUIDS('../../datasets/tabiya/samples/esco-v1.1.2/', BASE_PATH_SAMPLES);
