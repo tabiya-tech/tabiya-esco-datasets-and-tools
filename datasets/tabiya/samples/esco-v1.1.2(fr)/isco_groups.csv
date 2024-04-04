@@ -1,0 +1,1858 @@
+ORIGINURI,ID,UUIDHISTORY,CODE,PREFERREDLABEL,ALTLABELS,DESCRIPTION
+http://data.europa.eu/esco/isco/C0,key_18163,"6a6b6ff4-96d0-4b9a-a408-a1cdcc22e7aa
+48f67ae1-c2e7-4d4a-a5de-bee87ad29512
+a022b2c3-d61f-4cfc-a972-ed2c411acbbf",0,Professions militaires,,
+http://data.europa.eu/esco/isco/C01,key_18164,"68ebeb7c-b34a-4df9-96b0-e8b9b6d48c4f
+f0355c43-63f6-465e-b9f9-890b8a350a4e
+aed1aad2-3650-46ff-b368-7ff212b5e27e",01,Officiers des forces armées,,
+http://data.europa.eu/esco/isco/C011,key_18165,"66ef85b2-cced-495c-aba9-4338d2ea2530
+e16e184d-c4d1-4e74-9a80-b1f8c97eedf6
+87f69026-f3f6-4b38-b581-c5e69d374d5c",011,Officiers des forces armées,,
+http://data.europa.eu/esco/isco/C0110,key_18166,"4b217535-7496-4631-bcc9-c1c9c0de2cd5
+16b0b529-1d9f-450c-b680-f8e06f2d8b88
+3dcf1593-d1b4-43ac-a6ad-8ac56a54a372",0110,Officiers des forces armées,,
+http://data.europa.eu/esco/isco/C02,key_18167,"b9cfe2aa-d9f5-4e40-bb2d-aa1749bf4009
+575e00d1-c650-49bf-8358-5801a0384f18
+1c4682e7-f514-4913-b2c5-5c5e3e9756ba",02,Sous-officiers des forces armées,,
+http://data.europa.eu/esco/isco/C021,key_18168,"8b4d947c-a313-484a-b18d-3a88d63fb37e
+27b7441f-b710-4119-942c-95feff9706f3
+6f12b9a7-a004-49c8-a2bc-9c3cc6a458ca",021,Sous-officiers des forces armées,,
+http://data.europa.eu/esco/isco/C0210,key_18169,"61f563bd-bc03-4ff0-8e35-a197a5dbfc6c
+8fc5065e-2edf-4c5b-93a1-ebaa598a25ee
+b62248ba-3316-48e6-95f3-e211f5f9d31d",0210,Sous-officiers des forces armées,,
+http://data.europa.eu/esco/isco/C03,key_18170,"6308f144-73e8-4a51-864a-f47ee125449e
+36484169-46f8-4133-9dd8-b8685c433231
+580bee07-2ada-4b7d-83ca-7b8a48804b37",03,Autres membres des forces armées,,
+http://data.europa.eu/esco/isco/C031,key_18171,"150414d8-93c5-42f4-8e06-96474976feba
+fe9c692e-8bac-4d05-9fe6-0d67a0b6b96f
+99428841-5aa7-431d-a3c0-c6882552f5ea",031,Autres membres des forces armées,,
+http://data.europa.eu/esco/isco/C0310,key_18172,"beaf1739-4619-4d2d-ac26-d6cfb570806c
+9f8906c3-c58c-4ac0-bc69-7a5b6ae9fb92
+a9ff6a48-149a-49b7-99bc-b2f308826882",0310,Autres membres des forces armées,,
+http://data.europa.eu/esco/isco/C1,key_18173,"e142d4f4-d69f-4bcf-b4f9-50f6be8754a8
+ab7d13dc-e8b5-488d-8f34-83c85cdea389
+cf50c272-bb01-4172-83e1-3120cad57fcb",1,"Directeurs, cadres de direction et gérants",,
+http://data.europa.eu/esco/isco/C11,key_18174,"06a1215c-6548-42c8-8ada-648d2b323464
+cfec4e75-4ca8-40d6-a1ef-a65eb5b59f2b
+c9b4bf11-0073-4ae1-86b8-a5a25cc7f79c",11,"Directeurs généraux, cadres supérieurs et membres de l’exécutif et des corps législatifs",,
+http://data.europa.eu/esco/isco/C111,key_18175,"741bad4e-5091-4fef-a6f8-0cd7e78c22fd
+bd0915e2-9c23-46fc-9b49-2c12f71a0df6
+dfa034e8-38f8-40de-bc94-d4c4ac8fcb5e",111,Membres des corps législatifs et cadres supérieurs de l’administration publique,,
+http://data.europa.eu/esco/isco/C1111,key_18176,"cefb468e-1018-4781-b5fa-2e862e56f323
+3b0626eb-2d9b-44e2-b432-862952d70002
+b61e3d20-2229-4f0e-ad35-b365e3564bb2",1111,Membres des corps législatifs,,
+http://data.europa.eu/esco/isco/C1112,key_18177,"96fa8099-9c45-4b45-8533-223119c8c43a
+35f10f2f-b909-4510-85cf-3298d302aad4
+2e68695d-b59a-45a5-86cb-7662d2a74116",1112,Cadres supérieurs de l’administration publique,,
+http://data.europa.eu/esco/isco/C1113,key_18178,"8331676b-38e5-4f7c-8575-bbf9c1a57601
+24790dbf-6282-46ac-b5ef-262d9ef501ff
+e0f4d999-85d0-41dc-8570-f2c99a281bae",1113,Chefs traditionnels et chefs de village,,
+http://data.europa.eu/esco/isco/C1114,key_18179,"692d3b1c-9820-44b2-84a2-988ca7cc47f3
+1a3d6b21-ca0d-4b3e-b611-3c6db1e6574c
+5aa2f5c7-ecd1-4513-9353-4df1841a389c",1114,Dirigeants et cadres supérieurs d’organisations spécialisées,,
+http://data.europa.eu/esco/isco/C112,key_18180,"fada9a43-a7ae-41d0-9fb2-d43643d5dac4
+bc917685-78be-4f03-ba46-3da8c83e984b
+997f2bab-6809-4d15-8c44-12d8397558ab",112,Directeurs généraux d’entreprise,,
+http://data.europa.eu/esco/isco/C1120,key_18181,"9efce500-4e53-4664-a9ac-bf614821170e
+974765ac-da29-4fb0-a341-44b77d5102e1
+caf0cb38-3fe2-4e25-8383-5dd29d59efb5",1120,Directeurs généraux d’entreprise,,
+http://data.europa.eu/esco/isco/C12,key_18182,"4ee04e88-55bb-48c2-925f-e8a4035f2323
+11574d24-92bf-4553-a1fe-1b656238cf49
+a6ac6aa9-bf62-4b45-9987-52cd6b13c322",12,Directeurs de services administratifs et commerciaux,,
+http://data.europa.eu/esco/isco/C121,key_18183,"76aa5278-e2e8-46dd-b369-99fc24b0b74b
+3adba212-c884-4710-99f7-ab4b8cfbb63d
+b0ae29f5-8edb-4847-9085-2d9a97124220",121,Directeurs de services administratifs,,
+http://data.europa.eu/esco/isco/C1211,key_18184,"4329b0c2-0209-4e92-8121-e26f2fb42257
+da628b71-2327-4bfb-9a12-9e8e23b4449d
+fd5ad12e-96e2-4601-849c-ad68d8ba73f9",1211,"Directeurs et cadres de direction, services financiers",,
+http://data.europa.eu/esco/isco/C1212,key_18185,"b3727e9c-e7bb-4350-87f0-6b86e48c47c9
+7af63533-d82a-4a89-b071-ddf855b91da6
+3d01a7eb-2b7d-4bd3-bfaf-8a51aaea4be3",1212,"Directeurs et cadres de direction, ressources humaines",,
+http://data.europa.eu/esco/isco/C1213,key_18186,"5ffb3e22-8f8d-44d0-8339-b1f3f1d6a031
+4d71e615-584b-4006-90c2-df06060a7d48
+039b0f0f-bb59-4503-a64a-4d6f1bd404c1",1213,"Directeurs et cadres de direction, stratégie et planifications",,
+http://data.europa.eu/esco/isco/C1219,key_18187,"21940fb0-9be8-43f9-820f-8f475002b774
+9d6acfce-a45f-4755-a956-9fa788b5a5b8
+46d32d1e-4475-4cbb-9392-7d29892f1275",1219,Directeurs des services administratifs non classés ailleurs,,
+http://data.europa.eu/esco/isco/C122,key_18188,"d63358a3-e1cb-4422-914d-45d1ea6a0285
+bc004d8a-0ceb-4344-ac59-1f80ece145b7
+6f2a1db9-9a53-442e-a08d-7588497e08e5",122,"Directeurs et cadres de direction, ventes, commercialisation et développement",,
+http://data.europa.eu/esco/isco/C1221,key_18189,"cc1e092e-2b90-4a6b-8f01-997b97e55597
+51b77cb1-30a8-4e83-b565-0d850988648c
+7fe95dd8-f730-45b7-840a-0402cabed37f",1221,"Directeurs et cadres de direction, ventes et commercialisation",,
+http://data.europa.eu/esco/isco/C1222,key_18190,"e31e4adc-ce3e-420e-b007-fba248cf024a
+84f9a111-00d5-49e4-92bc-3c6d0b198e79
+0d3167b0-b6d2-4d8a-9ebe-9b3102265919",1222,"Directeurs et cadres de direction, publicité et relations publiques",,
+http://data.europa.eu/esco/isco/C1223,key_18191,"5d1756e0-5c6c-4296-91ea-9c1795ceb5d5
+75f6d6fb-8f70-42b3-bd0c-f1426a5e5408
+0a0d3bf3-5d56-4e27-886e-d92ea4ce61dc",1223,"Directeurs et cadres de direction, recherche-développement",,
+http://data.europa.eu/esco/isco/C13,key_18192,"135df04b-b9e8-4531-be8e-23caf3bc2619
+974d1430-ec33-43c1-bf5e-8a2bcd6beb1e
+fb21b2d1-9344-4566-8dd7-0b9fe50419bc",13,"Directeurs et cadres de direction, production et services spécialisés",,
+http://data.europa.eu/esco/isco/C131,key_18193,"b5f48e8c-86ed-40d1-b031-6c3fd7ef4d16
+170687e8-5d68-4ceb-b8c7-15f18c11e524
+342b36fc-4833-465a-b557-c467d13b1ce5",131,"Directeurs et cadres de direction, agriculture, sylviculture et pêche",,
+http://data.europa.eu/esco/isco/C1311,key_18194,"be0ef6bc-c121-45cf-a24e-c02f05dcc12f
+0ce96e64-8b8f-43d4-8ff7-7e00f71d9730
+7889b3e6-d2ae-427e-8415-8711ba6ca4e8",1311,"Directeurs et cadres de direction, agriculture et sylviculture",,
+http://data.europa.eu/esco/isco/C1312,key_18195,"f7a8c4a2-6f3d-4439-a290-be60dac756f9
+c21cd5e0-1ee7-4be0-9a08-f95ab15a9d78
+92f93f31-6a7b-4f99-b245-371495da11e3",1312,"Directeurs et cadres de direction, aquaculture et pêche",,
+http://data.europa.eu/esco/isco/C132,key_18196,"2b83d40a-7fa6-4699-86fe-e75944a1485f
+eccc4c13-e416-45ac-9dfe-063e323d09a4
+263058ee-71ab-4c0a-9505-2c4be4f97a87",132,"Directeurs et cadres de direction, industries manufacturières, mines, bâtiment et distribution",,
+http://data.europa.eu/esco/isco/C1321,key_18197,"1008cc74-2b9c-4935-ab4c-0951b90a2218
+f64773ff-0a76-41b3-88de-8e04c3f2c6b3
+1225bb6a-4176-4105-af9e-35a113a14744",1321,"Directeurs et cadres de direction, industrie manufacturière",,
+http://data.europa.eu/esco/isco/C1322,key_18198,"3d145da9-fa20-4512-a06d-621c1dfa1d7e
+b992276c-8c0b-4523-b421-ef1b33c5c1c2
+eff7d9fc-a338-4d69-b012-3b653983eaa9",1322,"Directeurs et cadres de direction, mines",,
+http://data.europa.eu/esco/isco/C1323,key_18199,"818648b2-0480-42d9-8564-09cc25543766
+98c2d2f8-4ac5-442e-83f7-556443615de7
+373db5d6-f0c0-400a-871b-1a10749a67c4",1323,"Directeurs et cadres de direction, bâtiment",,
+http://data.europa.eu/esco/isco/C1324,key_18200,"7b818007-4912-448d-88c0-9357b198afc2
+d450b30c-4e06-45d7-8f81-86ed1fba4fee
+12c4a364-9666-4c9d-9c28-bbcf4f1a91a6",1324,"Directeurs et cadres de direction, approvisionnement, distribution et assimilés",,
+http://data.europa.eu/esco/isco/C133,key_18201,"d64cf669-656f-4db9-8ac0-383d2987158f
+be16418d-fff0-464f-be78-db2522829f38
+49ab2e45-4ac9-477d-999e-ec175a6f716c",133,"Directeurs et cadres de direction, technologies de l’information et des communications",,
+http://data.europa.eu/esco/isco/C1330,key_18202,"bac967ae-78ff-4e56-b3fb-1a93c28f80ea
+0e97bb47-fece-4952-9ae4-1a4c149b65d3
+77129a51-d9ae-45ac-899f-22f55190c91b",1330,"Directeurs et cadres de direction, technologies de l’information et des communications",,
+http://data.europa.eu/esco/isco/C134,key_18203,"58762834-4f82-4ad5-83e3-a45154193057
+7e499535-3a89-4cdb-a537-f47199ba7a67
+79d5026e-629b-4815-bca8-64b09713a632",134,"Cadres de direction, services spécialisés",,
+http://data.europa.eu/esco/isco/C1341,key_18204,"16d7a0e6-b0bc-4878-96ca-e99625ff4c79
+48c1832e-00fc-41c1-ab1e-5af4e9585cc8
+57f1661c-ef16-42a7-8d36-3e2cde0ca5bb",1341,"Cadres de direction, garde d’enfants",,
+http://data.europa.eu/esco/isco/C1342,key_18205,"0e9c0f84-74ef-4e20-9f91-95e49a09cb39
+f1030f52-ab1f-4587-af5f-3cad157aa026
+5a9f6b26-b11a-41f9-9561-99b7da9b542c",1342,"Cadres de direction, services de santé",,
+http://data.europa.eu/esco/isco/C1343,key_18206,"88806793-bd63-4ccb-886d-0bcae2bff6a2
+c039f157-5a8b-4038-bf54-800006c859c2
+028c5269-25a9-48db-aaf0-c4c08e0c3fe1",1343,"Cadres de direction, services aux personnes âgées",,
+http://data.europa.eu/esco/isco/C1344,key_18207,"d51b6891-a649-43e6-8ddc-76f060b9cf74
+6f574be3-383a-4c05-a31f-711f33783703
+639e1122-ff43-45d5-a8f3-396f734b5c8e",1344,"Cadres de direction, services sociaux",,
+http://data.europa.eu/esco/isco/C1345,key_18208,"4f2c542d-681d-4812-aed6-a9247d538921
+af488f16-7403-44de-ace5-06aa2a1da262
+3c286afb-994d-4c23-9e31-a0ecb28e3418",1345,"Cadres de direction, éducation",,
+http://data.europa.eu/esco/isco/C1346,key_18209,"689f93e6-37f4-49ad-97f9-0c68b21730db
+3e071697-012f-4bd9-8ecd-192e25f79736
+fe474822-0030-4013-8fe6-5c5dcf865764",1346,"Directeurs et cadres de direction, succursales de banque, services financiers et assurances",,
+http://data.europa.eu/esco/isco/C1349,key_18210,"d317f224-fbb7-4c6a-b1d3-378be6cdbf12
+171b79ce-600f-4bbc-9dc7-be2b8bb5c3ab
+f04d593e-a7ad-4847-892f-b7e30fabd331",1349,"Autres cadres de direction, services spécialisés non classés ailleurs",,
+http://data.europa.eu/esco/isco/C14,key_18211,"a3464da4-bea0-4128-a2ed-9ced79a95722
+60cae1ff-9a46-4db2-afe5-a5d651bdb6b7
+7d55c1d2-2852-4072-8b94-88908acc02ca",14,"Directeurs et gérants de l’hôtellerie, la restauration, le commerce et autres services",,
+http://data.europa.eu/esco/isco/C141,key_18212,"1f0da2e1-0f6c-4dc0-b91e-ea57f87fb49c
+dbd58d3a-405e-4c01-9af2-1c329df59280
+5fefccb2-da34-4830-8337-1022f3151bf4",141,"Directeurs et gérants, hôtellerie et restauration",,
+http://data.europa.eu/esco/isco/C1411,key_18213,"180af2d4-5b88-4e96-8ee5-8562fd06a386
+4eb5afe0-aca4-4a31-98e4-51e2afccf080
+8f6e524e-ab4f-4cf9-849e-543bc0b2e2b1",1411,"Directeurs et gérants, hôtellerie",,
+http://data.europa.eu/esco/isco/C1412,key_18214,"8b13cb27-2cea-41a9-b04c-b91baea4e680
+346ceed8-2233-478e-85c6-eab48162f36a
+6d7ed271-444d-470d-ae7b-5a00208260e5",1412,"Directeurs et gérants, restauration",,
+http://data.europa.eu/esco/isco/C142,key_18215,"029cd4c3-8be7-4f4f-a677-90511628431d
+5446ee5e-0a1a-4612-a698-2c4216afeed0
+b94cc64d-79cc-45a1-b840-30848c1748ab",142,"Directeurs et gérants, commerce de détail et de gros",,
+http://data.europa.eu/esco/isco/C1420,key_18216,"a031b01f-c4d4-4125-a32d-8203f708028e
+a4a52d0d-5638-46d7-b07e-c3a94b120d69
+7c439dc3-948f-4c8c-a911-048e2e385d6e",1420,"Directeurs et gérants, commerce de détail et de gros",,
+http://data.europa.eu/esco/isco/C143,key_18217,"dde71234-9380-4546-9c5f-65bf3a87e4c8
+0e7c68b8-7394-4865-9317-bf226988fa1f
+720e2c39-0a12-4f8f-93e1-fe4bd0f2a094",143,Autres directeurs et gérants,,
+http://data.europa.eu/esco/isco/C1431,key_18218,"1a037d1e-6bac-49d3-a103-b2901acce7cb
+70c9f179-b243-4166-b11d-39329535b7ff
+f49951ae-d93f-4c3f-b366-ce1f73c31aa7",1431,"Directeurs et gérants, centres sportifs, centres de loisirs et centres culturels",,
+http://data.europa.eu/esco/isco/C1439,key_18219,"ea3bc838-c222-46b6-aba8-3a039e0b2787
+a314c96d-69ec-4fa4-b918-92e1c98af9e4
+107e8fba-6aec-41e9-97e1-cf81af5285b7",1439,"Directeurs et gérants, services non classés ailleurs",,
+http://data.europa.eu/esco/isco/C2,key_18220,"873d2ce9-78f8-4cfb-aa53-d155594cbfa3
+cf798848-bb4b-4a15-a1a1-3baf26401d7e
+7af32ca1-2eae-497c-8040-56dd4a75a27a",2,Professions intellectuelles et scientifiques,,
+http://data.europa.eu/esco/isco/C21,key_18221,"d6db9115-951b-4096-81da-fa7f5b3dd431
+2d753fa6-9d40-413c-b654-876a80d684d3
+0c12b476-c7d3-4886-8434-20c470d3d52a",21,Spécialistes des sciences techniques,,
+http://data.europa.eu/esco/isco/C211,key_18222,"2fe5cf4a-4498-4edd-9385-3be6ea33384c
+2e365647-a289-4552-9f7a-4f3841b495d6
+d626f64d-dc10-4127-a192-8084fc10de1d",211,"Physiciens, chimistes et assimilés",,
+http://data.europa.eu/esco/isco/C2111,key_18223,"76dd3690-5348-4052-a8e8-1eb1874d5c89
+fbb1b40e-22ac-4f0d-8507-297744e5efed
+a84a42b7-8a2b-4d72-8a2b-7e658c15dcea",2111,Physiciens et astronomes,,
+http://data.europa.eu/esco/isco/C2112,key_18224,"c63d71d9-07b6-43d7-b39b-1c47228ef94b
+f787eef7-02c9-48e4-81dc-49b668efebcd
+7dde11f4-9822-4433-ac73-58f997ee3606",2112,Météorologues,,
+http://data.europa.eu/esco/isco/C2113,key_18225,"42e8ee1d-eb53-498a-b693-d78785154011
+1902ad77-be4f-4544-9ab8-3c62e0b9c315
+b50192da-6319-46a0-a268-00f2b6b75c64",2113,Chimistes,,
+http://data.europa.eu/esco/isco/C2114,key_18226,"0678561a-15c8-4f72-b351-10dbf23c8089
+84adb9a1-c4b0-4dac-a29b-0a8405570d0a
+bb4ffe5f-0af6-4926-9630-15efb3b1276b",2114,Géologues et géophysiciens,,
+http://data.europa.eu/esco/isco/C212,key_18227,"e16a4be9-3111-4634-9713-05096563333b
+b5dfe8d5-31a9-4b9c-96ef-55799f6616a6
+0352688e-196c-40c9-ba48-464ce10021bf",212,"Mathématiciens, actuaires et statisticiens",,
+http://data.europa.eu/esco/isco/C2120,key_18228,"ac7aafed-36be-49d3-94d4-4fc093d36cdc
+700ea3c2-1cf7-4262-9c41-2dff216d5cc4
+69a6c391-5fba-46d4-a386-9d118d07977d",2120,"Mathématiciens, actuaires et statisticiens",,
+http://data.europa.eu/esco/isco/C213,key_18229,"b41b3139-c302-4614-8abb-cc8b61ac4ec7
+6f503d7e-67fd-43b5-beb1-6ebfa98b4ef6
+bcd364ab-ffeb-4705-aad7-095ee6bd848e",213,Spécialistes des sciences de la vie,,
+http://data.europa.eu/esco/isco/C2131,key_18230,"c939bd7b-3f9a-4d7c-8628-1ef1544f87f6
+10bcd4b7-81f5-4225-89f7-42d51a048524
+11da153b-6c0e-4b22-9196-86b0f0b12c4d",2131,"Biologistes, botanistes, zoologistes et assimilés",,
+http://data.europa.eu/esco/isco/C2132,key_18231,"bbf81c3f-dfcb-42d2-8b6f-01c42a4643fc
+b9b0ab78-f714-40db-9a50-d2720babff21
+f7141b10-31f1-4ba3-af4c-1acd647e9cc1",2132,Agronomes et assimilés,,
+http://data.europa.eu/esco/isco/C2133,key_18232,"e7afac25-c01e-4f13-969e-962e89634f68
+e65d60cd-d52a-4892-81f9-44556d93f259
+b0c90018-7cbc-4438-ba3c-4cfbe4991006",2133,Spécialistes de la protection de l’environnement,,
+http://data.europa.eu/esco/isco/C214,key_18233,"c3a3b6d0-b919-4e8d-bcc4-ab3dac0e95c0
+b2017b5d-5f9b-4716-9390-e61b3e60ff65
+0b3dcca1-1d13-448d-81c4-05828786af37",214,"Spécialistes, sciences techniques (sauf électrotechniques)",,
+http://data.europa.eu/esco/isco/C2141,key_18234,"40bdffd0-b5b6-46a2-a37e-0f82a7f4ef54
+df944697-d12e-478d-b410-0e57688d8621
+2a761ecf-ce05-48e4-9f1b-6722f5a06c5f",2141,"Spécialistes, sciences techniques de la production et de l’industrie",,
+http://data.europa.eu/esco/isco/C2142,key_18235,"4b3b62e1-e119-4f03-9e53-de52fd97d452
+b793d0cc-f811-456d-baf3-24d263fd1c34
+30bbbc63-39cb-4e41-8310-e9913fdd3d17",2142,Ingénieurs civils,,
+http://data.europa.eu/esco/isco/C2143,key_18236,"559b93d4-77e1-46d8-8477-bf6b79fdb7e6
+f30f1256-3b87-426e-b432-0240f878299f
+34291aba-1896-439c-bd0e-2198eec9cf4a",2143,Ingénieurs écologistes,,
+http://data.europa.eu/esco/isco/C2144,key_18237,"0dfb2b41-493e-447b-bd9b-018b49187127
+8a11a976-3a2c-4bb9-8403-8a0be1aa06c7
+3641a41e-c8e1-4d90-8502-9dfe4523cd1b",2144,Ingénieurs mécaniciens,,
+http://data.europa.eu/esco/isco/C2145,key_18238,"02b512e5-aef3-4e7c-9479-64adfb19e07b
+0ea73911-e9c0-46c8-824a-139dade97857
+33bee948-58c1-4921-a846-91811286441f",2145,Ingénieurs chimistes,,
+http://data.europa.eu/esco/isco/C2146,key_18239,"4ae6cc7b-31ce-49bd-b651-830250b39fff
+3fa6adf5-636e-4a31-98fb-ada90aa16945
+9992a1cc-ed3e-4e4b-b084-5371f0fc09ef",2146,"Ingénieurs des mines, ingénieurs métallurgistes et assimilés",,
+http://data.europa.eu/esco/isco/C2149,key_18240,"11c58c02-b751-407f-b9cd-038c6ac353bd
+4f2e7091-c203-4762-a3aa-0866cb08217b
+61aef953-de5a-4707-ac93-8fa70bcbd66d",2149,"Spécialistes, sciences techniques non classés ailleurs",,
+http://data.europa.eu/esco/isco/C215,key_18241,"61173d43-eec7-4560-a114-7fc2b724c6e2
+b2da0cd2-7f7b-4426-bbf0-4cb7029dc37b
+5dc0bb75-43fc-4df7-af69-284e64cec7bb",215,Ingénieurs de l’électrotechnique,,
+http://data.europa.eu/esco/isco/C2151,key_18242,"753243e1-bf48-41ad-8721-ef490cb6bb3a
+36387d8b-4d63-4a75-bc12-5be02dd95a82
+96e93d33-aed9-45bd-a534-3de6ebf76bdb",2151,Ingénieurs électriciens,,
+http://data.europa.eu/esco/isco/C2152,key_18243,"871e38f2-ed1f-43d9-b43e-278c5d1adec4
+1e42809b-62fc-4040-9504-f7451a36ebe0
+741488dd-6930-41ba-b22b-eefbb5bc3bda",2152,Ingénieurs électroniciens,,
+http://data.europa.eu/esco/isco/C2153,key_18244,"222f36e0-4738-4ac1-97f8-c1824b3d4fbb
+1f7f58cb-4e7e-444c-a04b-a3dd8191268f
+8eca83f9-a79b-4c07-9364-912ec2461a16",2153,Spécialistes des télécommunications,,
+http://data.europa.eu/esco/isco/C216,key_18245,"54988b45-612f-4809-b877-421711db024d
+cc062abc-d5cf-466e-8166-d47df9b6635a
+20d41b6c-641e-4e3a-9ae1-e7685727765e",216,"Architectes, urbanistes, géomètres et concepteurs",,
+http://data.europa.eu/esco/isco/C2161,key_18246,"4c332503-6f2c-41e1-95bc-9fb7157c0eba
+6d92f6f7-cac3-4391-a926-c4649c5a7731
+0664330b-b4da-45b6-9b07-8ca4718ab3f4",2161,"Architectes, bâtiment",,
+http://data.europa.eu/esco/isco/C2162,key_18247,"8fee21c6-5adc-4258-a6e0-dc6de57ad525
+b665241a-6a6a-4692-b98d-decb8e0c56aa
+921365c9-b307-4baa-952b-31868578bc30",2162,Architectes paysagistes,,
+http://data.europa.eu/esco/isco/C2163,key_18248,"00e0c586-5b6e-48ba-96fd-48d13c2ed34b
+6912ee13-c76f-47b8-8ac0-8f733c32314a
+969edafa-6d94-4a43-b50b-934b40840d27",2163,Concepteurs modélistes de produits et de vêtements,,
+http://data.europa.eu/esco/isco/C2164,key_18249,"4ce6738e-7484-447c-8a4d-416aff65b1bb
+35cac9c8-2f85-41e5-9ecc-be03b7f7ac79
+e1ffbde4-2196-4919-b3cb-7ac24f039b74",2164,Urbanistes et ingénieurs de la circulation routière,,
+http://data.europa.eu/esco/isco/C2165,key_18250,"4d75e69d-5de2-49cf-b4f7-f4d7ba97ed5c
+f66c8b9e-54fc-49cd-885b-1b91da9874a5
+049a9c0f-c49d-4916-b44f-4aea4a2c6dbb",2165,Cartographes et géomètres,,
+http://data.europa.eu/esco/isco/C2166,key_18251,"6203e91b-f8a9-4657-b545-0e8314a6e7e1
+76afb0e3-ad04-4940-bafc-f37ddd17aa0a
+949616c1-7eeb-48f7-a42a-e377b65796c9",2166,"Concepteurs graphiques, multimédia – graphistes",,
+http://data.europa.eu/esco/isco/C22,key_18252,"916fcbe5-7301-46dc-b5b1-787af1f8c457
+037c0193-78d1-48c8-a95a-42813af55941
+ed27cd8b-ca71-41ab-8e33-9785cc761949",22,Spécialistes de la santé,,
+http://data.europa.eu/esco/isco/C221,key_18253,"814077a1-f4e7-499f-95f7-f3bb60a1895e
+7827c505-787e-47b1-9277-b8cc30837861
+832b5917-8b53-4968-b2de-efe1143d8d2e",221,Médecins,,
+http://data.europa.eu/esco/isco/C2211,key_18254,"0fdaf930-3848-45f4-8df6-22f8ec9fa18f
+52adb121-63bf-4c39-8b96-ef80a10d6d49
+296c2246-5586-4abb-97db-98f33f7a3793",2211,Médecins généralistes,,
+http://data.europa.eu/esco/isco/C2212,key_18255,"bf6bf224-9f3b-4fb7-ba7f-94970e59387f
+4d894526-96ee-4fb5-ac68-2bee60de386e
+315e03df-55d6-4a2a-a5b7-938e69eee735",2212,Médecins spécialistes,,
+http://data.europa.eu/esco/isco/C222,key_18256,"fa9c4bbf-65d2-4e2e-b48f-4f71b704a716
+94c642cb-e954-4670-b2d3-024efa90a3a6
+7f6b5a34-6e50-43cf-93e1-7d3f011ea6d1",222,Cadres infirmiers et sages-femmes,,
+http://data.europa.eu/esco/isco/C2221,key_18257,"90b121ad-b5a6-49b4-850a-28b1d1477523
+5fa33265-427f-40ed-aec5-fb0c84450282
+4797d607-2895-49a4-8691-65075a3a96b5",2221,Cadres infirmiers,,
+http://data.europa.eu/esco/isco/C2222,key_18258,"e0a5292b-893a-4be1-a6e3-fd31b7a8624f
+d42e6348-c61f-4317-88a7-32328c12a75b
+d208f03f-ee60-40de-8aaa-d414f265fb7b",2222,Sages-femmes,,
+http://data.europa.eu/esco/isco/C223,key_18259,"c679b50c-3981-4a51-9454-6bcfafea304e
+9dfe1ec1-9dac-47fa-b176-d99b3c3e8671
+c0b15d9c-0bee-40ec-ab50-19915e4f70f3",223,Spécialistes des médecines traditionnelles et des médecines complémentaires,,
+http://data.europa.eu/esco/isco/C2230,key_18260,"4a6993d2-7e4c-4f15-b970-71ff55e577fa
+302c7a5e-9390-4c6a-a7cc-982508edfb3a
+f60e679e-aed7-4b0e-b51f-fc71b1a074a7",2230,Spécialistes des médecines traditionnelles et des médecines complémentaires,,
+http://data.europa.eu/esco/isco/C224,key_18261,"c6eb20ab-fb03-4a97-9286-b6b1cf3d25b1
+9d4f2e47-ba7b-4d0e-b9f2-1d9377fe96bd
+181b4107-0c41-4e33-9d1e-e0f24a2ceb62",224,Praticiens paramédicaux,,
+http://data.europa.eu/esco/isco/C2240,key_18262,"1a175ea2-6820-425a-83c3-6b26bded2a1e
+22a766b7-d0b6-44d6-9195-40670610d9fb
+20a9eb3c-ac6a-4c6f-a92a-dca0a8daed0d",2240,Praticiens paramédicaux,,
+http://data.europa.eu/esco/isco/C225,key_18263,"8ac063f1-e3e8-4ff8-b121-77a22636f6c1
+e61f27ad-e442-4643-b989-83dcd93b931f
+fe78539b-132d-4203-bd22-763e01d48312",225,Vétérinaires,,
+http://data.europa.eu/esco/isco/C2250,key_18264,"16ce49fd-8837-48ab-a518-ff063e48f828
+37207c4c-9607-4980-a135-53a81a9421af
+eb3e9d49-a00c-4391-9ec1-d055bfd7c042",2250,Vétérinaires,,
+http://data.europa.eu/esco/isco/C226,key_18265,"a6436e9a-0d0d-48ef-94d0-2cc2715121ea
+31e5630d-091c-4285-a058-728e234192fd
+8da59ec8-a5d8-4d4a-a28e-92656a5c7313",226,Autres spécialistes des professions de la santé,,
+http://data.europa.eu/esco/isco/C2261,key_18266,"f1aa6da0-57ab-43c8-81d0-a536bfbc14e7
+9a496380-5cbd-4db7-bb8e-71e044ca3584
+e5f90a7e-cc99-469f-bb8d-86a9dac29f29",2261,Dentistes,,
+http://data.europa.eu/esco/isco/C2262,key_18267,"23384252-a6b4-4187-b375-ea5a308bd37a
+72f55250-7a23-4a83-9120-01123dbf0ef7
+71b8042a-a8cd-4682-8740-a7b37b4a6484",2262,Pharmaciens,,
+http://data.europa.eu/esco/isco/C2263,key_18268,"06eb1339-1137-4cfa-9fc8-b5661ff6660e
+ed8a9617-c2e0-4ef0-afff-7ae32521fa72
+0cac3461-d82a-41de-964d-4c57d3b0c093",2263,"Spécialistes de la salubrité de l’environnement, de l’hygiène et de la santé au travail",,
+http://data.europa.eu/esco/isco/C2264,key_18269,"72c56871-8c2c-47fd-8763-8026edcff8da
+644bbd73-724b-4510-a9eb-2f1bbd89aec1
+c87b1d7d-b3e4-41b2-8754-6c8f2afe651f",2264,Physiothérapeutes,,
+http://data.europa.eu/esco/isco/C2265,key_18270,"b30c9060-2ed8-4269-93cb-5ee082dda231
+c74d0c06-a555-4268-8673-d66ebca16a2b
+23fd1d78-2ba5-4959-80d7-a8a94be89f8a",2265,Diététiciens et spécialistes de la nutrition,,
+http://data.europa.eu/esco/isco/C2266,key_18271,"d571dbfa-a819-411b-8593-09fa93b3788a
+aa0fab7a-3367-4e63-815b-3ea589cd66b7
+61bc0f97-3dce-4da5-965a-d54011e3fc62",2266,Audiologistes et orthophonistes,,
+http://data.europa.eu/esco/isco/C2267,key_18272,"79397ea6-738d-4eda-a2f3-0007cb162118
+85659a33-ed81-4514-a0e8-4f48440a7564
+f3cb9f52-3b7c-42d6-a32c-f4bdc77925bf",2267,Optométristes,,
+http://data.europa.eu/esco/isco/C2269,key_18273,"ddb1bfd6-7866-4181-b8af-0d70021bf060
+66c6bf52-d652-4eb7-bdc7-cdbc81594628
+341498ca-d4cf-44c8-8d21-fc6ded0a404f",2269,Spécialistes de la santé non classés ailleurs,,
+http://data.europa.eu/esco/isco/C23,key_18274,"5bad38b2-3201-423a-ae5b-826334938765
+e912d9c5-54ca-4b68-943f-3e9baeca2989
+a3091314-4946-4729-838a-db97d031204a",23,Spécialistes de l’enseignement,,
+http://data.europa.eu/esco/isco/C231,key_18275,"c418739b-7b9c-41fa-866b-fdef2c527521
+6ccd8f4f-cd60-4faf-ac33-0fe2cee952fb
+0f6ffb61-54e0-491a-b5a9-694375a0b068",231,Professeurs d’université et d’établissements d’enseignement supérieur,,
+http://data.europa.eu/esco/isco/C2310,key_18276,"85dd37e8-1268-4bff-90f0-28084f850146
+8be8799d-7078-4553-a9b5-d8be0825ec6b
+b88326a4-9f92-40ff-a123-54f4397ddd1f",2310,Professeurs d’université et d’établissements d’enseignement supérieur,,
+http://data.europa.eu/esco/isco/C232,key_18277,"85605f0e-0843-4d67-a661-427fed203f0a
+56f34aea-d93e-4840-b9fe-61dbd25e88f2
+29f77def-dabc-4e61-b6b1-e99d0dd568a5",232,"Professeurs, enseignement technique et professionnel",,
+http://data.europa.eu/esco/isco/C2320,key_18278,"5063e0f0-bad1-4a90-b183-1feb9ffe85cd
+3ab87596-63a1-4ecc-8326-9495ae1cd947
+c23df2ce-bdd6-4d04-a2b5-db12c2afc48e",2320,"Professeurs, enseignement technique et professionnel",,
+http://data.europa.eu/esco/isco/C233,key_18279,"37b2f904-cf10-4227-a9db-0222d4e2d1d9
+a26f7414-3d58-4aa9-a0e3-73b21f66e3c0
+1c5e2d69-3ba7-4398-bbea-1014e09ca7e4",233,"Professeurs, enseignement secondaire",,
+http://data.europa.eu/esco/isco/C2330,key_18280,"b3dd3306-eb83-427d-9fec-0dc0acdd8486
+d326d45b-809d-4c37-98dc-b4703c369eeb
+87ddbfd7-b042-4351-8d2e-1b20bcdd7e76",2330,"Professeurs, enseignement secondaire",,
+http://data.europa.eu/esco/isco/C234,key_18281,"e65041d8-8792-4df3-aaf6-874aaa16dea4
+8ba51677-0bf9-491e-85b5-d67207158eda
+8df63f68-1b0c-45bd-8226-51abca4b9735",234,"Instituteurs, enseignement primaire et éducateurs de la petite enfance",,
+http://data.europa.eu/esco/isco/C2341,key_18282,"c60a31d1-3030-4410-ba85-54a5f54a3065
+1cf23062-32f8-44db-9d1a-6d212cf917a1
+b97f30a6-b97a-4299-83c5-f2f2340ace4f",2341,"Instituteurs, enseignement primaire",,
+http://data.europa.eu/esco/isco/C2342,key_18283,"99675f1f-6108-4add-8ebb-1e0d57e7018a
+52240b43-64b2-4660-b8d2-64b8b603318a
+e65d55d4-0139-44e7-be42-01d989269f82",2342,Éducateurs de la petite enfance,,
+http://data.europa.eu/esco/isco/C235,key_18284,"30712f1a-a5d4-463e-9aa1-cf382f72f04a
+9d8b6cdd-342c-4f0f-866b-49b63ad68023
+a455221f-207c-428f-b703-c66915078b94",235,Autres spécialistes de l’enseignement,,
+http://data.europa.eu/esco/isco/C2351,key_18285,"5fe2a27a-e0ac-47f6-9572-c9081100ef7c
+7983f13c-dbb4-4329-a262-b9a19195f2f6
+44d7b44c-478d-4bdc-8e7b-479d5fa0a355",2351,Spécialistes des méthodes d’enseignement,,
+http://data.europa.eu/esco/isco/C2352,key_18286,"db51006f-8338-449c-b449-023d0fea76bc
+5aa884c8-9096-4bc0-bb49-5bbef14c424c
+ba23e1d0-8d62-4ca9-bc48-dca5fb1331e8",2352,"Enseignants, éducation spécialisée",,
+http://data.europa.eu/esco/isco/C2353,key_18287,"fc82f62f-7542-4f87-87d7-5dc6d64f238d
+daa02580-7945-439e-9a3c-5ef0e497e564
+f9bbc465-7973-4474-826d-6da15d7b364d",2353,Autres professeurs de langues,,
+http://data.europa.eu/esco/isco/C2354,key_18288,"32180776-eea3-4f5e-93c2-5efb0d60440f
+76486632-38fb-4acb-9769-d5128304ab7a
+8b87eb29-4346-45eb-9123-f063e0c86cc4",2354,Autres professeurs de musique,,
+http://data.europa.eu/esco/isco/C2355,key_18289,"4296bf24-3fa7-4a02-b401-3a8e2bcc95c4
+6b9fbe1b-3845-43d4-b8a6-7b320a87b87b
+375f1bb2-3f33-4492-99b3-66c7963e581a",2355,Autres professeurs de disciplines artistiques,,
+http://data.europa.eu/esco/isco/C2356,key_18290,"7b333d25-770f-4b64-8033-5ef17b9c983a
+20fbe614-0d1f-412c-8ab8-7409af5a8c18
+deea5110-c11e-4d00-a252-cf4b7ed4cf8f",2356,Formateurs en technologies de l’information,,
+http://data.europa.eu/esco/isco/C2359,key_18291,"d7995413-1325-4ba6-aac6-69bf5efa2a00
+c330f735-de75-4509-a473-0d86d9fdebb4
+9ee66074-de63-48b3-9f6f-b95b37be439d",2359,"Spécialistes de l’enseignement, non classés ailleurs",,
+http://data.europa.eu/esco/isco/C24,key_18292,"202f5404-38cb-4dac-92f4-16b0193ff04c
+591211a6-c621-4c5b-a8c0-9591e0c98e93
+02e4bae4-28ce-4a7e-a382-55c0b816d838",24,Spécialistes en administration d’entreprises,,
+http://data.europa.eu/esco/isco/C241,key_18293,"d91e001e-9ec3-4e18-b9e3-a4d52d17d96c
+d8876149-16dd-4216-a92c-07110cfbf368
+135aba42-1725-4130-b0d3-bd7e5706758b",241,Spécialistes en finances,,
+http://data.europa.eu/esco/isco/C2411,key_18294,"5ea12fb2-fb91-48ed-8b3b-2d4f21e39236
+458fdddb-9daf-4e1d-b986-25fcef0c7682
+c33eef16-5513-4525-9892-d090a1088515",2411,Cadres comptables,,
+http://data.europa.eu/esco/isco/C2412,key_18295,"c9381942-6b0e-4082-bbc1-6be3748c48fe
+63e759b3-ea11-4d2a-82e5-aae1e6e04d1c
+3e2fe894-46e8-4598-ab21-4c4a7af96512",2412,Conseillers en finances et investissements,,
+http://data.europa.eu/esco/isco/C2413,key_18296,"ea08be3f-4fc9-4916-956b-445957fd137a
+0c66a747-eac2-4ec1-adbd-0616095eb462
+9cbf098b-462e-4b1e-8fdf-94d69faba0f6",2413,Analystes financiers,,
+http://data.europa.eu/esco/isco/C242,key_18297,"962e1469-df0a-4500-ac88-4a82226de0d2
+1e89dfe2-8917-4fad-9a34-0af138a76e71
+0b7dc27e-6769-4bdd-be5e-e33c1d76909b",242,Spécialistes des fonctions administratives,,
+http://data.europa.eu/esco/isco/C2421,key_18298,"1e48b69e-f6c6-462f-b43b-756e49fef305
+b9a763e2-97a4-4999-aef7-97ab9b222f5a
+3696a5b8-36fa-4ed3-b5e0-4a686b4bf654",2421,"Analystes, gestion et organisation",,
+http://data.europa.eu/esco/isco/C2422,key_18299,"78ab553d-8d5b-4562-8e8a-efc77b66ddc8
+7682cd0c-e1dd-4ad5-afaa-c036477916f8
+1db910b9-6785-4ee8-903c-51be35fd863c",2422,"Spécialistes, administration et politiques",,
+http://data.europa.eu/esco/isco/C2423,key_18300,"5605535b-6740-47dc-9bb5-c08befeae56c
+f7ff464b-afa6-4804-8ca4-d06b6e309112
+60dfb9ec-b740-4671-86a4-2e00ff8a6c34",2423,"Spécialistes, ressources humaines et évolution de carrière",,
+http://data.europa.eu/esco/isco/C2424,key_18301,"c2da3cc1-e964-468f-970d-0862c127217c
+58fce133-aa24-4304-8ccf-7c301eb934d5
+272bf64f-227c-4c5d-9204-4a2c17e85e03",2424,Spécialistes de la formation du personnel,,
+http://data.europa.eu/esco/isco/C243,key_18302,"5f97c953-bfe2-47fd-8dd5-755cf1440949
+4e14321e-0866-401f-ace4-416f24381ea7
+01147365-5984-4b88-ba09-c843ec4eb52f",243,"Spécialistes des ventes, de la commercialisation et des relations publiques",,
+http://data.europa.eu/esco/isco/C2431,key_18303,"09346191-8556-40e1-b176-3683d689f578
+3d968512-399c-4a88-8680-86a1621cc702
+5ae47d20-70b5-4387-880f-6aa9aac9840c",2431,Spécialistes de la publicité et de la commercialisation,,
+http://data.europa.eu/esco/isco/C2432,key_18304,"a4d2e154-4f96-4084-b1a7-45818a516a2b
+33722895-da1d-4a73-8982-451fdd4583b2
+41a8634e-b606-4be5-8f43-caae98ccdb05",2432,Spécialistes des relations publiques,,
+http://data.europa.eu/esco/isco/C2433,key_18305,"74428c8d-9045-4aa9-a574-0613d858166e
+7275bd1c-61d4-4090-9c47-0be21b16a79f
+8f9e4acd-ea1d-4c54-8f4b-de4a67c34b7b",2433,"Spécialistes des ventes, secteurs médical et technique (à l’exception des TIC)",,
+http://data.europa.eu/esco/isco/C2434,key_18306,"21110702-b98b-43ef-80bc-9bc16194a286
+0a5a640a-44d9-46ca-8080-a8d14347b524
+d9f1a21e-f776-4f10-8d6c-40b9163deb94",2434,"Spécialistes des ventes, des technologies de l’information et des communications",,
+http://data.europa.eu/esco/isco/C25,key_18307,"14eb06a1-4501-46e3-8119-0113fd7c0562
+0253c9d3-a51f-4588-bb2d-7821a3c329f6
+9634cffb-934e-4066-a8b5-f866fd56c582",25,Spécialistes des technologies de l’information et des communications,,
+http://data.europa.eu/esco/isco/C251,key_18308,"f63b6db9-76b1-428e-8e0a-b4829079d7f9
+4260f584-4b26-42be-b586-f149c227410f
+0abf2d9a-81bf-44a7-993f-26ed83b47bd9",251,Concepteurs et analystes de logiciels et de multimédia,,
+http://data.europa.eu/esco/isco/C2511,key_18309,"841dcd09-908c-4d48-bfa9-8b3ed9b2127e
+a5c2f6bc-2591-45df-8a1a-b89dab6f51cf
+5ab419ba-2e17-4650-a9d6-1050dcf7ce6f",2511,Analystes de systèmes,,
+http://data.europa.eu/esco/isco/C2512,key_18310,"17cb9590-fed2-4161-9cd0-4fcbf3582ada
+706fb736-b577-4257-893a-db2ec55601ef
+3f604880-19fb-48d7-9816-bbc8a286cc4d",2512,Concepteurs de logiciels,,
+http://data.europa.eu/esco/isco/C2513,key_18311,"8c2366c3-2692-4253-9118-48715c92508e
+04450644-fde7-441d-88e8-d39df3dc39d9
+beca422e-6a9b-4718-948a-7e52f7678943",2513,Concepteurs de sites internet et de multimédia,,
+http://data.europa.eu/esco/isco/C2514,key_18312,"a22f6dd7-9993-4af2-a415-61776d755a9d
+7e09416b-5c17-46db-8ad8-a8f88e0da443
+b6e25d72-09d7-4c59-bb17-160d44378fbf",2514,Programmeurs d’applications,,
+http://data.europa.eu/esco/isco/C2519,key_18313,"a92099d8-0f99-4142-bd1e-1a9952a0e4d2
+41d2f228-9293-44e3-8f84-f06aeb803f4f
+61e998bc-1a5d-4be2-a37b-bd6d9f7ff2b4",2519,"Concepteurs et analystes de logiciels, et concepteurs de multimédia non classés ailleurs",,
+http://data.europa.eu/esco/isco/C252,key_18314,"284b3115-b2fe-4c3b-8510-61775839a973
+7c9dc4f6-d4f7-42c3-9b98-8da4cd6c2327
+d23a37c2-4398-428c-98da-77417372a0af",252,Spécialistes des bases de données et des réseaux d’ordinateurs,,
+http://data.europa.eu/esco/isco/C2521,key_18315,"258ddf82-1ff3-4f2c-be57-d704e5ccb963
+9f5e9250-2456-44d3-b9b0-997035c1b7b4
+185ebc5c-393e-49ed-8f33-022fee0ad1b3",2521,Spécialistes des bases de données,,
+http://data.europa.eu/esco/isco/C2522,key_18316,"b8ea93cd-fa78-4e04-9e28-e68a886273b8
+18e3bd87-84b5-4090-967f-cf2038993723
+4644190d-54f2-4251-8a8c-af3bd77a5ce1",2522,Administrateurs de systèmes,,
+http://data.europa.eu/esco/isco/C2523,key_18317,"cdf5a769-1ddd-47a8-92c2-2a18624be64a
+31ffa7fd-32ce-4464-8f7b-900743f3a8bf
+00b5072c-d636-44eb-bbd5-03d9f35e44d0",2523,Spécialistes des réseaux d’ordinateurs,,
+http://data.europa.eu/esco/isco/C2529,key_18318,"ccb950a1-64b7-4105-b840-3981ad89f505
+cbe97a36-1858-4361-8622-1569c4229b98
+1173e789-61d0-48ae-8dc5-baba42a8eb78",2529,Spécialistes des bases de données et des réseaux d’ordinateurs non classés ailleurs,,
+http://data.europa.eu/esco/isco/C26,key_18319,"177a4130-38f0-4bb5-8857-d8b3a30430ee
+c2276833-4aef-4629-9cd1-eb247e2b2ba3
+4042264b-5cc6-4bd4-afc8-8c30e5d9e8f5",26,"Spécialistes de la justice, des sciences sociales et de la culture",,
+http://data.europa.eu/esco/isco/C261,key_18320,"3da0154c-1624-4f9a-8057-d8986a3c14c1
+e00ce639-cd9e-4357-a7a5-ca2948126645
+5c8a7293-c6fc-490f-9aa6-1788a4703269",261,Juristes,,
+http://data.europa.eu/esco/isco/C2611,key_18321,"a0275b41-891b-46fc-a69b-8c90bb2b9e99
+99715236-3530-46da-b802-4d8158a855ed
+6cc32d9c-54a9-41dd-b93d-74c012497178",2611,Avocats,,
+http://data.europa.eu/esco/isco/C2612,key_18322,"c29f1a04-8b18-4ff0-904d-ce4cd31f6e13
+14ab0313-6c9f-4a5a-aee2-66e792c03ef5
+8caa9018-94a0-4023-a63d-485dd3062495",2612,Magistrats,,
+http://data.europa.eu/esco/isco/C2619,key_18323,"2be46374-dc71-4074-81aa-6f8baba3a73b
+cac28260-8d45-49ac-a6f8-2a73e9a52a60
+c547fa4f-b75b-45ba-a717-2639070976f8",2619,Juristes non classés ailleurs,,
+http://data.europa.eu/esco/isco/C262,key_18324,"ac9f6767-7826-426e-8bab-75deaf2cd0df
+1388d958-b947-4bbf-af7a-02dc108e299d
+9f7c1d2c-b3ad-49cf-ab64-7e47543ec177",262,"Archivistes, bibliothécaires, documentalistes et assimilés",,
+http://data.europa.eu/esco/isco/C2621,key_18325,"e7b61cb6-fed3-408d-ad67-37e2ef0a6eee
+9838f41f-9c94-44f3-bd25-7695dd2f1230
+5a61b8a4-2592-4f36-b399-532e52e66a48",2621,Archivistes paléographes et conservateurs de musée,,
+http://data.europa.eu/esco/isco/C2622,key_18326,"fda0df04-abb3-439b-a7ed-b2b92c2558c7
+12a89e45-c2bc-430d-b3ca-623f83a08daf
+d07c18b6-3a1f-423c-aa59-5110781bc5f6",2622,"Bibliothécaires, documentalistes et professions assimilées",,
+http://data.europa.eu/esco/isco/C263,key_18327,"d6f125a7-6a07-47e6-93ae-53466f57d974
+a6dd36ba-1df9-4ebe-b526-23f0cb5f8058
+a6ff82cf-cb0a-4830-84cb-bc8302c6b913",263,Spécialistes des sciences sociales et du clergé,,
+http://data.europa.eu/esco/isco/C2631,key_18328,"45d0884f-f9c2-4518-8906-ce19386d6a75
+ddbbbf5e-f490-44c5-8730-020940daa626
+f095beaf-7309-44fe-8eb7-1c92ca9bb769",2631,Économistes,,
+http://data.europa.eu/esco/isco/C2632,key_18329,"4339fde0-2d8d-450c-a7da-92ee67b9ab2f
+6c69fa04-507c-4b91-bd22-eaf32bd3591e
+a727e5b1-fc9f-4b64-82ec-725ed3836ced",2632,"Sociologues, anthropologues et assimilés",,
+http://data.europa.eu/esco/isco/C2633,key_18330,"5d51f5e7-98f9-4d93-b5de-3400e88fc8cf
+5ebceb50-979a-45a7-82fe-6d5859aefc79
+0e636d99-ba20-4ee4-9866-9aacf83b4f26",2633,"Philosophes, historiens et spécialistes des sciences politiques",,
+http://data.europa.eu/esco/isco/C2634,key_18331,"1c5f5d58-e3fc-4f97-b26d-752d8848bee8
+cf023294-0960-445c-98e1-04bffa0ce341
+9db6d02f-eb3f-43f7-8f43-d9ae1d084828",2634,Psychologues,,
+http://data.europa.eu/esco/isco/C2635,key_18332,"1b31ebd2-fa18-442b-8b91-73c540c6b730
+ef5f0ad7-61fb-4259-8a77-7101878b0972
+7ba63412-02ac-48d4-80c7-c0dd074656e6",2635,Spécialistes du travail social,,
+http://data.europa.eu/esco/isco/C2636,key_18333,"5c50945e-f85a-40b2-abf9-ddd6f686e84b
+ed6ff979-eeb5-423e-a623-86991cd446c0
+03456955-eae5-4198-81f2-91f64234ec19",2636,Ministres des cultes,,
+http://data.europa.eu/esco/isco/C264,key_18334,"06145a8f-0c68-4bf4-a65d-34cc991150a2
+570b3666-4f23-405e-b566-3a25e9596065
+53674d0a-3f13-4eee-951a-dc97101c3296",264,"Auteurs, journalistes et linguistes",,
+http://data.europa.eu/esco/isco/C2641,key_18335,"057a85d7-6b9e-4063-906d-d568a0ea6c83
+6803f168-76f2-48a3-b582-9ceeedfc9f44
+2c5d8f01-090a-4bcf-92a8-a9d48a96bf28",2641,Auteurs et autres écrivains,,
+http://data.europa.eu/esco/isco/C2642,key_18336,"c7ceeb4c-c633-442e-8e50-c83e21cd848a
+09d62e0d-d76c-4ee1-bc8c-080066b781be
+514cf87b-c619-4cb4-8c55-279c3f93e216",2642,Journalistes,,
+http://data.europa.eu/esco/isco/C2643,key_18337,"2d144ac6-cbc0-4854-8968-16ca91ad0ccc
+3c6a5399-5d7f-4aee-8f95-7b07148165ca
+cbc583a2-f281-457e-ac29-e3b4ee83b9c6",2643,"Traducteurs, interprètes et linguistes",,
+http://data.europa.eu/esco/isco/C265,key_18338,"cc6450f5-0022-4393-b087-775f5c90679d
+47ff57f3-b358-40e5-b672-1e8523a70558
+1c4dc485-79f9-4aa9-8e2e-a3d95c408953",265,Artistes créateurs et exécutants,,
+http://data.europa.eu/esco/isco/C2651,key_18339,"0e673db2-b22f-470a-aeb0-316042a02600
+97442fd4-1996-4d12-8b99-46c94f69c02c
+10657333-de44-4298-91e4-f11367edda16",2651,Artistes plasticiens,,
+http://data.europa.eu/esco/isco/C2652,key_18340,"12189a61-7b94-41f4-bb19-7dfce0fb0d00
+fbfc47e3-3a2b-4477-a573-c647651f355b
+637ca9e9-5f13-484a-8efe-6b8a5a6b4099",2652,"Compositeurs, musiciens et chanteurs",,
+http://data.europa.eu/esco/isco/C2653,key_18341,"b19de302-8281-4081-a0ca-614bc78534ae
+78661041-2b38-4dae-ae26-daa229cbdc8b
+0138bcf2-9bf4-44bb-a83f-0b241db52217",2653,Danseurs et chorégraphes,,
+http://data.europa.eu/esco/isco/C2654,key_18342,"069820b6-93f6-46d6-aeae-e9e688b4e390
+d6aa8396-cd06-4276-a4e9-6e2b4441a521
+0b566b1a-2d9e-4456-a7d8-f9a71b88ab96",2654,"Metteurs en scène de cinéma, de théâtre et d’autres spectacles",,
+http://data.europa.eu/esco/isco/C2655,key_18343,"f12a3970-d2ef-474f-abf0-d4eee06f77b4
+cb9f0097-4d53-4be5-bddd-a8febfc77af1
+c55a476c-4b41-4cae-a148-e21fa951a4da",2655,Acteurs,,
+http://data.europa.eu/esco/isco/C2656,key_18344,"4198d0c1-c747-4deb-a7e7-42a9063da54f
+9b4d595e-8a09-449b-a1e8-1e0a8646147d
+21867797-f161-467d-9beb-681ebe1eae33",2656,"Annonceurs-présentateurs de radio, de télévision et autres médias",,
+http://data.europa.eu/esco/isco/C2659,key_18345,"8a0cb944-4c6b-440d-804a-b0066ff7be8c
+2959e458-3cb1-4a44-80ef-dd20464e3249
+fd34a339-21d8-4b8a-a6c1-b960de9fafcb",2659,Artistes créateurs et exécutants non classés ailleurs,,
+http://data.europa.eu/esco/isco/C3,key_18346,"103d3168-dde0-454b-9b0d-826f7ac8c5fc
+98ccd01c-42e3-4051-a885-0e906307989d
+df688439-58b3-4611-a9af-9548d5608185",3,Professions intermédiaires,,
+http://data.europa.eu/esco/isco/C31,key_18347,"9e560f2d-a5d1-43d2-8030-3bb359f6db33
+f5a3147b-2301-45f0-b4e6-946a4ccd91a8
+582428bd-8fa1-48da-9573-649de92cb8a9",31,Professions intermédiaires des sciences et techniques,,
+http://data.europa.eu/esco/isco/C311,key_18348,"c1dd1d92-c430-4e40-95e0-33d3040ba1d1
+13bb5f10-2426-4d74-bce9-7e3e2cecfe5f
+524e595d-abb5-4ad2-8ea3-636d6a2a9d7a",311,Techniciens des sciences physiques et techniques,,
+http://data.europa.eu/esco/isco/C3111,key_18349,"cb6cf43c-5e4e-4b3e-9c80-a480c06fc4c8
+fe7c8736-4ed1-423d-b2d5-71c8a299edda
+e7527952-d095-4106-b2a8-962a6910c4a3",3111,Techniciens des sciences chimiques et physiques,,
+http://data.europa.eu/esco/isco/C3112,key_18350,"03899ccd-a64a-4b3d-97a7-773e6d794238
+39680576-8abf-4b64-bb3f-a6b193717e1e
+b6ca7d65-9ef3-41d4-a612-48d6c41ca42e",3112,Techniciens du génie civil,,
+http://data.europa.eu/esco/isco/C3113,key_18351,"170df57b-4bea-4522-a07f-d4b8dd38dd23
+a7a7efb6-5024-454a-bfc7-a37db03fb1ee
+7e4cae80-8f97-481c-a2af-0f6d250659c7",3113,Techniciens en électricité,,
+http://data.europa.eu/esco/isco/C3114,key_18352,"170cdff0-8d35-4a11-8b71-d808aa1576ae
+7b05797d-684f-4534-a55e-811b829925a0
+557fd2f6-d926-4009-b6d7-500150ba208b",3114,Techniciens en électronique,,
+http://data.europa.eu/esco/isco/C3115,key_18353,"c8e1f850-de10-4857-8618-79a88e30ef58
+a8ef545b-99e3-49d9-b053-e49fb097800d
+164682d3-8a8b-4653-a563-b3589f304b12",3115,Techniciens en construction mécanique,,
+http://data.europa.eu/esco/isco/C3116,key_18354,"37e89c2a-a5c3-410e-8d24-3be8b77ec9a9
+93522fad-8c26-4720-b4c8-9941efeb4777
+1d2aef67-ca69-4d51-9ec7-1231358390b0",3116,Techniciens en chimie industrielle,,
+http://data.europa.eu/esco/isco/C3117,key_18355,"a6eabccd-6993-4fe5-b874-d37df9ac6400
+f894de82-3489-44e1-9ba8-8956792e0b67
+310c34ae-11c4-4453-b2a7-a643ef3f4c64",3117,"Techniciens des mines, techniciens métallurgistes",,
+http://data.europa.eu/esco/isco/C3118,key_18356,"0c5881a2-584b-4cf5-8b3e-ab6d55f8c883
+8695573c-f25c-4043-b593-497d52888c5e
+5c2a4456-4a62-4481-87d7-cdbf8d2427d3",3118,Dessinateurs industriels,,
+http://data.europa.eu/esco/isco/C3119,key_18357,"18034416-570e-4c15-9550-57c5666f0dd6
+78b32a79-26b6-4b81-aae2-106fee46896d
+c5b6bb21-eb02-4bbf-8120-379e160358d0",3119,Techniciens des sciences physiques et techniques non classés ailleurs,,
+http://data.europa.eu/esco/isco/C312,key_18358,"4149e13b-6c3c-4190-9c7e-ed5fb66f08bd
+fed464b3-f770-4bd7-aa4c-ca5afe51ac55
+72d15824-5970-43cc-ada7-2e825680eaa7",312,"Superviseurs, mines, industries manufacturières et bâtiment",,
+http://data.europa.eu/esco/isco/C3121,key_18359,"74a52e9a-55b0-4c12-b44c-a04cd9bcaef7
+ef69cab8-0347-4873-bcd9-6fb8811157c3
+b666551f-c7fc-4e96-8cb9-bdfb709e6c41",3121,"Superviseurs, mines",,
+http://data.europa.eu/esco/isco/C3122,key_18360,"17d25749-c8b3-4e62-a3b3-6d19398bd359
+8a750416-2408-47d8-b201-7b19a2b1695e
+c1ac12c0-b4c2-4ef2-bf41-d0e73f3ab970",3122,"Superviseurs, industries manufacturières",,
+http://data.europa.eu/esco/isco/C3123,key_18361,"fd5b500a-d6da-4c13-8a12-6677d75c3b04
+06e16c3b-3f5c-4484-8a49-2f0db231380d
+9cedaa9e-1eaf-4e6a-97d7-242578329652",3123,"Superviseurs, bâtiment",,
+http://data.europa.eu/esco/isco/C313,key_18362,"20351a95-a87a-4a94-bd87-9ba982add573
+2b559f9c-b048-4b45-bced-0961db78ae9a
+a5fe88e3-cd3e-482b-ba0d-d6a1dec570af",313,"Techniciens, contrôle de processus industriels",,
+http://data.europa.eu/esco/isco/C3131,key_18363,"2d7c2524-fcb2-4ef6-ba10-37b5c2c3f170
+fbd30aae-9113-447d-adc6-77b457a6198c
+cfcae77c-6a57-4710-96e7-c07a3ae4bd16",3131,Conducteurs d’installations de production d’énergie,,
+http://data.europa.eu/esco/isco/C3132,key_18364,"751be34d-7031-4923-a23a-af6dc72eb415
+37697aed-685f-43c0-b822-be460d8438d2
+e6fe22ac-c90c-4cf9-9153-74ccfa9e8ad1",3132,Conducteurs d’incinérateurs et d’installations de traitement de l’eau,,
+http://data.europa.eu/esco/isco/C3133,key_18365,"be843be5-ec88-457c-9192-53fe17d78c5a
+03c7c29a-6296-405d-9286-0dd1b59c60a0
+ff10a10b-378b-42a1-956e-a8f55a5ec91e",3133,Conducteurs d’installations de traitement chimique,,
+http://data.europa.eu/esco/isco/C3134,key_18366,"19d8a6a8-e09c-4508-9e2c-8e0f1d142e8a
+cbb1f88e-b4fc-4951-bd49-010cb86082c3
+6777d06b-f9f2-4acd-9997-271db193804f",3134,Conducteurs d’installations de raffinage de pétrole et de gaz naturel,,
+http://data.europa.eu/esco/isco/C3135,key_18367,"a527f3ef-9406-422e-93b9-ba9b437a7c59
+62c37dc5-221b-4409-8eaf-65ba7fc7e85a
+3ed53f0f-9902-466f-a3a2-db49864a57ff",3135,"Contrôleurs des processus industriels, métallurgie",,
+http://data.europa.eu/esco/isco/C3139,key_18368,"996b4f36-c977-41c4-814a-4efddc4be09f
+eb9056f4-120e-4b38-bf68-ddbc925de908
+3d404cda-32d5-4f55-b2a7-9cea43d649fe",3139,"Techniciens, contrôle de processus industriels non classés ailleurs",,
+http://data.europa.eu/esco/isco/C314,key_18369,"142a8a40-b0cb-4d72-85d4-820b79a6df41
+e30d9f57-8a3e-4f59-b745-9e35cb62eff0
+52ea69dd-76b3-4cf5-897e-8ad300b9999e",314,Techniciens et travailleurs assimilés des sciences de la vie,,
+http://data.europa.eu/esco/isco/C3141,key_18370,"d9774f2a-8cdd-4eb5-994e-6890e09b6705
+c35f14e8-b9c8-49a5-9841-ff0372f8beb8
+45e32170-61ef-41f4-80c6-173653b1ce84",3141,Techniciens des sciences de la vie (à l’exception de la médecine),,
+http://data.europa.eu/esco/isco/C3142,key_18371,"d3396953-f8da-425a-91d4-ebeaf65f7730
+b67349b7-200b-4c77-8a3f-97df33026c32
+f67bb458-d5a2-48d7-bfd0-e15636d47b2f",3142,"Techniciens, agriculture et élevage",,
+http://data.europa.eu/esco/isco/C3143,key_18372,"0d4da69e-1260-4a1c-a0a2-e5205ff4d72c
+c8b636e0-b014-490f-b13f-c0053bb4f835
+3a9466ae-9c74-49e2-bb4f-09296f83af51",3143,"Techniciens, sylviculture",,
+http://data.europa.eu/esco/isco/C315,key_18373,"91643340-2930-479a-a55b-cacff035c6e3
+40160667-866f-4e22-a4fa-68594a5446a6
+c24603c8-31e2-4f67-a859-678ca9985b42",315,Contrôleurs et techniciens des moyens de transport maritime et aérien,,
+http://data.europa.eu/esco/isco/C3151,key_18374,"95991017-325d-4680-9436-52e2c4e01613
+891a5eb8-8540-4d40-a8bb-9b6b3d8c9b98
+43d93b5f-5b5f-4a58-8b1e-9ffe71fe9a71",3151,Officiers mécaniciens de navires,,
+http://data.europa.eu/esco/isco/C3152,key_18375,"11038a50-cfcb-4a08-86ec-8b15e5047d8d
+b73a6287-ce0a-4a69-804d-b1887b91f465
+f434d1e6-07df-483c-b138-aaac7f756415",3152,Officiers de pont et pilotes,,
+http://data.europa.eu/esco/isco/C3153,key_18376,"c2926c42-d847-4e53-92f2-9405fdf5e9a0
+0e0bae8e-b38d-44e9-8324-b1337526ff84
+e27c8f32-0941-4b58-baf1-8f8fff9d1c66",3153,Pilotes d’avions et assimilés,,
+http://data.europa.eu/esco/isco/C3154,key_18377,"e9a91aa8-d201-4da0-8766-f558e23c05d3
+8087d71f-55fa-415b-8527-840f14f02800
+2fe583a0-e57f-482f-90e5-9e934491622a",3154,Contrôleurs de la circulation aérienne,,
+http://data.europa.eu/esco/isco/C3155,key_18378,"61c112e2-46a4-43df-8c63-ac1a0ff8587d
+e157735f-9a3d-4a53-aa25-66d5bb6c0379
+71f27536-4245-4c8f-a38f-f423bf28bbf2",3155,Techniciens de la sécurité aérienne,,
+http://data.europa.eu/esco/isco/C32,key_18379,"4a3e433f-cc53-4edb-8336-b8309168d54b
+f236cdad-91a4-4723-9d52-f8127812c044
+741b1276-4cb9-4240-b86f-b1f68c508d00",32,Professions intermédiaires de la santé,,
+http://data.europa.eu/esco/isco/C321,key_18380,"47125dd1-aab4-4afd-af41-443b959840ae
+f4f9fd80-59b3-4833-ac2b-21b304a10522
+51e76604-6f72-43ba-914d-eed88a3ffc07",321,Techniciens de la médecine et de la pharmacie,,
+http://data.europa.eu/esco/isco/C3211,key_18381,"0e90962f-4491-49b0-899d-5c652a7c79df
+0f606333-3d0e-4347-8792-2e41ce7fcc3f
+492d2feb-4b33-400f-bce6-eee4047bf99a",3211,Techniciens d’appareils électromédicaux,,
+http://data.europa.eu/esco/isco/C3212,key_18382,"9696a543-4118-48bb-b0a5-3b47c765f9b7
+d7290433-bace-4d22-aff2-0f90cfd04a8a
+49bba662-3ed3-4afd-8041-be7b7813c821",3212,Techniciens de laboratoire médical,,
+http://data.europa.eu/esco/isco/C3213,key_18383,"decc65ab-b62d-4eeb-8ea5-0d959686a6fd
+90cfcc39-04b0-473a-a079-ff21919cb431
+b5b2f1ce-ad96-4f80-af9d-a0afe05d5843",3213,Techniciens et assistants pharmaciens et préparateurs en pharmacie,,
+http://data.europa.eu/esco/isco/C3214,key_18384,"2199e16e-b3a4-4c80-8231-f77617a8380d
+b83d89f0-dcb9-4f5d-9afe-9fb34ba90c06
+3f18b194-5c67-4a0e-b629-610c69154ccb",3214,Techniciens de prothèses médicales et dentaires,,
+http://data.europa.eu/esco/isco/C322,key_18385,"3ad26eef-f134-44a9-bf38-6f5dde8d875b
+5a2f11db-4cdb-434b-93de-29a36569ec38
+62206aef-1dda-413c-b87b-81178b455def",322,Personnel infirmier et sages femmes (niveau intermédiaire),,
+http://data.europa.eu/esco/isco/C3221,key_18386,"b7b143e5-1d7c-4b6f-827a-202c26a75b54
+0b7c61f8-3ed0-4175-9f28-13ea79c6802c
+96c1232a-ad56-4c58-b3f5-b2f305198111",3221,Personnel infirmier (niveau intermédiaire),,
+http://data.europa.eu/esco/isco/C3222,key_18387,"89ab5a9f-cbca-409b-aa21-555bf1f7f648
+69265b99-bd83-4ea1-b017-7e055d7b30ec
+770f92c4-45f0-4a6e-8512-dfb457f3ac95",3222,Sages-femmes (niveau intermédiaire),,
+http://data.europa.eu/esco/isco/C323,key_18388,"b8966e74-4afc-4faa-acd6-633f611cf83c
+f8d605d1-cf80-404a-a030-0d34a089fee2
+d84f0cec-a5c6-427a-b9b9-ecfd157464eb",323,Praticiens des médecines traditionnelles et des médecines complémentaires,,
+http://data.europa.eu/esco/isco/C3230,key_18389,"69f6a0b9-328a-4527-b136-125098268de3
+40d733e3-03ac-4abc-9eb3-aeba26bf6465
+c5b694e4-2934-421c-8187-0cb896d5498d",3230,Praticiens des médecines traditionnelles et des médecines complémentaires,,
+http://data.europa.eu/esco/isco/C324,key_18390,"12f25aea-1422-4b1b-8bac-6b0019d99a5e
+3e5c56cc-11e4-4b05-85d9-ac286190be3c
+8bcadfe3-4c42-4147-ae1a-c18019872346",324,Techniciens et assistants vétérinaires,,
+http://data.europa.eu/esco/isco/C3240,key_18391,"7ca6b38c-8e1d-4831-b434-df6c9d4f07ed
+ca9943f6-c7c5-425f-be5b-1911de53511f
+9fd1d152-7083-489d-8d68-5467c48af528",3240,Techniciens et assistants vétérinaires,,
+http://data.europa.eu/esco/isco/C325,key_18392,"b49e71fc-b4ce-42df-b006-4fefec0fbc02
+00ce523b-b201-42cf-a295-a6b7c3e8405e
+888d54a1-5d1e-4a44-a8df-fb5f7240bcae",325,Autres professions intermédiaires de la santé,,
+http://data.europa.eu/esco/isco/C3251,key_18393,"9547df77-b3ea-4df0-92e8-d4b42bd4e064
+af5ef3af-ed14-4e69-b1a0-0ef7db60c94a
+fd2d751e-1eb3-4de7-a2c0-4c5fc762c80e",3251,Assistants et thérapeutes en médecine dentaire,,
+http://data.europa.eu/esco/isco/C3252,key_18394,"cbfd0550-d6f8-4cb4-b5c7-032da2924af1
+3775479a-5e3e-44a4-944b-8d75e12bb97d
+fdafe0e6-7e4e-49ee-aac7-2a095fa29779",3252,Techniciens de dossiers médicaux,,
+http://data.europa.eu/esco/isco/C3253,key_18395,"4df5d468-4b70-44b7-abee-f1f86ce1d8c4
+3e178830-b385-4890-a841-f2c434da305b
+e0fcda08-939e-40c6-b2c5-34bc5f73e630",3253,Agents de santé communautaire,,
+http://data.europa.eu/esco/isco/C3254,key_18396,"302bb6c6-53ba-4f36-b694-591e47d2d921
+c11c3db1-9754-411b-bc52-dcaf557dffde
+18b61770-6da1-4d38-a91f-ec88c0b300aa",3254,Opticiens,,
+http://data.europa.eu/esco/isco/C3255,key_18397,"3f403957-0eff-4496-bb4f-b91c96d754e4
+2d5f6c95-edd7-44f3-8789-525ab7ed947d
+b8305cc1-b8b9-453e-b47f-3a0641aec31f",3255,Techniciens et assistants en physiothérapie,,
+http://data.europa.eu/esco/isco/C3256,key_18398,"7b5064b0-46b8-4b67-8e18-d04b433b9824
+14485dbc-97a4-4732-837d-aab3f16acf5f
+06a90b3b-c046-4332-9c35-4bc6c4f862ed",3256,Assistants médicaux,,
+http://data.europa.eu/esco/isco/C3257,key_18399,"b48f92c3-0388-4075-8d50-842f8f6d0c32
+f871d1ef-1a7e-403e-899f-4e1679c953de
+c46e9f0c-b775-4340-b484-7a2c08c5965d",3257,"Inspecteurs, salubrité de l’environnement et de la santé au travail, et assimilés",,
+http://data.europa.eu/esco/isco/C3258,key_18400,"364dfae4-75ae-41cd-86e5-af9871e22fda
+423a6ea9-fed9-4bbe-adab-9638305e0175
+7fa1cbcf-3d37-44e9-8a0c-05b334b168ac",3258,Ambulanciers,,
+http://data.europa.eu/esco/isco/C3259,key_18401,"9c2c83dc-5984-4ede-a0fd-0040403c8273
+334279dc-2c00-41ea-bde6-50ad119298b6
+b3160584-f097-490d-aacf-5ddfeeecf5b6",3259,Professions intermédiaires de la santé non classées ailleurs,,
+http://data.europa.eu/esco/isco/C33,key_18402,"24aed168-9746-4fc1-8402-759dc864b85b
+8e645a74-dd3b-456c-9e73-ebdb186dab01
+6baa0faf-d255-4525-8a98-3fcce4a1f2b7",33,"Professions intermédiaires, finance et administration",,
+http://data.europa.eu/esco/isco/C331,key_18403,"be4e1d71-b6a6-4010-a060-bcfab5f57a9f
+63f6dbe8-7494-47ea-b866-f81fcf17cb21
+14c6d116-057d-4c0e-be47-0e6df1d63b15",331,Professions intermédiaires de la finance et des mathématiques,,
+http://data.europa.eu/esco/isco/C3311,key_18404,"68d7e37b-6d4f-4fa2-bc99-7fbd64ad1390
+0c677a7c-fc99-41a5-ba96-e7a6d71e79c2
+59b994e4-2f30-47cc-b4d7-83fcba77cd12",3311,Courtiers en valeurs et cambistes,,
+http://data.europa.eu/esco/isco/C3312,key_18405,"6c516102-3343-407a-842e-3234b5819b6e
+4b5c9826-c00e-4058-9fbf-7a9f89426e1a
+2d51ab0e-27bf-45f8-9c0d-4b05045bec3b",3312,Responsables des prêts,,
+http://data.europa.eu/esco/isco/C3313,key_18406,"7941e67d-cf48-430d-9114-39475cb03a21
+cc517f07-d921-40ff-a628-6a426f5dccf6
+2d5b39eb-fe52-4601-b701-4fcc3c50b1f6",3313,Professions intermédiaires de la comptabilité,,
+http://data.europa.eu/esco/isco/C3314,key_18407,"c4bfb964-eb69-4dbd-8f96-97609751b415
+4a8f7a1d-9368-45c2-86fe-55723f4bc401
+425c70ff-83bd-4496-9bbb-fdd0a448f6e8",3314,"Professions intermédiaires de la statistique, des mathématiques et assimilées",,
+http://data.europa.eu/esco/isco/C3315,key_18408,"e36ad4ea-4590-4219-8bbd-884c4d1420fa
+91a73a2b-a497-474f-82f0-aff20a697e0c
+92813f24-d98b-4c2f-9ebe-23054e67b2b7",3315,Commissaires-priseurs et autres experts en évaluation,,
+http://data.europa.eu/esco/isco/C332,key_18409,"4188e726-79af-402b-a221-e51c6a971bd1
+67764ec3-a809-42ee-8e5d-18e75098960e
+bc2f8b11-646b-483c-8cc7-bd92c50199de",332,"Agents de vente et d’achat, courtiers",,
+http://data.europa.eu/esco/isco/C3321,key_18410,"ea680ebe-e8a1-48d9-973a-2061b9477942
+a50b7b84-681c-4968-8632-a5b975cf49b4
+7c8b3bc3-090c-442b-b058-0f198693ffa7",3321,Agents d’assurances,,
+http://data.europa.eu/esco/isco/C3322,key_18411,"28908673-2b42-40cb-a461-18b2535ba18d
+a8512ebb-4667-4d4b-92aa-079c0efae4ea
+b59c4bd5-e011-45c0-aa8d-69ecfb368b91",3322,Représentants et techniciens commerciaux,,
+http://data.europa.eu/esco/isco/C3323,key_18412,"1d221500-b639-41f9-bb33-1b5f9e68cd22
+e98371ad-ed74-43c6-a3d1-de9f8498495b
+70bdb9fd-9f6d-43f9-b2ac-8dfdcf3dc683",3323,Acheteurs,,
+http://data.europa.eu/esco/isco/C3324,key_18413,"f9d49e69-3df8-4b55-86b3-2658368e4c59
+0c52c59a-893d-45d8-a1b9-0b9f988203a0
+af567a1d-5596-4887-88c4-b68a9b317f14",3324,Courtiers en marchandises,,
+http://data.europa.eu/esco/isco/C333,key_18414,"c1a5425f-bc89-447f-9ed4-de8bc7ad5539
+69edaccb-0145-4dbf-9aa3-aef543af8c0c
+bead4877-cd5b-4f46-a6c6-aab6eeb8ac91",333,Agents de services commerciaux,,
+http://data.europa.eu/esco/isco/C3331,key_18415,"6f1f0e42-de21-4366-8d05-a5ee06af10a7
+1947d350-f9d1-4a4c-b9b7-ae4ab0914403
+a49914a3-675b-4d6e-89e3-63788ab77d12",3331,Agents concessionnaires,,
+http://data.europa.eu/esco/isco/C3332,key_18416,"c69b6461-95af-47a1-a086-3d5850d8a444
+ab2bde03-3296-4ad1-adef-a8e12a2d804f
+c1e95d38-8d61-4c16-abd2-8b39ca44a374",3332,Organisateurs de conférences et d’événements,,
+http://data.europa.eu/esco/isco/C3333,key_18417,"7cbfedfe-a215-4ec4-9064-3a4db5194d41
+eea13345-24e9-4a7d-b1a3-b40c7b9b401b
+88a7d0b5-1fb0-4886-8131-7bf0aa5296e0",3333,Agents d’emploi et de recrutement de main-d’œuvre,,
+http://data.europa.eu/esco/isco/C3334,key_18418,"dd3bc05f-46fa-4a3c-8d1b-3bb2ce3b4f62
+e5e9d2e3-2118-4acc-883a-c1f0f4ab1eb9
+4b018fe5-3bbe-411d-bf24-5c8e8a7f57fe",3334,Agents immobiliers,,
+http://data.europa.eu/esco/isco/C3339,key_18419,"e1bd554b-4f8a-4395-af85-5964cdcc3803
+6afc7a1e-d247-4755-9f62-e159ba5fff22
+8c4458cb-c015-4e99-bea0-ef410d98befa",3339,Agents de services commerciaux non classés ailleurs,,
+http://data.europa.eu/esco/isco/C334,key_18420,"5b71b31a-5981-400f-bbe9-20e802f8554d
+671f5e61-558b-4b9e-b52e-0e39fb2bb755
+ec9c5eb2-528f-4a08-be7c-bdb9e039689e",334,Secrétaires d’administration et secrétaires spécialisés,,
+http://data.europa.eu/esco/isco/C3341,key_18421,"0b382610-58d4-437c-97f8-96ba7e0405cc
+aa77a37b-077c-4fb2-a086-931c35ff90d9
+32eacad4-dc44-4df9-96d5-606c62b164e7",3341,"Superviseurs, travail de bureau",,
+http://data.europa.eu/esco/isco/C3342,key_18422,"f8e89644-b52c-4542-81b0-ba54236d8128
+561044f7-d563-4f09-9f2d-96b0acc1e70b
+53cb419e-194d-4416-9845-4869358d8456",3342,"Secrétaires, services juridiques",,
+http://data.europa.eu/esco/isco/C3343,key_18423,"fae5cb5d-77c7-45dc-ae51-41191732d45b
+972ac5f3-bf9e-4a82-a945-dd976ba0b5f7
+6bfd7a1c-515c-4c80-90e2-bae8caefce91",3343,Secrétaires d’administration et secrétaires exécutifs,,
+http://data.europa.eu/esco/isco/C3344,key_18424,"66c7ef01-04a2-44e7-85fd-2390e8450599
+5d54fda4-3b3b-4c98-aeba-a786827b60e8
+7af87b63-05cd-4b7b-a70f-e49703a92c5b",3344,Secrétaires médicales/médicaux,,
+http://data.europa.eu/esco/isco/C335,key_18425,"330b19e0-5b96-40e6-b913-4c15bfeb59b4
+1f9efdfd-fa47-40b4-9fe3-4a324ef2b5a2
+c7809cfa-6ae7-4ca8-a29c-d15f8fa403f2",335,Professions intermédiaires de l’application de la loi et assimilées,,
+http://data.europa.eu/esco/isco/C3351,key_18426,"6c879ca6-fca9-49e9-9db8-440720ff0274
+a783042d-4b20-46d4-8f9a-b44471c5e253
+03bc001e-f964-4fa3-a84e-82d312b6a32a",3351,Inspecteurs des douanes et des frontières,,
+http://data.europa.eu/esco/isco/C3352,key_18427,"9bdc67b4-27a9-4a5a-8c12-81498ce1366b
+5cca6d9a-c853-47db-bde0-4898872f8db1
+cd77acd4-0388-4974-a56b-651e76ce00dc",3352,Contrôleurs des impôts,,
+http://data.europa.eu/esco/isco/C3353,key_18428,"473ea9e3-85be-448d-b4fe-db735866fb14
+68da30d6-b2d6-472d-b4d0-88ee0663a31c
+d0cc0480-b47d-46d0-a68f-007d2d6ddf30",3353,Agents des services publics accordant des prestations sociales,,
+http://data.europa.eu/esco/isco/C3354,key_18429,"916bf2da-62a7-44fe-bc30-2086ba4def67
+ee540005-41b5-477a-822f-9d4b6e81a1ce
+efd2a7b2-6795-4acc-b335-932b66c82c68",3354,Agents des services publics accordant des permis et des licences,,
+http://data.europa.eu/esco/isco/C3355,key_18430,"8f079b61-df27-4d73-8174-11cb466c075c
+8f700303-2e6c-48f0-ace7-137dcb62bb19
+a91fb445-8369-4029-a7b4-0c312161de59",3355,Inspecteurs et enquêteurs de police,,
+http://data.europa.eu/esco/isco/C3359,key_18431,"df94533e-6032-4c33-afd6-75e8f013b15e
+b5018126-0295-4af9-8977-0634bdc54e91
+bd6286ed-69b3-486d-99ba-9025fb04a330",3359,Professions intermédiaires de l’application de la loi et assimilées non classées ailleurs,,
+http://data.europa.eu/esco/isco/C34,key_18432,"3686c23e-4d26-4f2a-a5d7-85c6f4c42066
+6e57f0d5-412f-41bb-aa62-a1562f4d6f1e
+431a8bcc-b310-43ef-99ff-790d31ba7df9",34,"Professions intermédiaires des services juridiques, des services sociaux et assimilés",,
+http://data.europa.eu/esco/isco/C341,key_18433,"b7b16e9c-acc9-42bf-9df6-69bef0195245
+96b1896e-f36e-4f7f-bc1a-f3225c021adb
+07dfccf1-2c51-4672-8b64-f18b84f28ea0",341,"Professions intermédiaires des services juridiques, des services sociaux et des religions",,
+http://data.europa.eu/esco/isco/C3411,key_18434,"038b4479-6924-4f5f-b0bb-f483bf5c1870
+ac4fcca2-f41c-4692-a12c-70ee091702cb
+60a07131-a103-4baf-9e7e-6ec0dadedf85",3411,Professions juridiques intermédiaires et assimilées,,
+http://data.europa.eu/esco/isco/C3412,key_18435,"c2cb003d-5892-4b2c-8aaf-af93edeefc50
+3c1469c2-52d5-4185-afe4-daadb9c66a94
+8a1714d3-d111-4322-9156-84bebe365812",3412,Professions intermédiaires du travail social,,
+http://data.europa.eu/esco/isco/C3413,key_18436,"16e3cf07-dac8-4e89-97fa-4e1295ae7f02
+e534a2f5-8d64-4fac-8e85-7ff274915cfa
+24d3f270-99eb-4f2c-8eb0-c70f840c13e9",3413,Professions intermédiaires des religions,,
+http://data.europa.eu/esco/isco/C342,key_18437,"3da0286f-e54c-46f6-9ab8-2f124df09cc5
+ab08dd6b-efc7-43fd-b4a9-8cda6da39681
+251484c4-c35e-47ca-9b01-e1ba18c08071",342,Travailleurs du secteur des sports et des activités de remise en forme,,
+http://data.europa.eu/esco/isco/C3421,key_18438,"045fee83-780b-412f-833d-416b62ff5058
+eb1386b5-fbcc-4410-a279-a2b1614310db
+220b6caf-d2ee-4a59-942c-daa3064c33ef",3421,Athlètes et sportifs de compétition,,
+http://data.europa.eu/esco/isco/C3422,key_18439,"cd0325ba-8d73-4adb-8fae-6443d5da05ac
+17bc1b12-48ef-4c85-ba92-6e0e9f7d7dca
+b05bed58-3038-401b-b035-9ad596ec55f9",3422,Entraîneurs sportifs et arbitres de sport,,
+http://data.europa.eu/esco/isco/C3423,key_18440,"a61ec48f-f2bd-4839-b566-aeb6960827cd
+807de5a8-e499-41a8-a1b3-8d49ca3645e1
+957518da-aa18-4d22-a7f0-cd901481af44",3423,"Instructeurs et animateurs de programmes, loisirs et activités de remise en forme",,
+http://data.europa.eu/esco/isco/C343,key_18441,"e64abc22-9cb1-4f47-bcba-3faaa6f9a88f
+d210db1c-900d-487c-9ff8-4f485528cc4e
+f8ec121f-4d0a-4f8c-ac60-7133321a6983",343,"Professions intermédiaires de la culture, de la création artistique et des activités culinaires",,
+http://data.europa.eu/esco/isco/C3431,key_18442,"ab875823-a565-4f58-a73e-35b44a41313e
+47abda7e-7191-4fa6-be54-f161962fc85e
+7b1e2869-ae78-4b45-b79a-1a9c376c0b9e",3431,Photographes,,
+http://data.europa.eu/esco/isco/C3432,key_18443,"ff666945-a6e6-418c-913a-1142aec2dbee
+ea103017-236f-4a7a-b15d-ae12a3c603a9
+42df152f-ed3a-4139-aeb2-71b117f52e46",3432,Décorateurs et designers d’intérieurs,,
+http://data.europa.eu/esco/isco/C3433,key_18444,"81d7d644-b516-4182-ad94-01dc0b284df4
+79ffcc2a-df0b-41af-9b8e-fdccfae2cbf7
+d89cfac1-1ccc-4d26-9a9c-f7bc5253a631",3433,"Techniciens de galeries d’art, de musées et de bibliothèques",,
+http://data.europa.eu/esco/isco/C3434,key_18445,"24148273-682f-48a2-ba4c-7713d019add4
+5809c325-f836-4f80-8918-5af108cb24ab
+9a322825-b586-4f7e-92ab-2f93a689e3a7",3434,Chefs cuisiniers,,
+http://data.europa.eu/esco/isco/C3435,key_18446,"960b20b6-bb79-451c-a209-e912f5e66b16
+f8384729-4642-448e-9cf8-5958f3317f12
+7e6be66a-0b57-45c9-9c25-dd5b43fceecd",3435,Autres professions intermédiaires de la culture et de la création artistique,,
+http://data.europa.eu/esco/isco/C35,key_18447,"6ee977c6-145e-44db-af06-54a9e403ce17
+0930e51b-eb8c-4798-88d5-c3701f60aa4d
+a051ba20-f14d-4dc9-a526-bfcf99fb5258",35,Techniciens de l’information et des communications,,
+http://data.europa.eu/esco/isco/C351,key_18448,"814415f0-7a1b-48cd-84dd-227606537646
+2ed4fcb6-b4ec-4dc5-a79a-377906c391f4
+6147259d-7ca1-4c2a-b605-e3f63ac5835c",351,"Techniciens, opérations et soutien aux utilisateurs des technologies de l’information et des communications",,
+http://data.europa.eu/esco/isco/C3511,key_18449,"84fc1a3a-15e3-4b0d-a5a7-035b006f684e
+01816b54-f76a-4a8f-ac27-f4873df2d74a
+e4274dbd-81d0-4d07-89b7-cf80cc551925",3511,"Techniciens des technologies de l’information et des communications, opérations",,
+http://data.europa.eu/esco/isco/C3512,key_18450,"a2f3fa00-c284-43ad-9d84-05db0ef28741
+a08411be-1684-4bc4-b2bd-8079879d6e80
+905b89db-3bbf-4c14-a8bd-6b0b4874f440",3512,"Techniciens des technologies de l’information et des communications, soutien aux utilisateurs",,
+http://data.europa.eu/esco/isco/C3513,key_18451,"2e80ce2d-424a-4c18-abe9-66ef38d79cb8
+a6d8676c-a3b0-490b-a543-8a57c9311d09
+ff493db8-43ec-4b8b-806d-e43b6962f585",3513,"Techniciens, réseaux et systèmes d’ordinateurs",,
+http://data.europa.eu/esco/isco/C3514,key_18452,"fac7a4df-4633-4314-b3ae-c32537910761
+fdba3f24-80c9-47cd-833e-0779bdca47c5
+8a02e92e-c8c6-47fd-aa2f-0c1115f39844",3514,Techniciens de l’internet,,
+http://data.europa.eu/esco/isco/C352,key_18453,"fc5e2048-f766-4668-aac7-d02fc8355a69
+0b064083-74d7-4eea-a082-4c91eabf1c06
+cdd43750-d12e-4b89-be11-19bf31e24e43",352,Techniciens des télécommunications et de la radiodiffusion,,
+http://data.europa.eu/esco/isco/C3521,key_18454,"c50be76f-5b15-4d25-98a4-f2b2b9ddb04b
+00f9e9bf-5bbd-49c1-b11a-542ca4721ba4
+f50d2da5-5a11-4087-a076-31538725971c",3521,Techniciens de radiotélévision et d’enregistrement audiovisuel,,
+http://data.europa.eu/esco/isco/C3522,key_18455,"7b2550bf-7074-43ec-bd28-cf268f7a1c76
+5c9af9f5-abd4-4478-b214-1764275fe776
+182bac38-71c6-4587-b457-abbcd79e3f37",3522,Techniciens de télécommunications,,
+http://data.europa.eu/esco/isco/C4,key_18456,"7db19357-534c-4112-bec5-d24e7f1cf207
+babb677d-b24b-455b-8f73-07cb70b929e1
+4da1b6e8-65be-4e8e-80ac-d5a2112e8f28",4,Employés de type administratif,,
+http://data.europa.eu/esco/isco/C41,key_18457,"e7ef3f90-2750-424b-8c55-38cc819826e3
+89374cdf-b1ad-451c-91c5-c3d05fe27206
+a3f8efae-2160-40ad-9d37-42be645645c3",41,Employés de bureau,,
+http://data.europa.eu/esco/isco/C411,key_18458,"58abccff-75f7-4e0f-a6b7-4ae6e241cf8b
+6117f23a-dbc0-4b52-ac4c-31e504c83979
+ec0c37ce-97e3-45e2-8342-5b80a797c2de",411,"Employés de bureau, fonctions générales",,
+http://data.europa.eu/esco/isco/C4110,key_18459,"d039bbad-fed8-4e4e-a5af-7bbf23a98076
+26001d96-1bd2-45f9-ab5a-83e88352387d
+de6057d9-6523-40f7-b94f-e06da865ad8b",4110,"Employés de bureau, fonctions générales",,
+http://data.europa.eu/esco/isco/C412,key_18460,"ecb58ea3-949d-47aa-9c4f-8421cdfeece7
+982a2d39-1184-42ad-9c74-b8d3b3f4eeab
+b4f913b3-bcef-4b5b-85dd-2254aec698b6",412,Secrétaires (fonctions générales),,
+http://data.europa.eu/esco/isco/C4120,key_18461,"e0377914-8141-4a25-bd18-7bc9fd84642a
+4c8a16ed-d8d6-4ead-ac64-486d358cc88a
+bdc4f186-efaf-44ce-870f-688e8940109c",4120,Secrétaires (fonctions générales),,
+http://data.europa.eu/esco/isco/C413,key_18462,"04423381-6e36-49a3-be08-a840e2844e5a
+aba6da94-723b-489a-87cb-360ba4be60f5
+1da42e8b-e951-4c29-bf1d-4dcb0efd78be",413,Opérateurs sur clavier,,
+http://data.europa.eu/esco/isco/C4131,key_18463,"77eb30c8-95fb-468d-b134-6a44e72c09d4
+5736c881-4493-4364-8d7e-1d35c812ffd3
+d9b020c5-2131-46b8-8ee2-baa6f37fda28",4131,Dactylographes et opérateurs de traitement de texte,,
+http://data.europa.eu/esco/isco/C4132,key_18464,"5c56cc15-e6ff-44b4-9d34-b4e8f96cc86e
+354d4479-b123-4a28-aeae-3da9fd6518fb
+e49bbb1b-4df5-4c93-9d3c-4587fbc769cc",4132,Opérateurs sur clavier numérique,,
+http://data.europa.eu/esco/isco/C42,key_18465,"b8b01280-45d6-456d-aac7-23ecfd47ba24
+f8c29690-1161-4fb5-b728-ff802801c203
+6a80570f-ba50-4e84-a063-360f19f2d6da",42,"Employés de réception, guichetiers et assimilés",,
+http://data.europa.eu/esco/isco/C421,key_18466,"3f84c367-4b9e-4f31-8455-5ef5fda1992b
+18a8be07-2bd1-4ba8-b8ae-f4e7a00206a4
+54af0fb7-c954-4cad-8700-83bb6cb5f253",421,"Guichetiers, encaisseurs et assimilés",,
+http://data.europa.eu/esco/isco/C4211,key_18467,"ed0bb969-c61f-4693-a311-d1ff44c4d577
+c485e468-c699-4923-9a73-4f162af9d054
+a7bd0aec-0989-4cea-b8ea-ebcbddf45676",4211,Guichetiers de banque et assimilés,,
+http://data.europa.eu/esco/isco/C4212,key_18468,"dbf693f2-83c4-4ff5-955d-6fecf873764c
+7da4594c-2140-4c1f-af5f-ca892b073f35
+9ff60b0d-ac74-4077-ab09-443bf3beba73",4212,Croupiers et assimilés dans le secteur des jeux de hasard,,
+http://data.europa.eu/esco/isco/C4213,key_18469,"6e594344-18a5-4d9b-87cc-43f3b1c63f55
+6c11d8ec-f74e-4564-b95e-490a2c04a74c
+218f4b84-5534-4478-85a1-b3d789da8286",4213,Prêteurs sur gages et bailleurs de fonds,,
+http://data.europa.eu/esco/isco/C4214,key_18470,"e6033fb9-b9d1-4e01-a2fc-166b253171d0
+05e5f1f2-d073-41cc-9fd7-bed98be07b55
+fbd46e34-b225-4aba-a81d-7c1d0f26021c",4214,Encaisseurs et assimilés,,
+http://data.europa.eu/esco/isco/C422,key_18471,"30d5c012-6bac-4462-a8c3-53fa92f8486d
+42cca2b4-12d7-441e-9326-19eea2e0a813
+df88a217-18b0-4425-90cc-920ad52b7402",422,Employés chargés d’informer la clientèle,,
+http://data.europa.eu/esco/isco/C4221,key_18472,"b66e5635-0a49-4084-8b9b-2ca879f620fb
+23c2d062-6483-4f87-9cb9-a28676e7614f
+5fda7e05-87ac-491b-9282-34834680fcba",4221,Consultants et employés d’agence de voyages,,
+http://data.europa.eu/esco/isco/C4222,key_18473,"c149db46-0751-4e86-be5e-7a38d48c1062
+e80a974b-b482-4150-9a13-bf0e146ae83c
+4712da38-3bfd-48d9-a392-5e51cd65d6d7",4222,Employés de centre d'appel,,
+http://data.europa.eu/esco/isco/C4223,key_18474,"a67269b2-5cfd-4022-b884-dfda37781b22
+5afe0725-0cc1-441b-b82e-1865314701f2
+ea9be49e-6f0b-47c4-94a3-b6d57a6afbee",4223,Téléphonistes-standardistes,,
+http://data.europa.eu/esco/isco/C4224,key_18475,"798179d6-61bc-4837-b1a3-04748fe0f5bb
+b386ccbd-ecfe-46b9-a29f-b3ea709e2f6a
+88b537aa-8f39-4600-9484-2a40585a22b2",4224,"Réceptionnistes, hôtellerie",,
+http://data.europa.eu/esco/isco/C4225,key_18476,"efacbede-0b21-4259-8dc5-7c5eb9fa9ee2
+c2269ab1-3071-4ea4-8d6a-dcf8131a5b91
+9300a521-9714-4295-a70f-206d3696a9c6",4225,"Employés, service d’information",,
+http://data.europa.eu/esco/isco/C4226,key_18477,"e909a9c7-0783-4d09-8140-1fc0a01d5a0b
+17f9a297-e084-4b50-8598-b9ca2291e5ed
+3a067b32-a626-4bd3-8982-74e028d9d5f9",4226,Réceptionnistes (fonctions générales),,
+http://data.europa.eu/esco/isco/C4227,key_18478,"b73384d7-d23e-448b-9309-55ee8f02ce19
+25e6d4a1-0e5b-4eac-8258-59d29183ad2d
+ef777454-fad9-451b-8864-e4aeeed6a639",4227,"Intervieweurs, enquêtes et études de marché",,
+http://data.europa.eu/esco/isco/C4229,key_18479,"3c90b24f-de95-4b84-aebd-41e7cecb6190
+1980b01e-1b23-4b15-b7d9-2f403fec3395
+90a9b574-bf2e-47eb-8c39-85bec2d62dda",4229,Employés chargés d’informer la clientèle non classés ailleurs,,
+http://data.europa.eu/esco/isco/C43,key_18480,"0e0c1ff1-efdc-4eef-b495-7815739e610e
+3cff0078-4792-43b6-9906-24fa80144fbf
+28ad0279-b7ad-4bac-8fcd-44f893b17cad",43,Employés des services comptables et d’approvisionnement,,
+http://data.europa.eu/esco/isco/C431,key_18481,"32fcb1e1-c3ed-4f92-bf76-30d8352011cd
+7c2823d9-443c-486f-9620-1f103b5bc0d8
+3e99d2d5-5fad-4147-90c6-07fb4e7291e0",431,Employés des services comptables et financiers,,
+http://data.europa.eu/esco/isco/C4311,key_18482,"6ca27d30-fb40-4ef3-a6bf-9a212ac842bf
+81b3d329-53c0-48ef-868a-3d281a460038
+97cfb652-b25e-4908-9259-d955a14a84af",4311,Aides comptables et teneurs de livres,,
+http://data.europa.eu/esco/isco/C4312,key_18483,"776c65ad-8b89-43e6-a644-4ee6414ca63b
+3aaf9097-b6e7-4b5f-b9fc-ff64eb57bf9c
+776947fa-12ce-4826-b3ed-d321f00dae74",4312,Employés de services statistiques ou financiers,,
+http://data.europa.eu/esco/isco/C4313,key_18484,"f584591a-0db9-4066-a969-c2a75705e2b6
+98723613-2f52-4263-beec-f6f6486a4e8d
+93573a1c-ac2d-493f-bb3a-fe4621fa86b7",4313,"Commis, service de paie",,
+http://data.europa.eu/esco/isco/C432,key_18485,"95a9bd3f-3462-454d-b722-8db653a02fca
+bf87102a-0b0e-4056-98c6-c3513eb9674f
+ed47b5d8-50d7-4a09-b701-140d2a6d97bd",432,"Employés d’approvisionnement, d’ordonnancement et des transports",,
+http://data.europa.eu/esco/isco/C4321,key_18486,"febf6911-5b81-4284-b2fb-9edae04f7349
+10cc805a-3431-4481-a73d-0d15b1b5a0c9
+8e0e15fc-1530-4a73-a025-8353f828f30b",4321,Employés du service des stocks,,
+http://data.europa.eu/esco/isco/C4322,key_18487,"880b340d-9029-4ac2-b016-542751ad2731
+1bbeef4e-6842-4989-a73c-eb9074491dd4
+7732c921-808b-42b9-9190-04d9278f96c1",4322,Employés du service d’ordonnancement de la production,,
+http://data.europa.eu/esco/isco/C4323,key_18488,"872cde44-573c-440a-ba45-1461c7c19b28
+ff6d3797-b56c-42d3-949f-1544168db88d
+0fc01d42-1fb3-40a3-957b-a65de229ccd8",4323,Employés du service des transports,,
+http://data.europa.eu/esco/isco/C44,key_18489,"ce82f13b-d6e4-4179-985c-69a323406198
+9a349619-c89e-4ec3-baef-7c161d576cbc
+954c904a-ec11-4616-be9e-a1eac580a216",44,Autres employés de type administratif,,
+http://data.europa.eu/esco/isco/C441,key_18490,"cdf07da2-f26f-4598-821b-ecdba5470d3d
+4ba73a1a-384c-4465-a062-8af18b310e72
+aab9155b-1743-470c-9f84-68a56a337311",441,Autres employés de type administratif,,
+http://data.europa.eu/esco/isco/C4411,key_18491,"654bdbe0-e233-4904-96aa-495167962e33
+916ae2d5-7104-40f2-8d14-b29e37334695
+f6ad703a-6490-423b-bc55-53b65c755b11",4411,Employés de bibliothèque,,
+http://data.europa.eu/esco/isco/C4412,key_18492,"2e4cca1e-0a60-42ef-ba3c-15740a9e4340
+dbcefb2b-2694-4b03-ae7a-c58127812a1b
+a06da9be-c437-404f-9e08-555a45b7f4a5",4412,Employés de service du courrier,,
+http://data.europa.eu/esco/isco/C4413,key_18493,"365b701d-53b6-4dc3-9b1a-6589121a62a7
+07be5361-d8d4-42ef-b8fe-5a092f12c181
+155371b9-99b3-4056-b358-a376367504c6",4413,"Codeurs, correcteurs d’épreuves et assimilés",,
+http://data.europa.eu/esco/isco/C4414,key_18494,"70533087-e1ca-4417-bbfc-5cff68e15270
+16e7665c-8324-4df3-95e3-788a838a8214
+e576fa7b-f4e0-4359-852f-79b89ece0089",4414,Écrivains publics et assimilés,,
+http://data.europa.eu/esco/isco/C4415,key_18495,"5c180ae0-2bdb-4131-9e86-06ad8e5ab9ed
+65669067-ed5e-47c7-8c1b-4246e4675cb4
+4c53b5dc-2439-4b46-a0ad-343073772a23",4415,Classeurs-archivistes,,
+http://data.europa.eu/esco/isco/C4416,key_18496,"2afe532a-15ff-41e0-8c5a-a2032a427998
+f0fc27ac-b03d-4bf4-96af-50609e4ac20a
+b339e9c6-5474-44da-a010-8bf60719ba9f",4416,"Employés, service du personnel",,
+http://data.europa.eu/esco/isco/C4419,key_18497,"d1d056ca-0efe-4450-8b14-caab43524736
+bf10068a-84ec-412a-8c9b-4f21240d404c
+cd5c1260-64af-4971-b5eb-0c976606ce3e",4419,Employés administratifs non classés ailleurs,,
+http://data.europa.eu/esco/isco/C5,key_18498,"b88add38-6790-4c4b-97e6-ae86addce75a
+86cef03e-9e35-412a-8715-e0601afa477f
+33fc57e8-e557-452c-9f2e-965ef9e65710",5,"Personnel des services directs aux particuliers, commerçants et vendeurs",,
+http://data.europa.eu/esco/isco/C51,key_18499,"0511e5a6-a7d6-436b-903a-c4f703064f3d
+388dd617-f5ab-42fc-a68a-ce2c62f6e402
+a7d329eb-f96e-41d8-904b-571f24da0e36",51,Personnel des services directs aux particuliers,,
+http://data.europa.eu/esco/isco/C511,key_18500,"673111b3-262e-49a3-8a2e-efb49cbe102c
+9c9643c5-55f1-49ae-876e-17dab609adcb
+5a848ffc-0826-4cc3-b704-39937a235eac",511,Agents d’accompagnement et assimilés (transports et tourisme),,
+http://data.europa.eu/esco/isco/C5111,key_18501,"e260a081-5db1-4eb7-8614-4910c13de8b9
+8ab4e790-3c62-47ae-b56b-bebf67c7bcac
+9f334d03-a453-4cab-adc6-48eb0ffd0ddd",5111,Agents d’accueil et stewards,,
+http://data.europa.eu/esco/isco/C5112,key_18502,"aa5f3f27-50df-4e11-9595-18ac52c92619
+92da218b-d192-45d2-a37a-ac5190a6c7bc
+c7641917-daa2-4d82-90d7-54d0193ab4f1",5112,Contrôleurs et receveurs de transports publics,,
+http://data.europa.eu/esco/isco/C5113,key_18503,"6abb1c3b-83ab-4339-87b1-a792fb6584c5
+b4907e34-41ba-41b0-a058-1f9ba473bbef
+3f041237-a2da-4173-ba06-1b0a6d416e89",5113,Guides,,
+http://data.europa.eu/esco/isco/C512,key_18504,"fd342899-c93d-404b-9864-193a4de2d80b
+2402f7aa-5eda-415e-b90e-e03fc4614dc3
+2edd922d-df97-41bd-9125-87ee43222973",512,Cuisiniers,,
+http://data.europa.eu/esco/isco/C5120,key_18505,"fbe01571-1ea1-4562-b18b-864f2c46b6b8
+3bb40acd-a592-4a6c-8384-9b10df80f39b
+4be58c19-21b4-40cf-9d89-49bb0dd63add",5120,Cuisiniers,,
+http://data.europa.eu/esco/isco/C513,key_18506,"cc204d07-6f31-4ca1-bfa5-8c97ff39419b
+4831c7d2-6318-4f20-bbe8-257bf6cf3d37
+d8213e70-2fec-4518-9290-1b9579bac31b",513,Serveurs et barmen,,
+http://data.europa.eu/esco/isco/C5131,key_18507,"1e852a0b-843f-447a-a03e-a94c463150a0
+75c31e71-ca38-4319-b9fe-2b402c805d3f
+23257d5d-4034-4b53-996e-99fdf463eda3",5131,Serveurs,,
+http://data.europa.eu/esco/isco/C5132,key_18508,"b5dcd361-d204-43b5-af98-44b16fb00e47
+b146d4ab-3caf-4327-b0ac-444036b415f7
+2bd7477f-3ddd-45bf-a2b9-da610137ead2",5132,Barmen,,
+http://data.europa.eu/esco/isco/C514,key_18509,"a86a6f41-62f2-486f-bcbd-8e32b64155f2
+922e5d9d-e349-4cc5-9afb-7a038d8b0c8e
+fc039295-a2eb-4edd-8d5f-f9b023c5993f",514,"Coiffeurs, esthéticiens et assimilés",,
+http://data.europa.eu/esco/isco/C5141,key_18510,"a522c014-542d-4924-9415-1ea39a905af0
+395dd9cf-003b-4f70-867b-43f1d8fa5534
+af5eb45e-ae1b-4663-8d90-b9fc77de31a5",5141,Coiffeurs,,
+http://data.europa.eu/esco/isco/C5142,key_18511,"925b3bf1-180c-416a-9cbd-fdf360efd649
+ef370341-be08-425a-9277-1f1c166325b0
+919c180c-a1be-4f68-ad7b-a99ae48c8eb5",5142,Esthéticiens et assimilés,,
+http://data.europa.eu/esco/isco/C515,key_18512,"9b2e8f2b-fea4-45e7-ac54-7bda13db3b5a
+f43eacf8-e304-4114-a6bc-e352e9e03848
+76c58950-4db4-47c5-98cb-fedb7bc67485",515,"Intendants, gouvernantes et concierges",,
+http://data.europa.eu/esco/isco/C5151,key_18513,"bef04f4b-4a21-40eb-852c-e966a4eb1910
+9fab1141-3fc1-46c2-a3bd-e4eaabd03e4a
+58f18f12-d18f-4483-931f-e9b177dc449c",5151,"Intendants et superviseurs des services de nettoyage de bureaux, des hôtels et d’autres établissements",,
+http://data.europa.eu/esco/isco/C5152,key_18514,"79de93c4-7433-419e-b527-4d3648548574
+a81aa662-4aa0-4d5c-bc25-b6ace4fbb8b2
+35a5b0ce-6be6-4801-9511-d325d02a2f79",5152,Gouvernantes et intendants à domicile,,
+http://data.europa.eu/esco/isco/C5153,key_18515,"783834a8-50f2-4de0-a56f-2131a1e8374d
+45e56aa5-f66d-4429-a683-1d4d413be745
+a88bfb90-1462-4f4c-9aec-1404ea963085",5153,Concierges,,
+http://data.europa.eu/esco/isco/C516,key_18516,"0d448fa7-4b8d-4c63-a09a-a3fa322b604c
+99228d4c-cebe-40db-a7f0-7448a8cbd107
+ecf165c5-6b0b-4628-bf01-b0d162e80293",516,Autre personnel des services directs aux particuliers,,
+http://data.europa.eu/esco/isco/C5161,key_18517,"93ce4cc4-08ac-415e-941c-adf4007780bb
+872ea79a-d6e3-4e53-9ca4-193c8dc21729
+adef3979-1b3e-486a-95b3-cb37f943ce7b",5161,"Astrologues, diseurs de bonne aventure et assimilés",,
+http://data.europa.eu/esco/isco/C5162,key_18518,"8344b7ea-01e4-4f29-952c-20e420fabbd9
+4be2c45f-4a0a-4ab9-8d7b-42fd46ba769e
+d1618624-d7b5-4283-9fd4-a367d165c179",5162,Personnel de compagnie et valets de chambre,,
+http://data.europa.eu/esco/isco/C5163,key_18519,"c58c5c35-5d6b-4f63-b669-5f929fdae272
+d35ff948-ce0d-42a9-ad2b-efec33b5e65f
+11fedfe7-1dc4-43b4-b31f-0a80104c2996",5163,Agents de pompes funèbres et embaumeurs,,
+http://data.europa.eu/esco/isco/C5164,key_18520,"0f1e0d69-79e1-4c70-ba72-b2111684a394
+6f2f0f87-f485-4c25-ae73-a5e6216df65e
+9774d3f0-43a3-4c69-8b3e-beed8ed2f290",5164,Toiletteurs et gardiens d’animaux,,
+http://data.europa.eu/esco/isco/C5165,key_18521,"f8ad551b-6d37-4797-8e6e-671a2d806bf9
+f6ae2c0e-3012-48a6-a160-98beaae07b36
+e012e8d1-1330-4a44-8fb0-a67f8ccf10ca",5165,Moniteurs d’auto-école,,
+http://data.europa.eu/esco/isco/C5169,key_18522,"7b94fe53-c23f-4206-aeb2-87bd5c54e1b6
+02790a9a-bac9-4e01-865d-b3f553a7c719
+d46cfa16-b08d-4bc1-8c62-7aebb70ceb36",5169,"Personnel des services directs aux particuliers, non classé ailleurs",,
+http://data.europa.eu/esco/isco/C52,key_18523,"26887e28-60fb-48e0-af82-4e4109cfe381
+ee147506-947c-4e1f-ae68-c93e9d56f957
+e90d8635-1963-41ec-9e41-42942ce887b3",52,Commerçants et vendeurs,,
+http://data.europa.eu/esco/isco/C521,key_18524,"11879b4c-9462-4ccf-96e0-929884762ca4
+cddae0ce-a1a6-4e03-a35c-9afb17160e01
+03839d69-2af6-49e6-a239-f76638d32f57",521,Vendeurs sur les marchés et vendeurs ambulants de comestibles,,
+http://data.europa.eu/esco/isco/C5211,key_18525,"6bf79522-c005-4d7a-be75-920f091556c8
+45a6228a-24e2-460e-9443-87c53f0bc1fb
+040acd05-2119-4f82-af82-4d9642e16ac4",5211,Vendeurs à l’étal et sur les marchés,,
+http://data.europa.eu/esco/isco/C5212,key_18526,"93afd4f4-a377-44a8-a916-301c93bf14dd
+bf3be586-e135-4a86-972c-e39a8ddbf612
+d34483a5-67e4-4ec4-b0eb-fbce17643ed8",5212,Vendeurs ambulants de comestibles,,
+http://data.europa.eu/esco/isco/C522,key_18527,"6165ade9-2e3d-4ec2-94a8-9f44df8c3d71
+c8603874-1ebb-45df-8273-2391676a7431
+3f89f7c1-8208-446c-a4c1-b26e8b3beebc",522,"Commerçants et vendeurs, magasins",,
+http://data.europa.eu/esco/isco/C5221,key_18528,"a3af484a-7aab-4809-85ec-149f1d5fb725
+755049b2-a527-485a-ac05-7288c0c7252a
+a89c3a24-6ba6-4eaf-8fe8-6ad838f435b0",5221,"Commerçants, magasins",,
+http://data.europa.eu/esco/isco/C5222,key_18529,"dcc5b797-a536-4108-9bcc-9a3430ea7d39
+da9442bf-6886-4196-8286-d93f7ffd24ef
+2da097be-f41c-43b3-a704-b538832e398c",5222,"Superviseurs, magasins",,
+http://data.europa.eu/esco/isco/C5223,key_18530,"3c053ca9-ea04-4b25-bf7c-a6da449c82e9
+a3063fae-8d78-4f58-94cf-51e6321589b9
+d0394863-d4a8-4909-8562-6610027e6ee0",5223,"Vendeurs, magasin",,
+http://data.europa.eu/esco/isco/C523,key_18531,"25c3a57d-20dc-4a07-af7f-4ea9902e232c
+1c24657c-d8e3-4009-85bb-589648a98ee4
+8def9150-a0d0-468f-8d4e-29a8121daf60",523,Caissiers et billettistes,,
+http://data.europa.eu/esco/isco/C5230,key_18532,"708fc9db-a6f6-4c0b-a393-4c0e8fe1940d
+53d731d9-ec65-404d-9cf0-77ae54cb9ebd
+2fdf6ed8-48ac-43ea-b80b-3b1b432f7d8f",5230,Caissiers et billettistes,,
+http://data.europa.eu/esco/isco/C524,key_18533,"5337c1a7-2c42-4cf1-8c81-e52320144d9a
+688239e8-773b-465c-a2ae-ee264c142e83
+6f04198f-a363-4db3-a702-6e22d9f0df44",524,Autres vendeurs,,
+http://data.europa.eu/esco/isco/C5241,key_18534,"2ded62c3-b4bd-44d3-90bb-5e1bd6d06557
+a417833c-9f11-4350-a871-a3a9d55a01d3
+fbb087a7-9d44-4bcb-be2e-c88009da97c5",5241,Mannequins et autres modèles,,
+http://data.europa.eu/esco/isco/C5242,key_18535,"bdedb2d3-3ea0-4fad-afac-aa6e98ca02aa
+78368f5d-7187-41dd-b71e-f6f1d5e01b1b
+4997201e-e50a-4ddc-9c98-f48a50ba68d0",5242,Démonstrateurs en magasin,,
+http://data.europa.eu/esco/isco/C5243,key_18536,"29949a8d-52f8-4b19-a133-0515e5ad36f0
+42782b20-c857-4351-86e0-4c21fc29137c
+3365564d-a0af-486f-83ff-b85518b59046",5243,Vendeurs au porte-à-porte,,
+http://data.europa.eu/esco/isco/C5244,key_18537,"3c63dcf5-99c2-4abb-b2ec-3e06ce9d26b5
+9f41ba01-81ea-4013-b832-5f9613b6b272
+d50fc0f2-2e96-4ef7-af08-1b8698f5fb6b",5244,Télévendeurs,,
+http://data.europa.eu/esco/isco/C5245,key_18538,"7e251283-45c8-430d-ad23-5a4e0fbab436
+64bacdf1-343a-466b-b0e2-d1f08b06ec1d
+d0cec522-13ed-42fc-8f2c-18bd3ceb8e52",5245,Pompistes,,
+http://data.europa.eu/esco/isco/C5246,key_18539,"106acd41-36fb-41f6-ad39-68ce187ed920
+1c8c36f6-1158-4dfe-9780-9b2a31ab3846
+28f871ed-59b3-4c49-9f86-5e37a3dcd204",5246,"Commis au comptoir, restauration rapide",,
+http://data.europa.eu/esco/isco/C5249,key_18540,"e8a9ddee-1621-40d0-96f6-2859fe676bb2
+a601c822-3c3b-4e9f-8fe7-258f59a0e59f
+52708aae-615c-4297-9481-5a9ad5d3afe5",5249,Vendeurs non classés ailleurs,,
+http://data.europa.eu/esco/isco/C53,key_18541,"003a0a06-fdd7-4c86-b5d6-8bef9cb41db7
+2f9dda14-da90-48c9-9b32-7af9e06a54f4
+c6ca202b-2b54-4e9c-8c09-3ca7575c7dfd",53,Personnel soignant,,
+http://data.europa.eu/esco/isco/C531,key_18542,"c65be41b-3ae3-4485-8e15-8d6c5501af9f
+38512bf5-39fb-40bf-bdd0-a3d06e660fc6
+4e8861be-8027-47dc-b33b-5abd957b739b",531,Gardes d'enfants et aides-enseignants,,
+http://data.europa.eu/esco/isco/C5311,key_18543,"6e90d38d-6d80-4389-b460-e087c6dafbfc
+52869acb-6a0b-42e7-8f6b-b1bd15160fad
+b000270c-5abb-43ec-808a-cc47b4f95562",5311,Gardes d’enfants,,
+http://data.europa.eu/esco/isco/C5312,key_18544,"92639e1b-830a-4784-bc13-d40868e6eca9
+fbb55f76-c131-44a2-af49-1b9527de04c0
+6af49dc7-0dcb-4a58-9ddd-7fe4c3234c52",5312,Aides-enseignants,,
+http://data.europa.eu/esco/isco/C532,key_18545,"15af0131-0daf-4dd8-b681-4cc8b06213ac
+f349df46-c00a-49a8-8333-7a3ea8c87aa7
+799857fa-c3e2-4660-922b-c2144779837c",532,Aides-soignants,,
+http://data.europa.eu/esco/isco/C5321,key_18546,"337ddff8-0ec8-4495-864b-536a0a7ba0c1
+31f5a13e-1aab-4a65-8683-166b45e28243
+12ba7fcb-2c37-4b3e-8e8b-4a59adea4e39",5321,Aides-soignants en institution,,
+http://data.europa.eu/esco/isco/C5322,key_18547,"b80dad12-4cc4-4266-8bc2-d1bc714926e5
+ab4f3393-a7b9-4ef1-b658-02921508bd4b
+f74336f6-3a27-410a-b951-28bb3bb0287c",5322,Aides-soignants à domicile,,
+http://data.europa.eu/esco/isco/C5329,key_18548,"fc728140-1643-42ca-9203-54c9bfbaf82d
+0a12d1f7-cb2e-44b4-8167-9bf6e0cde02d
+ce0c470d-7dd0-40e0-ae7f-3021dd274464",5329,"Personnel soignant et assimilé, non classé ailleurs",,
+http://data.europa.eu/esco/isco/C54,key_18549,"8d857dc7-4c3c-429d-84e8-b11b84c1fcee
+b92eb325-3f61-488a-8a03-dff786aa8fd9
+fa552780-f752-49c3-aae0-ed49b1c42a31",54,Personnel des services de protection et de sécurité,,
+http://data.europa.eu/esco/isco/C541,key_18550,"5a4ec11c-3b93-45fa-b7ef-94316bff12ee
+8a54d859-9e61-406a-ad5b-ad2f8f138970
+842ca350-8016-4774-9f57-4345fbc428f8",541,Personnel des services de protection et de sécurité,,
+http://data.europa.eu/esco/isco/C5411,key_18551,"28bf3d00-7498-4f0b-9e88-0e27ac8be950
+8f914a0d-9c11-47a3-8bd3-c41d672d9a8a
+4b6b2e24-0809-4daa-bc50-351069d2a3b9",5411,Pompiers,,
+http://data.europa.eu/esco/isco/C5412,key_18552,"19da2247-7417-45d7-9eca-a1c00387be62
+32b42510-3afa-46c3-9c04-c3dfba9d7c8e
+884fed43-3210-4589-ba6c-c9322408fc50",5412,Agents de police,,
+http://data.europa.eu/esco/isco/C5413,key_18553,"2f6d4f3e-accc-469f-9354-e9657339eb00
+bff46397-8c91-45be-8d7a-502322400dc9
+88605370-81ea-4296-8b7a-e6e805148f25",5413,Gardiens de prison,,
+http://data.europa.eu/esco/isco/C5414,key_18554,"6261e6f8-3a6e-414c-8f1e-1571af3da2d0
+624d5475-94fb-4e32-aa74-34e44ef837a6
+f7d0d7d3-0bf4-4a27-be48-19133b9dbf73",5414,Agents de sécurité,,
+http://data.europa.eu/esco/isco/C5419,key_18555,"1de31de7-ac35-47de-ac39-5cac1239e2c2
+8f69cfe9-4830-4979-9846-7e7775431a22
+9ae36ea7-10e4-4beb-90d9-c4b7426ab799",5419,"Personnel des services de protection et de sécurité, non classé ailleurs",,
+http://data.europa.eu/esco/isco/C6,key_18556,"e460f1e5-3ff3-48ec-ad03-221915941b75
+8b6cf960-b604-4758-996c-f15462d06cf5
+870e3c13-7f7a-4c19-9eb6-38c82ea590cb",6,"Agriculteurs et ouvriers qualifiés de l’agriculture, de la sylviculture et de la pêche",,
+http://data.europa.eu/esco/isco/C61,key_18557,"d9681fd7-2d04-4d7f-bdd1-267333eb38a5
+35601416-717d-4929-9846-b91a93b1be18
+10502cfa-a73f-4dc4-b102-b71df8ec844d",61,Agriculteurs et ouvriers qualifiés de l’agriculture commerciale,,
+http://data.europa.eu/esco/isco/C611,key_18558,"6c33337d-d6eb-464e-a305-3ff49273585b
+d1ee903d-4a2e-4ada-a1e8-ff63ce3ca9ca
+b3751057-2fdf-4f59-94f9-06ea27b2f1dc",611,"Agriculteurs et ouvriers qualifiés, cultures commerciales",,
+http://data.europa.eu/esco/isco/C6111,key_18559,"45d00f86-127a-47e3-961b-bbcf5051828c
+4cef87d8-ec2b-4661-8483-28f649403166
+eb497510-7ade-4084-a1d9-c1b458c010f7",6111,"Agriculteurs et ouvriers qualifiés, cultures de plein champ",,
+http://data.europa.eu/esco/isco/C6112,key_18560,"55c6d369-fe35-4108-bfbd-6c197ae7e537
+5407b916-553a-4ffb-b13a-969d500ebd5b
+11064510-57a6-4362-bd1f-dcab87519c08",6112,Arboriculteurs et ouvriers qualifiés de l’arboriculture,,
+http://data.europa.eu/esco/isco/C6113,key_18561,"6e5eaf12-872a-4d37-ae96-20f03b694e6a
+28d3e03f-7892-470f-8c51-20291e21c8db
+fe3c7ba4-6220-4e06-af80-192a08341041",6113,Agriculteurs et ouvriers qualifiés de l’horticulture et des pépinières,,
+http://data.europa.eu/esco/isco/C6114,key_18562,"80dc6c8a-e25d-496d-b530-2b482c7b1f42
+d9627b13-1bac-4945-9a00-bc781f1bbb72
+86eeda47-c1db-4f21-991b-aeeef0f2060a",6114,"Agriculteurs et ouvriers qualifiés, cultures diversifiées",,
+http://data.europa.eu/esco/isco/C612,key_18563,"39dd6a82-f889-48fe-b9d3-c778b7963fe7
+776bc75f-10af-4291-a4c5-3996ee1b29b3
+0b89b5bd-fbfd-4967-a461-bf92764248cc",612,Éleveurs et ouvriers qualifiés de l’élevage commercial et assimilés,,
+http://data.europa.eu/esco/isco/C6121,key_18564,"553f840d-2cbb-4c58-8f00-4fb18a104d6f
+aa0c14a2-dbf3-40c6-91b2-0ca43e0e553c
+1bb028e5-23d6-4a59-a9ca-262527300289",6121,Éleveurs et ouvriers qualifiés de l’élevage de bétail,,
+http://data.europa.eu/esco/isco/C6122,key_18565,"c41fd90a-4de9-45c4-a8b2-495581dd98ae
+875ae171-f426-4bd0-9268-f2714b5287c1
+496cbd1c-3214-4f5f-a23a-4cb6bd3ed962",6122,Aviculteurs et ouvriers qualifiés de l’aviculture,,
+http://data.europa.eu/esco/isco/C6123,key_18566,"8dedecc4-522d-48a2-97b2-b04a4844b29c
+5e498561-4448-4517-9a14-c5e3a43153b9
+52baed50-6abf-4de6-893e-1e34a1f08fe3",6123,"Apiculteurs, sériciculteurs et ouvriers qualifiés de l’apiculture et de la sériciculture",,
+http://data.europa.eu/esco/isco/C6129,key_18567,"5d2d9a65-93fc-40b1-8e20-ef9fba4eb633
+792cd696-b9d7-4752-a6cd-76021439cfa8
+48e78468-e4e7-4623-9fa2-d75cf2e12853",6129,"Éleveurs et ouvriers qualifiés de l’élevage commercial et assimilés, non classés ailleurs",,
+http://data.europa.eu/esco/isco/C613,key_18568,"e0ca8de3-788f-4d32-8b21-c1669ae9170f
+c5f9369d-5aed-4617-b9fa-36831ed30018
+ee1c706f-61db-43e9-a57f-ed7dc838a6ac",613,Agriculteurs et ouvriers qualifiés des cultures et de l’élevage à but commercial,,
+http://data.europa.eu/esco/isco/C6130,key_18569,"e8319f45-9ef5-4c81-a223-58b075955128
+fc86f304-1f44-415d-9854-80ca2921fcef
+c1019e3f-9f77-462c-94a4-d65a8a20ee71",6130,Agriculteurs et ouvriers qualifiés des cultures et de l’élevage à but commercial,,
+http://data.europa.eu/esco/isco/C62,key_18570,"177dd40d-0385-43a5-82c8-ae90f698d28c
+7adc9e62-9877-4094-bb97-e8e43ce25adc
+74eb4845-7635-4e37-9db5-2b7f510c9707",62,"Professions commerciales qualifiées de la sylviculture, de la pêche et de la chasse",,
+http://data.europa.eu/esco/isco/C621,key_18571,"24fb0d55-d2b1-4660-9445-953cf83405be
+e36d457c-c3ef-4064-9850-4d80df079faa
+43a8b37a-5c41-4b9e-a56f-0d3dc03cc264",621,Professions de la sylviculture et assimilées,,
+http://data.europa.eu/esco/isco/C6210,key_18572,"944ed90f-ae4b-40d4-9095-5bbccfe7c4be
+d8ebcf92-aa74-43ca-851a-de0590b91602
+614b7ca4-197d-4bf9-b5a5-91381adb1efb",6210,Exploitants et ouvriers forestiers,,
+http://data.europa.eu/esco/isco/C622,key_18573,"6e8ce57a-1b9d-43a7-b25f-489be28ede2a
+08b57979-69e5-4ba8-9b09-3c8572beb33e
+0d72976f-5014-4326-871c-e9ca96f9a5cd",622,"Pêcheurs, chasseurs et trappeurs",,
+http://data.europa.eu/esco/isco/C6221,key_18574,"bcc9b5a2-384b-4977-975d-f90a9bbc5e6a
+cd91610e-8836-45d6-be09-e7a193538bce
+623a054f-3cf4-411a-a286-6ae5385a9372",6221,Aquaculteurs et ouvriers de l’aquaculture,,
+http://data.europa.eu/esco/isco/C6222,key_18575,"18f42122-9434-486a-867e-b7ec2db8ad1e
+4e355b79-1d17-4469-bb2e-d44dd5c85f2e
+010b0250-5d8c-46fb-a3ff-3c405700641c",6222,Pêcheurs de la pêche côtière et en eaux intérieures,,
+http://data.europa.eu/esco/isco/C6223,key_18576,"73ca8f72-7708-45c5-b9c7-d69326f7f29e
+64827d8a-7bdd-4259-a304-9c729590ef52
+9e7a7464-f428-4557-908f-4e1a8eb7df9d",6223,Pêcheurs de la pêche en haute mer,,
+http://data.europa.eu/esco/isco/C6224,key_18577,"af3a4d52-2a78-4092-83d9-9a830dce7930
+660d05c2-faa6-43d9-986f-b6deb54507ee
+e2a11ed9-44a5-4a67-91eb-8351b230d132",6224,Chasseurs et trappeurs,,
+http://data.europa.eu/esco/isco/C63,key_18578,"77a68ced-6ceb-46b3-b1a0-e2f4b830a10d
+129640ec-16d2-412a-a28b-d83a651cb604
+af2e5a21-b3c8-4533-8909-e70ceeb6886a",63,"Agriculteurs, pêcheurs, chasseurs et cueilleurs de subsistance",,
+http://data.europa.eu/esco/isco/C631,key_18579,"0a631cd2-9afb-4acf-aa9c-b5c515c4f7b6
+760a8cb4-5b87-4f6e-abb8-8d378b86543e
+fe96f6cd-3d70-44cd-927d-f93a93f05d57",631,"Agriculteurs, subsistance",,
+http://data.europa.eu/esco/isco/C6310,key_18580,"387f58c8-e749-4d69-8fb9-50c177964ff4
+330cba84-7e34-48f9-86c4-fe547e029b0d
+9565741b-35d8-4957-8c52-30a4d4639ead",6310,"Agriculteurs, subsistance",,
+http://data.europa.eu/esco/isco/C632,key_18581,"01155440-4371-40c6-991c-f8d98106045e
+54f07538-ad8a-430d-a41a-f449f612b7c6
+62554844-1b0c-4ca3-bb1a-4ba9a4819368",632,"Éleveurs de bétail, subsistance",,
+http://data.europa.eu/esco/isco/C6320,key_18582,"b62d38a7-997e-4cb5-871d-87d43bbed261
+6d97e890-8bc3-4a36-b738-7b5111f00c87
+a66c794b-2713-4e63-893e-ef52e5009127",6320,"Éleveurs de bétail, subsistance",,
+http://data.europa.eu/esco/isco/C633,key_18583,"384e7a78-77f8-4c03-a0fc-842927c5c61b
+9beed126-86be-4959-8b9e-0addb281cc42
+7f4baecb-cc4d-4668-92bc-eac7d502a6f5",633,"Agriculteurs et éleveurs, subsistance",,
+http://data.europa.eu/esco/isco/C6330,key_18584,"6613cb9f-2224-45c0-b7bf-cce46d3d2a89
+88a9d91f-6ade-4ce0-b46e-9179bd1d55dd
+1e369115-6295-4c0c-b07b-8a1c953c694a",6330,"Agriculteurs et éleveurs, subsistance",,
+http://data.europa.eu/esco/isco/C634,key_18585,"ba10a555-8013-4ccc-825a-449f0e561406
+b3211f86-c742-4c48-8918-1218b6a801b2
+647dba3b-c06f-4f56-a98e-a6d1f6ad9a27",634,"Pêcheurs, chasseurs, trappeurs et cueilleurs, subsistance",,
+http://data.europa.eu/esco/isco/C6340,key_18586,"fbb88d6e-4c89-43a4-bd47-b21f4dc040b5
+6a9670e8-2357-45c8-8ec0-3493e16bf246
+f1d86bf5-a2d9-477c-b050-1bb29123a5a6",6340,"Pêcheurs, chasseurs, trappeurs et cueilleurs, subsistance",,
+http://data.europa.eu/esco/isco/C7,key_18587,"741aec73-db91-4597-a515-94b904c1b53f
+f16b183b-6d65-4e04-9e8d-ebd77c5d42d2
+29ccc447-297c-458d-9504-6079753e0a2f",7,Métiers qualifiés de l’industrie et de l’artisanat,,
+http://data.europa.eu/esco/isco/C71,key_18588,"9c518a6b-242d-43a6-85d7-fea8164ae5b6
+d9fc6109-998f-4ecb-952d-296da0b84bd1
+6041ab83-9eba-4dcd-9e66-43f94474437c",71,"Métiers qualifiés du bâtiment et assimilés, sauf électriciens",,
+http://data.europa.eu/esco/isco/C711,key_18589,"4df101d8-edf9-407f-b4d9-b9f09ec558f9
+95274209-8a36-4943-be30-3604607e11f5
+4aebd03c-fdc3-4a4f-adb2-cfc1f780f611",711,Métiers qualifiés du bâtiment (gros œuvre) et assimilés,,
+http://data.europa.eu/esco/isco/C7111,key_18590,"6b0f5e9d-4c4f-4219-a7f9-6e7ea0de08d0
+8ebe94c1-cbc7-44e7-bb23-3fdea21ba30f
+2f797fcc-83a0-4cd5-bc80-7f91768b449e",7111,Constructeurs de maisons,,
+http://data.europa.eu/esco/isco/C7112,key_18591,"90e989c1-b4be-4075-9b42-7b3f6b186161
+e376ffb8-c3fc-4b3e-b836-8d2e90d2c7db
+7d5dcb0f-ace4-4540-a5e4-f95115aa6f07",7112,Maçons,,
+http://data.europa.eu/esco/isco/C7113,key_18592,"47c1986b-7ca3-4488-b704-488e8b60ee6a
+f27db279-e4f1-4f83-841a-65cb886eb7ba
+9080989e-a642-4220-9085-ac43ebbe9fa9",7113,Fendeurs et tailleurs de pierre,,
+http://data.europa.eu/esco/isco/C7114,key_18593,"feeb48d6-6a65-46aa-a5ff-c5d99d1e8d6e
+2379a472-4344-4197-ac72-5dd7acc6e97c
+00ba9cd0-ad66-4303-ba70-b9a7116a54c0",7114,"Constructeurs en béton armé, maçons ragréeurs et assimilés",,
+http://data.europa.eu/esco/isco/C7115,key_18594,"fc62573d-f986-4e16-9c27-c98df3601434
+fd45dab5-b8e4-44e1-b42b-83765af5a9d3
+1c1a9f3d-a02e-45ba-a44d-19c4941a0d1a",7115,Charpentiers en bois et menuisiers du bâtiment,,
+http://data.europa.eu/esco/isco/C7119,key_18595,"b5398a4d-e128-4d3a-b6f9-eceb4d61b572
+391fa8dd-9c60-475b-8dcb-082ded4e5347
+109d539e-7040-455a-877c-895c4ba5a4fa",7119,Métiers qualifiés du bâtiment (gros œuvre) et assimilés non classés ailleurs,,
+http://data.europa.eu/esco/isco/C712,key_18596,"ddfb9a9d-87a7-4ac9-93d4-47cc9d945ab5
+8a4f8bed-3fdf-4306-8125-301fe53357c3
+2c8f158b-6738-48c5-b821-3bc1208dc408",712,Métiers qualifiés du bâtiment (finitions) et assimilés,,
+http://data.europa.eu/esco/isco/C7121,key_18597,"66f28f6c-3ed8-4376-a898-b82bbab02d57
+59189c43-108b-4890-bab7-bb5b5e4f5d0c
+b274fb5f-2b9a-4d6b-8de8-5da21ddeb9e5",7121,Couvreurs et zingueurs,,
+http://data.europa.eu/esco/isco/C7122,key_18598,"e7e2941c-e3ad-4c17-bd4d-bf3f47d2c0d1
+0f4e94ad-67d7-440d-87b7-145214881376
+8dacd2cb-ad36-443c-a1b0-f37c4ce6761e",7122,Poseurs de revêtements de sol et carreleurs,,
+http://data.europa.eu/esco/isco/C7123,key_18599,"ba123544-b84c-440e-8f55-ef07cc45fe37
+c9fb3565-18d9-4afd-bac4-d159ddeaeaff
+944bfcc7-da8c-4ec1-a690-66ecff4f82e3",7123,Plâtriers,,
+http://data.europa.eu/esco/isco/C7124,key_18600,"c0fecfc4-3c05-4390-a7f9-952389e7a481
+544d3c9f-9200-4b4f-9249-58c9830bb45a
+5f5e1043-483c-4b4d-8dda-75b562038bc7",7124,Monteurs en isolation thermique et acoustique,,
+http://data.europa.eu/esco/isco/C7125,key_18601,"18fa60be-d5ff-419f-9cf8-61ab78a4ff03
+ee794910-545c-4bd5-92f1-27623dea4cf7
+9c121128-0455-4518-94c9-9dcca086ce89",7125,Vitriers,,
+http://data.europa.eu/esco/isco/C7126,key_18602,"befdadc9-4d2e-423b-a293-bac224d0f218
+a4e6b019-0d1c-4719-9e46-4ffcd83790fa
+35519da6-8f0c-405e-9594-3f9701924964",7126,Plombiers et tuyauteurs,,
+http://data.europa.eu/esco/isco/C7127,key_18603,"e5aa5bac-25cd-48bd-b49e-10beafb80790
+397572c4-9d47-47e9-98de-f7a26e920e26
+ae769b32-80b6-4db3-8f4e-591d4a8a18e8",7127,Mécaniciens-installateurs réfrigération et climatisation,,
+http://data.europa.eu/esco/isco/C713,key_18604,"5ef1f25d-698e-460f-b7aa-fdc3b448a7f3
+92b6ab2b-4b84-4132-aa13-b00d1529f6bd
+2a238541-4942-411e-8a68-495ede787253",713,"Ouvriers peintres, ravaleurs de façades et assimilés",,
+http://data.europa.eu/esco/isco/C7131,key_18605,"69d5797a-08d4-4757-8038-e94cd2e606a9
+265f875d-4b8f-4932-ad89-fc3beb6f75c8
+b016841c-b023-4846-978f-ff76a225ace5",7131,Peintres en bâtiment et poseurs de papiers peints,,
+http://data.europa.eu/esco/isco/C7132,key_18606,"c52a741f-5fbc-4526-9fda-3962d96ee5c4
+0d9fad0d-acf7-4eee-8d08-9fdd747d8262
+f972827d-ae16-40b1-9ced-93813663b6ff",7132,"Laqueurs, vernisseurs et assimilés",,
+http://data.europa.eu/esco/isco/C7133,key_18607,"1b8c02a4-4da4-4d49-ba55-d864ebe67046
+3ec6d6a6-f52d-4cfe-ab6e-7bd51f2fa656
+b81a3755-16be-481d-9b42-822eb5e7deb3",7133,Ravaleurs de façades et ramoneurs,,
+http://data.europa.eu/esco/isco/C72,key_18608,"228ba091-8f58-4baf-bd77-a2fba9f51306
+909ba014-8d56-40c5-82a8-e4e29e2d097f
+a74cf8fc-b625-4140-b3f0-e001bcbb1568",72,"Métiers qualifiés de la métallurgie, de la construction mécanique et assimilés",,
+http://data.europa.eu/esco/isco/C721,key_18609,"0cdbb5d0-3714-4d56-9d9c-c035f850287d
+7721c0d0-c29c-4781-8db7-ebeea540ec91
+d5c369dc-7603-4cdb-bb1f-39cb32e36656",721,"Mouleurs de fonderie, soudeurs, tôliers-chaudronniers, monteurs de charpentes métalliques et assimilés",,
+http://data.europa.eu/esco/isco/C7211,key_18610,"e459ef30-aa91-40cd-9d85-043bf8218a71
+37de307f-b65b-4a73-b3b0-b83cc4f8cc8a
+1cb59541-9840-4ba4-bf5e-f67f02256a4a",7211,Mouleurs et noyauteurs de fonderie,,
+http://data.europa.eu/esco/isco/C7212,key_18611,"d2e5e043-8e7f-4e1a-a101-0cb39d1da92c
+bfba1c3c-0b99-4eec-915a-1c2cf4f5e683
+88739249-6239-4d54-9c39-aa0b0bd6adea",7212,Soudeurs et oxycoupeurs,,
+http://data.europa.eu/esco/isco/C7213,key_18612,"1e275d94-a54a-49ce-bbde-2f3080cd189c
+22709e8e-5f4e-41ba-925d-560aaf646482
+c7da5e11-129d-4bf5-a31e-277fe3495323",7213,Tôliers-chaudronniers,,
+http://data.europa.eu/esco/isco/C7214,key_18613,"e0ca0b65-33e2-4bfa-a7d9-c509d744b920
+c1705d08-6d2f-4de3-8934-7ec0b3f5683f
+7511dd8f-f5e4-4105-ad79-cc0055059de3",7214,Charpentiers métalliers et monteurs de charpentes métalliques,,
+http://data.europa.eu/esco/isco/C7215,key_18614,"331a7745-c33b-4346-8736-8ca11827c180
+530ee3ac-0531-4926-a216-5ee79d0955d2
+25304061-76cd-4578-acfd-47481c84719a",7215,Gréeurs et épisseurs de câbles,,
+http://data.europa.eu/esco/isco/C722,key_18615,"8c5022d5-fb6c-4bbc-99eb-70f7f8cb80cd
+3cafdfff-b924-4f92-bc43-1ff44f92337f
+d7cedb69-873c-48f8-ad71-2ef85f56f466",722,"Forgerons, outilleurs et assimilés",,
+http://data.europa.eu/esco/isco/C7221,key_18616,"f0942545-cb7c-4ccb-bd05-f0cdaf9bebc7
+483324d6-3982-497d-9682-9808ae62f888
+da0fff47-3b09-416f-ab67-abcd53ded800",7221,"Forgerons, estampeurs et conducteurs de presses à forger",,
+http://data.europa.eu/esco/isco/C7222,key_18617,"2341a3f0-4b6e-4bbe-bc55-2fd56a6696f3
+0b58929e-1eef-4113-a8df-4a63727cec82
+a4673f31-7f79-45e6-921f-487dc8bebafa",7222,Outilleurs et assimilés,,
+http://data.europa.eu/esco/isco/C7223,key_18618,"e061f942-5bf6-4391-a1cd-424dfd68ebb5
+b3ffa4ec-c6fa-4969-a6e6-b0a9af3ad251
+8023b9ec-6d27-4fab-991f-4178918de9ec",7223,Régleurs et conducteurs de machines-outils,,
+http://data.europa.eu/esco/isco/C7224,key_18619,"65056b65-5c7d-4351-ae93-421a8d0281ba
+229a31ee-3b06-46da-b886-0662afe25ede
+03e0b1e9-8354-4753-b436-1d2cad651cd9",7224,"Meuleurs, polisseurs et affûteurs",,
+http://data.europa.eu/esco/isco/C723,key_18620,"5ecfed00-d604-4092-b7b5-5d2366408731
+c209d5a8-7a03-429f-a54a-3fcfd1bbb7dd
+ddeb6ed6-f9e5-4e76-bc20-f2f2a7bba582",723,Mécaniciens et réparateurs de machines,,
+http://data.europa.eu/esco/isco/C7231,key_18621,"256bcd26-b652-4617-b557-f558fcb1fa04
+4d9bf68e-a2d2-48e1-ab33-d5e9014486d8
+8cf25773-d5e5-46bc-a809-9e0d2b0ccae3",7231,Mécaniciens et réparateurs de véhicules à moteur,,
+http://data.europa.eu/esco/isco/C7232,key_18622,"2bf909fe-6815-4a9c-b4e9-170a80ce4a06
+2513dffc-6963-40dc-8ea4-ff881026d01b
+a9edc3ca-69b8-4496-8595-3f1c90c3b75e",7232,Mécaniciens et réparateurs de moteurs d’avion,,
+http://data.europa.eu/esco/isco/C7233,key_18623,"e967ad16-8821-4411-87e3-fb59a3ec576b
+ce23aeb9-c53d-4b3c-9012-b5769e55914e
+25e5db9d-38c3-47d6-8e39-a9963382439c",7233,Mécaniciens et réparateurs de machines agricoles et industrielles,,
+http://data.europa.eu/esco/isco/C7234,key_18624,"143bfbd7-f18a-49d2-b8af-376f35631f88
+81a98103-255c-48d6-852b-4cef5bdd75ac
+5351f155-9a91-447c-abc3-41e107ed2e05",7234,Réparateurs de bicyclettes et assimilés,,
+http://data.europa.eu/esco/isco/C73,key_18625,"af94a3dd-cdc8-443e-95b1-5df22e1eedd4
+1b413f51-7ce4-409a-bb70-7bb66dc2e4ce
+b1dc2f94-132c-420e-944b-05e2868d25f4",73,Métiers qualifiés de l’artisanat et de l’imprimerie,,
+http://data.europa.eu/esco/isco/C731,key_18626,"da58b33d-98dc-4430-91f4-11c50ac9b81d
+7ac19544-8b83-40fc-8dea-057e015a1c83
+9a744c9f-58de-4d98-b2c2-c2ce13e21308",731,Métiers de l’artisanat,,
+http://data.europa.eu/esco/isco/C7311,key_18627,"70518954-dea7-4e4a-b2a3-2b522cc4d1de
+ab6442c3-3872-44c6-b9fb-8c3065d20963
+5355f45e-0834-4564-8f9e-e0494a1de9a9",7311,Mécaniciens-réparateurs d’instruments de précision,,
+http://data.europa.eu/esco/isco/C7312,key_18628,"795a59bf-b140-45ae-aeb9-201bd3e9cebc
+97dec38c-81c2-480f-9786-ff31950f6653
+8ae123b5-9db5-4e2a-80b2-6aec49056ae0",7312,Facteurs et accordeurs d’instruments de musique,,
+http://data.europa.eu/esco/isco/C7313,key_18629,"c4b91cd1-7a66-44f7-91c3-92d238dd3cd5
+8e179662-e79a-42f7-bc11-35bae9d53ced
+4eba225c-b90c-4640-92b3-054758808b66",7313,Joailliers et orfèvres,,
+http://data.europa.eu/esco/isco/C7314,key_18630,"5fee71c5-31f9-456d-88e3-406ce72d5e08
+f3f400f1-3f72-4c8e-acb0-276b05fae8c3
+d052ed11-56ac-4cd0-9de6-b903bbe7880c",7314,Potiers et assimilés (produits céramiques et abrasifs),,
+http://data.europa.eu/esco/isco/C7315,key_18631,"5bc8ffe8-134e-458c-a7fd-5b5cad1ab3d5
+5d7fa639-c81c-4961-801d-4b6e5a71fc34
+eda6b100-78e9-4a7a-934a-a829cb0bc4d0",7315,"Souffleurs, mouleurs, tailleurs, meuleurs et polisseurs de verre",,
+http://data.europa.eu/esco/isco/C7316,key_18632,"ea547c93-9b09-4bae-8a9a-d7c91c06af83
+8f53db64-247c-49ad-bb5a-3b3d74ff4da6
+13603f92-b990-4023-95ef-18c8e7d727b0",7316,"Peintres d’enseignes, peintres-décorateurs et graveurs",,
+http://data.europa.eu/esco/isco/C7317,key_18633,"d965ace8-9147-494a-a172-e39ece863e7f
+985c68d3-96e1-4997-b389-5ce36dbbfe0b
+f025cd26-4150-4f3b-a41b-a671e50e2521",7317,Métiers de l’artisanat sur bois et sur des matériaux similaires,,
+http://data.europa.eu/esco/isco/C7318,key_18634,"804f24e1-6b71-4fff-b8f1-51bae60c588f
+6a34c85e-583c-4c19-a1f3-08f1904bcdb8
+7397d0fb-75fe-41be-a4e6-609490dda9c8",7318,"Métiers de l’artisanat sur textile, sur cuir et sur des matériaux similaires",,
+http://data.europa.eu/esco/isco/C7319,key_18635,"7164d2f2-4660-408b-be5a-3969278ede85
+5b1d4c56-9425-4c91-a57b-3b785e5e1ced
+96314179-0be8-447e-938f-197ff8f713c7",7319,Métiers de l’artisanat non classés ailleurs,,
+http://data.europa.eu/esco/isco/C732,key_18636,"183a49fc-6634-4349-9f3f-ca21b35de6d0
+9ed3c35b-c01c-48ee-bb38-a931e806e754
+d29b7a03-6b27-4cb4-8d2f-d47d7f53b485",732,Métiers de l’imprimerie,,
+http://data.europa.eu/esco/isco/C7321,key_18637,"a2a60bbc-d272-4547-bcfe-5f7d6fdf6a47
+a317b8db-0342-4009-a0f7-004741bb4eeb
+9b09f954-9f73-4c6b-b600-0b16c1961ee1",7321,Compositeurs et préparateurs en forme imprimante et assimilés,,
+http://data.europa.eu/esco/isco/C7322,key_18638,"95f2d950-64b1-4215-9f71-0bfff811c8e9
+e5e1e416-4773-4db7-a81c-45bc7b26d081
+20025fe7-4022-41f9-9bfa-40db43d9a96e",7322,Imprimeurs,,
+http://data.europa.eu/esco/isco/C7323,key_18639,"3a8f8ed2-0e88-4cd8-b1e0-27af0edbebe1
+113becc8-eb6b-4674-beb3-4f74daf43f18
+5a8699ed-b7d8-4169-b567-20829fb1dd81",7323,Relieurs et assimilés,,
+http://data.europa.eu/esco/isco/C74,key_18640,"33e151e7-48db-407d-ad00-151527e7a8df
+bc5c9970-e0f3-4426-bb3a-31db97fd89df
+8bc1b796-96d8-481d-954d-a29ee8c5fa40",74,Métiers de l’électricité et de l’électrotechnique,,
+http://data.europa.eu/esco/isco/C741,key_18641,"d411450e-35ad-4e68-aa9c-f51cb829cd58
+69ceeac5-24f2-485c-b7a8-2809e79becfb
+8d0f344d-f81c-4d51-8a06-f5a7d723eb76",741,"Installateurs et réparateurs, équipements électriques",,
+http://data.europa.eu/esco/isco/C7411,key_18642,"822db41d-10df-47a0-bfbe-ed290680d47a
+c10ab0d1-8e59-4b78-9df9-387302557b4c
+a6e1e0ce-00c2-4148-b699-795ff58fd46d",7411,Électriciens du bâtiment et assimilés,,
+http://data.europa.eu/esco/isco/C7412,key_18643,"77ff4fbb-d873-4b0b-acef-d6fc2b699803
+1542c94c-6e84-492c-bac8-3fea5c5732c7
+3f12636d-44c2-4019-a572-39f786ca12b2",7412,Mécaniciens et ajusteurs d’appareils électriques,,
+http://data.europa.eu/esco/isco/C7413,key_18644,"95fa6ab9-e921-4c2a-893a-d8c77f85c6eb
+7b9684f7-c355-446e-a102-3ce9c187354b
+b90cf21b-79a5-46c0-aabf-7fb53e1e0061",7413,Monteurs et réparateurs de lignes électriques,,
+http://data.europa.eu/esco/isco/C742,key_18645,"f136de60-6e1e-4bd4-a759-56b8d10c05c9
+a60645f9-223b-426d-b465-d874bb2f74e1
+2e4e3de6-121d-45b5-8ec0-07590e8dae68",742,"Monteurs et réparateurs, électronique et télécommunications",,
+http://data.europa.eu/esco/isco/C7421,key_18646,"f3d1b3fb-bb6d-41d3-891d-b334ab61f2d1
+033c8710-2f62-4243-ba7f-73ca8dd92442
+e1b1e888-eec0-4cd7-8e73-32bd8df2469e",7421,Mécaniciens et réparateurs d'appareils électroniques,,
+http://data.europa.eu/esco/isco/C7422,key_18647,"a28d0755-3f56-45a2-bad2-cf7741adeaa4
+524a466f-e4e5-4df6-ac66-e05284b1812d
+29b1bedd-b202-4317-8a57-102363e83581",7422,"Monteurs et réparateurs, technologies de l’information et des communications",,
+http://data.europa.eu/esco/isco/C75,key_18648,"c9b3a1cc-a82b-4ba4-b45c-6a13d4f0d527
+fd579c44-2960-42e2-963c-6694857ad500
+d53f80d9-2c20-4c4c-b1ca-3e0994304507",75,"Métiers de l’alimentation, du travail sur bois, de l’habillement et autres métiers qualifiés de l’industrie et de l’artisanat",,
+http://data.europa.eu/esco/isco/C751,key_18649,"55cf79f0-2895-4e8a-9069-b741218c5731
+d57074dd-2e76-4f36-9fcc-12564820dde4
+1fb189f6-98a1-4e71-b875-0cf8a6088d21",751,Métiers qualifiés de l’alimentation et assimilés,,
+http://data.europa.eu/esco/isco/C7511,key_18650,"880b1195-6cbb-46b8-9a47-7f8c8611a256
+40e88f63-5caa-4003-a6c8-4fcd1df1988a
+6c5e7eea-9457-4607-84da-bf131264b2e5",7511,"Bouchers, poissonniers et assimilés",,
+http://data.europa.eu/esco/isco/C7512,key_18651,"a7a70d4a-8cde-42d8-b3c2-a665cdcc6dd1
+4befaa5e-b1a8-45e9-972c-44923c7c8595
+711d7327-69c9-487e-a7e1-34dbb37d46ed",7512,"Boulangers, pâtissiers et confiseurs",,
+http://data.europa.eu/esco/isco/C7513,key_18652,"8245e40a-1e93-48b3-a51e-431ce2cadc41
+355b241c-106a-4b00-ab0c-d69ccfb69b80
+9cf446bb-ec07-49b7-be1b-1d017e90add3",7513,Fabricants des produits laitiers,,
+http://data.europa.eu/esco/isco/C7514,key_18653,"42c0048a-080a-43c3-8a92-947cacb2085f
+571b6c91-d16f-4a86-91ce-532654b6c279
+344ac5b9-6faa-4c4b-9b6b-77b076e7651b",7514,"Conserveurs de fruits, de légumes et assimilés",,
+http://data.europa.eu/esco/isco/C7515,key_18654,"f16cf771-bc06-4434-bf4e-284a505c9fd7
+bb49ae53-cef3-4ae4-ada6-9ca778198259
+2d78c81b-7603-46ac-8aab-62427738d504",7515,Dégustateurs et classeurs de denrées alimentaires et de boissons,,
+http://data.europa.eu/esco/isco/C7516,key_18655,"936db4c9-b25d-4c33-b4f4-4a1984b03d20
+ada307bb-851e-4a9f-bf5b-e32f70bffd2e
+9fbf1e13-a5c8-45f1-9937-bbdb6eea101e",7516,Métiers qualifiés de la préparation du tabac et de la fabrication des produits du tabac,,
+http://data.europa.eu/esco/isco/C752,key_18656,"ef95a90f-0c23-4402-b907-8c81eb61bd81
+57883eba-e763-422f-9516-826c4451fee8
+26b44118-1e8e-4b79-b836-8095c4cd36a7",752,"Métiers qualifiés du traitement du bois, ébénistes et assimilés",,
+http://data.europa.eu/esco/isco/C7521,key_18657,"610221e3-dba2-4b8e-8d4e-84676d947849
+62b06dd0-bc44-40b1-918f-9a6d133368a3
+4445e015-ef65-4d18-889e-15a0ab21036e",7521,Métiers qualifiés du traitement du bois,,
+http://data.europa.eu/esco/isco/C7522,key_18658,"28599784-cd53-4d74-bacd-6fe3e3c3319f
+490699cd-60a3-49b6-bd23-2830cc442659
+7ffb830e-afb6-40ba-b301-27855ce5d61c",7522,"Ébénistes, menuisiers et assimilés",,
+http://data.europa.eu/esco/isco/C7523,key_18659,"5809f3f1-fd1c-4284-8352-a91af72cb927
+a37c9b8d-f80d-4660-b8b3-7d97d54b114a
+a0b065e1-5fe2-41e5-91b8-db214e10b63f",7523,Régleurs et conducteurs de machines à bois,,
+http://data.europa.eu/esco/isco/C753,key_18660,"cc9f0ee1-ba4b-4593-b383-8c1bb6107de7
+b9035bf0-6882-43cc-a8d0-5e100a931ee3
+6a49c932-a96d-4ab5-9b34-96dc96d5306d",753,Métiers qualifiés de l’habillement et assimilés,,
+http://data.europa.eu/esco/isco/C7531,key_18661,"2accef79-6d61-43a2-9b7b-e1c9d7baabdf
+91c99c72-e9a4-4a4a-843c-643abf757344
+2f722c8d-e8c0-4609-bbaa-a5474092b492",7531,"Tailleurs, couturiers, fourreurs, modistes et chapeliers",,
+http://data.europa.eu/esco/isco/C7532,key_18662,"cef07b7d-a38a-4b44-b8c1-f04454ca0f83
+79485a01-7786-4279-b8d1-96a5653b1688
+57c8da1b-eb43-49ae-a343-28cdf85c33f4",7532,Métiers qualifiés de la coupe de vêtements et assimilés,,
+http://data.europa.eu/esco/isco/C7533,key_18663,"cd0e714f-5933-4a52-a436-0fe14c3290bc
+1eef5b1f-0fd9-4a0b-a7dd-a0930fd0c415
+61e16edd-c9a5-40dc-8f62-5742794df86d",7533,"Couseurs, brodeurs et assimilés",,
+http://data.europa.eu/esco/isco/C7534,key_18664,"eeb18be3-6b4c-4faf-9bc1-136642fecb98
+c865c4df-e5b5-4bf2-bad5-c18e016aa62d
+03cd5c29-631b-499a-a0a0-157519dc65ca",7534,Tapissiers et assimilés,,
+http://data.europa.eu/esco/isco/C7535,key_18665,"33f5229c-337b-4a4c-a48d-a2b90bb2f520
+bca94dba-ff8f-4546-9833-35b218a76e8e
+05a66abb-37d4-4908-bfa8-d99eceb4ec1c",7535,"Tanneurs, peaussiers et mégissiers",,
+http://data.europa.eu/esco/isco/C7536,key_18666,"874747a1-ab79-4ec6-a0a5-2ba76f050ac9
+5b6df2f7-f869-45d6-ada2-3fb5f3808668
+548955d5-82d4-41cc-b66f-a07c62d3a217",7536,Cordonniers et assimilés,,
+http://data.europa.eu/esco/isco/C754,key_18667,"0fe778d0-67e8-4bd0-8779-efbe64bddb81
+bffac02c-c870-4721-89d8-5cd07df474f2
+4be23105-dc44-4815-81be-341b93a46a8d",754,Autres métiers qualifiés de l’industrie et de l’artisanat,,
+http://data.europa.eu/esco/isco/C7541,key_18668,"1f9fe1f9-21b7-4acd-9e00-68efdf4f35c1
+d7a1e2ef-6c4b-4351-93e5-eaf3d942b3c1
+dbb2eb34-8305-4609-baaa-ce809e9855ef",7541,Scaphandriers et plongeurs,,
+http://data.europa.eu/esco/isco/C7542,key_18669,"706e207f-3c60-4c57-a30c-2ad1c09c6666
+6bbf07b8-7898-4553-975d-7f575fc5b507
+bddf5658-7644-4bcc-8bba-f79f8b46a0fa",7542,Boutefeux,,
+http://data.europa.eu/esco/isco/C7543,key_18670,"083fd351-280d-4ba0-8657-2b3ac9be0ec7
+6b0189a4-8ce9-457c-986f-572503739cbf
+bc470f95-59d1-4e44-ae24-a377a184d8ab",7543,Classeurs et essayeurs de produits (à l’exception des aliments et des boissons),,
+http://data.europa.eu/esco/isco/C7544,key_18671,"9a582c84-322b-4189-931a-1140e2bef2c8
+d86083e6-8ec9-440d-b5bc-7f593b8c06d9
+03744deb-946c-4cff-a66c-1f914ed493a1",7544,Fumigateurs et préposés au contrôle de la vermine et des mauvaises herbes,,
+http://data.europa.eu/esco/isco/C7549,key_18672,"0edb53b7-95d6-41ec-9d13-8c76cc0ad3f8
+9f36ae5c-e4d5-4231-9627-073457285771
+e8c1f036-4260-4dd0-a441-f80f89871f8d",7549,Métiers qualifiés de l’industrie et de l’artisanat non classés ailleurs,,
+http://data.europa.eu/esco/isco/C8,key_18673,"25026686-1bb0-4491-90ec-de93162999ad
+0df59739-8dbf-423d-9cd4-cb3ae51e2e95
+9d3d5785-a2ed-4ae0-ab08-fc068aa97829",8,"Conducteurs d’installations et de machines, et ouvriers de l’assemblage",,
+http://data.europa.eu/esco/isco/C81,key_18674,"49e8b09a-c7dd-4625-b372-10f7d07f903a
+e6892648-cabb-4bb0-b0ed-bff5a3ef4610
+6c7e66b2-824f-4cc4-a4fc-3eaf838dd43c",81,Conducteurs de machines et d’installations fixes,,
+http://data.europa.eu/esco/isco/C811,key_18675,"086a7b4f-6a41-4fb2-9b9e-bb8957881343
+20aa70c4-9717-4cb5-9381-052c45579bd6
+e23df4d8-5c4a-4cbb-bb52-0e970b20f389",811,Conducteurs d’installations d’exploitation minière et d’extraction des minéraux,,
+http://data.europa.eu/esco/isco/C8111,key_18676,"a185a1c9-b0e9-4e3b-93af-840d6f698aa4
+41d3088c-a392-4a12-962c-6c3249fcdc30
+32602d0b-09f7-4c5f-882b-2021ecc2d8c5",8111,Mineurs et conducteurs d’installations de mine,,
+http://data.europa.eu/esco/isco/C8112,key_18677,"64264993-0cfa-4090-b3c7-ca0bf8be59de
+d8f3277e-e4e2-4e31-ad75-1697db423f5c
+19a0edaa-ee04-4904-80b3-40dea44d565b",8112,Conducteurs d’installations de préparation des minerais et de la roche,,
+http://data.europa.eu/esco/isco/C8113,key_18678,"1c848d29-25bc-4fef-9c92-7a431fa62fb4
+6242999d-1c9d-4fa2-bf09-19b8a11d5c10
+bdf3c290-3ba5-40b1-806a-14db7befca56",8113,"Foreurs, sondeurs de puits et assimilés",,
+http://data.europa.eu/esco/isco/C8114,key_18679,"32cf3587-798c-4ec5-a851-5d0494a99095
+f8696c09-9b92-4862-a66b-963e39c62b16
+be9bdcb8-bbc0-4463-be61-7dac812a0b7e",8114,"Conducteurs de machines à fabriquer du ciment, de la pierre et d’autres produits minéraux",,
+http://data.europa.eu/esco/isco/C812,key_18680,"70f52bbb-af0c-41ef-adfd-8e8c966dba8b
+db9b8400-1485-40e7-8214-70e068dbff26
+b53eda5b-d5b6-46b6-9db5-eaf78a14d06d",812,Conducteurs d’installations de transformation et de traitement superficiel des métaux,,
+http://data.europa.eu/esco/isco/C8121,key_18681,"9b4324a8-b330-4542-9c6f-85842d493d08
+e9d36895-26a3-43ce-b8b7-46bdf6e81c6f
+26037702-2aea-4fca-8b1d-1353fb28c90c",8121,Conducteurs d’installations de transformation et de traitement des métaux,,
+http://data.europa.eu/esco/isco/C8122,key_18682,"87ab4a51-9f22-4fb8-9917-042e2e393ef7
+a32f5a1e-15ea-4f7d-855a-06dddb04b354
+692b0315-637e-4670-b47a-e91662fe2742",8122,Conducteurs d’installations de traitement superficiel des métaux,,
+http://data.europa.eu/esco/isco/C813,key_18683,"fa4036d9-c4c3-4f6e-bb9c-2faebf030561
+d393bf9a-d9e2-4a7c-86d4-f36a7e3af4b9
+b04d8812-7193-4859-90d4-22678c9e37aa",813,Conducteurs d’installations et de machines pour la fabrication des produits chimiques et photographiques,,
+http://data.europa.eu/esco/isco/C8131,key_18684,"d70649bd-7faa-4f50-97dc-d7b691d6ffbd
+89c6b17d-2bee-4ad2-9efb-52b5ca9372ed
+b9686609-2c9b-422e-8e88-2d8f2b6532c6",8131,Conducteurs d’installations et de machines de traitement chimique,,
+http://data.europa.eu/esco/isco/C8132,key_18685,"ac4baca1-e139-41f5-9a9f-5c84b44ba52e
+694a5a1b-9f02-468e-a17e-4da595f81231
+afecfe8b-8eaf-4eab-a9e4-90f2ac9bf587",8132,Conducteurs de machines pour la fabrication des produits photographiques,,
+http://data.europa.eu/esco/isco/C814,key_18686,"04774b6b-21bb-48b4-bda6-090b503e24dc
+f516e86b-3fd0-4b17-900f-1342086b55bc
+0f3b8b92-4a1b-4ae8-b0c5-a22b06094e96",814,"Conducteurs de machines pour la fabrication de produits en caoutchouc, en matières plastiques et en papeterie",,
+http://data.europa.eu/esco/isco/C8141,key_18687,"9361e2c6-6c80-47a0-a0e2-f3c1c9183795
+8472208b-e534-41e6-a0c8-3769b1fe0851
+031bfbea-733a-40ba-a521-5529e47966f5",8141,Conducteurs de machines pour la fabrication des produits en caoutchouc,,
+http://data.europa.eu/esco/isco/C8142,key_18688,"8bd3e13e-301d-4de5-979f-6db70f303622
+d2ddfdd8-ae07-4063-9c23-7dc8000dbdbb
+d7513d3b-a9c4-491e-9b87-370d5fa5199c",8142,Conducteurs de machines pour la fabrication de produits en matières plastiques,,
+http://data.europa.eu/esco/isco/C8143,key_18689,"69e2e02a-18f5-41d2-84d4-171165c70b04
+d6313a30-539a-4463-9299-d5d6a7466e62
+85b8eaed-5ae9-4739-9779-171690df4421",8143,Conducteurs de machines de papeterie,,
+http://data.europa.eu/esco/isco/C815,key_18690,"b5cee667-b243-4cf5-9170-9ddf4bd76b61
+43edb6f5-d9ec-445f-a6d5-011a684e48f1
+4b36cc33-505b-4cc5-a9f2-6844d3def5e4",815,Conducteurs de machines pour la fabrication de produits textiles et d’articles en fourrure et en cuir,,
+http://data.europa.eu/esco/isco/C8151,key_18691,"53c1bd4e-4c96-4b29-915a-e7af76952915
+2d4d56fb-6ca9-45e3-9b1b-fc9685f05cf1
+284e1b4f-ffa3-4387-810d-763f189d4adb",8151,"Conducteurs de machines à préparer les fibres, à filer et à bobiner",,
+http://data.europa.eu/esco/isco/C8152,key_18692,"f158b5f8-7ec4-46cf-b993-922356beb9b8
+b0440be1-5357-42df-a8f1-b337f1b10db3
+f8d08376-7e3f-46a2-bfd8-e8c252b56393",8152,Conducteurs de métiers mécaniques à tisser et à tricoter,,
+http://data.europa.eu/esco/isco/C8153,key_18693,"ada08772-f063-4534-9748-51dfa8242346
+cd449d93-ac53-46ad-aabb-ba6ce171a770
+ff397bd2-c6e7-44f4-a313-ecd501ceeba1",8153,Conducteurs de machines à coudre,,
+http://data.europa.eu/esco/isco/C8154,key_18694,"83b337bd-7303-4e6f-a754-ac47467bf7f6
+f53bf40e-7ac0-4734-9158-e3fb20dbe9ab
+912fe4a0-076f-4e29-8518-11a3e5f88a47",8154,"Conducteurs de machines à blanchir, à teindre et à nettoyer les tissus",,
+http://data.europa.eu/esco/isco/C8155,key_18695,"c3fbcb48-d6d6-4c28-af70-f73afdf5d143
+5e6ba61f-0aed-409b-ae6d-a17dafb69994
+23cfb0e8-2437-46ea-bb2c-e56be007a3b0",8155,Conducteurs de machines à préparer les fourrures et le cuir,,
+http://data.europa.eu/esco/isco/C8156,key_18696,"40252543-cbba-4b1d-9ab3-ac567429055c
+14b0c614-00ba-481c-be21-640da9e708ba
+51c2793c-aebd-414d-97c7-85b307ced729",8156,Conducteurs de machines pour la fabrication des chaussures et assimilés,,
+http://data.europa.eu/esco/isco/C8157,key_18697,"1e503134-9436-4314-aecc-a4fdbb097b78
+914a6d08-5613-4040-90be-b6650a557c10
+c3860e75-8100-480d-94bc-0f3f16443526",8157,Conducteurs de machines de blanchisserie,,
+http://data.europa.eu/esco/isco/C8159,key_18698,"bf95de0b-a8d3-42c5-a27b-382eb08b19d8
+744f156a-d15d-428b-93da-aeb847da4301
+0b33efdc-daaf-4ddf-a016-bb081967cc96",8159,"Conducteurs de machines pour la fabrication de produits textiles et d’articles en fourrure et en cuir, non classés ailleurs",,
+http://data.europa.eu/esco/isco/C816,key_18699,"f791bd9b-3e82-4595-89bf-6939a2c84ebb
+ae9af147-2551-492b-9d6d-5ad5e8f0c588
+7eb45bac-e237-48fd-b134-8603017b972a",816,Conducteurs de machines pour la fabrication de denrées alimentaires et de produits connexes,,
+http://data.europa.eu/esco/isco/C8160,key_18700,"a3340674-8a6f-4ee9-ace2-7261b8d1f6e9
+23971eb8-99f0-4a40-a530-be56d0974f26
+80d9a471-beb3-4d05-9b17-b8e21fe3ab19",8160,Conducteurs de machines pour la fabrication de denrées alimentaires et de produits connexes,,
+http://data.europa.eu/esco/isco/C817,key_18701,"151c29ad-2574-4771-8081-a30ec8b80e5d
+1665952c-9472-4fc3-9397-2c48ec94a2c7
+b574f073-a0f3-43b0-8951-6591e648c4ba",817,Conducteurs d’installations pour la fabrication du papier et pour le travail du bois,,
+http://data.europa.eu/esco/isco/C8171,key_18702,"9eba89d8-ae86-4fc5-9880-e2491c27344a
+7998f81d-90dc-41c4-b9a4-ee04fab4fa53
+7fc05452-9cbf-4d0d-bf0f-14e9d721ef40",8171,Conducteurs d’installations pour la fabrication du papier et de la pâte à papier,,
+http://data.europa.eu/esco/isco/C8172,key_18703,"79cc8de7-3100-408c-847d-729773bdc88c
+8b336a25-f26f-4546-983b-5d14ad880dc9
+1260dbe0-2163-4fb2-a38b-d4de0a606615",8172,Conducteurs d’installations pour le travail du bois,,
+http://data.europa.eu/esco/isco/C818,key_18704,"354a0b22-3f36-4572-a17b-18a947e2d119
+7b08d17f-5323-49a8-9c70-45306e8f6ddb
+cf3aceed-17f6-4a04-b578-af49b3f6fea9",818,Autres conducteurs de machines et d’installations fixes,,
+http://data.europa.eu/esco/isco/C8181,key_18705,"88dcddef-e65d-4a3a-a4dc-016c87f4b79f
+716b86c4-3d7d-4511-81e6-ffd37376e288
+63a3ba62-c2a0-4512-a1b2-6219e6fc4eb6",8181,Conducteurs d’installations de verrerie et de céramique,,
+http://data.europa.eu/esco/isco/C8182,key_18706,"e70ce7f8-a8e4-455d-8b7c-dbfce01ba085
+e18a59da-9818-4100-b38d-23586fb982d5
+31f5a209-c135-44a4-a3e9-6bdd0ffeb99e",8182,Chauffeurs de machines à vapeur et de chaudières,,
+http://data.europa.eu/esco/isco/C8183,key_18707,"d81493e5-9eac-4b24-a6f2-013e003725a1
+0acbfe98-f40a-4d84-8518-10ee87cab967
+7a51bdd0-c7ce-46f2-93ef-2b41f10135cb",8183,"Conducteurs de machines d’emballage, d’embouteillage et d’étiquetage",,
+http://data.europa.eu/esco/isco/C8189,key_18708,"eff17cd8-c24a-4009-b096-808264031e53
+336a4d50-9544-4ae5-9b3f-fe7f34debfcf
+4c98370d-60b3-4998-8b4a-cf719f8a0108",8189,Conducteurs de machines et d’installations fixes non classés ailleurs,,
+http://data.europa.eu/esco/isco/C82,key_18709,"f6864f9c-12a1-4246-9818-6a28e84f70b5
+0597a5dc-1a9f-4561-9720-e13ba33c3e55
+d321ab8d-eee6-4af1-806c-87f2d99acd47",82,Ouvriers de l’assemblage,,
+http://data.europa.eu/esco/isco/C821,key_18710,"348d1ed6-6864-43cc-a265-3c0288951db6
+3573f9eb-541e-449d-9223-1c5fbf315da7
+077719cc-afc6-4c64-b37e-a84cf6d0375b",821,Ouvriers de l’assemblage,,
+http://data.europa.eu/esco/isco/C8211,key_18711,"d27de22c-e16e-4249-8460-90be5e84b13f
+be1934b1-0d25-421f-ac19-b2b7ea154aa3
+fc2b3f1b-a343-4a86-a854-5bd859e5a7e5",8211,Monteurs en construction mécanique,,
+http://data.europa.eu/esco/isco/C8212,key_18712,"b26ad0b0-c77c-4e4a-beb8-6472b2d17cd6
+65e19010-5661-4a98-bf19-e5100574290c
+7d8872d0-5ed7-4be4-9350-c2fb1339e7b6",8212,Monteurs d’appareils électriques et électroniques,,
+http://data.europa.eu/esco/isco/C8219,key_18713,"be3301f7-c8ab-4a11-a0e6-a7f547a70e1c
+4d5b75ec-c009-4627-b511-ac8365dba54a
+92e693d7-6189-4021-a158-042cf9cc3286",8219,Monteurs et assembleurs non classés ailleurs,,
+http://data.europa.eu/esco/isco/C83,key_18714,"a5859b02-6af9-4ef7-905c-f3b550da389b
+53f4c069-58b3-4cd5-8120-66f69a3f45e9
+ee85a9b5-7a5a-4235-9784-e25b79a8e6d0",83,Conducteurs de véhicules et d’engins lourds de levage et de manœuvre,,
+http://data.europa.eu/esco/isco/C831,key_18715,"ccca6891-f456-4fd4-8653-556462a51b30
+2df2b817-dd2e-4bac-861f-5b548308e4bb
+0a74c4ca-e415-4b13-b013-19949ba165cd",831,Conducteurs de locomotives et assimilés,,
+http://data.europa.eu/esco/isco/C8311,key_18716,"caf88236-5055-4b9e-bcce-23296263eb0d
+00e3f946-d8a3-4e2a-8116-907b8e74cc6b
+fef4b6a0-eaa2-45ee-8805-3102fb4eb1b2",8311,Conducteurs de locomotives,,
+http://data.europa.eu/esco/isco/C8312,key_18717,"ca5a8beb-5559-4a87-830f-32c3b4dc6a80
+c72a3a7a-87b0-4e2c-9a47-a6f0e9526f27
+4c3ca76f-ec9e-4d02-95aa-4b5c51a6c1f1",8312,"Serre-freins, aiguilleurs et agents de manœuvre",,
+http://data.europa.eu/esco/isco/C832,key_18718,"3c24b663-81e8-4f09-8fa3-3d7f01c953a5
+8f13693d-5420-4ee6-83dd-26ebbb7a3ace
+6a451f7b-7fbb-41c3-86dd-74efa809a8d7",832,"Conducteurs d’automobiles, de camionnettes et de motocycles",,
+http://data.europa.eu/esco/isco/C8321,key_18719,"719783f2-0295-4bfe-bb02-381403cd2eb1
+80a8f579-71ce-476c-a03e-57e4c3edcc10
+ff35607a-4ff9-4d31-b214-30b708268f49",8321,Conducteurs de motocycles,,
+http://data.europa.eu/esco/isco/C8322,key_18720,"c5430de0-3287-495e-9c9c-8556b6106764
+66bed55d-cca6-484e-8154-a2fec6a004ee
+9f5f3948-2b6f-439c-822f-f7b8cf3ffd7c",8322,Chauffeurs de taxi et conducteurs d’automobiles et de camionnettes,,
+http://data.europa.eu/esco/isco/C833,key_18721,"63dae58e-3e39-4c1c-a58a-8154815df443
+744e0c90-ea19-4185-ab1b-a8c42364b423
+65eb9607-c4b9-435b-bb2c-b826fc407788",833,Conducteurs de poids lourds et d’autobus,,
+http://data.europa.eu/esco/isco/C8331,key_18722,"8e2f38df-c4d0-4f22-8a2b-59688df7c714
+a0b25d5f-59da-45b5-bde4-e4cdb0121625
+c32c1e9a-82e9-4a8e-9268-5c5a86ff34c7",8331,Conducteurs d’autobus et de tramways,,
+http://data.europa.eu/esco/isco/C8332,key_18723,"d93a5091-f6f9-4410-adbf-f2c4cb8e3d4b
+a6fb9446-f504-45b6-a89e-41a67f708101
+15b17e07-8efd-4664-9ddb-505d9a675714",8332,Conducteurs de poids lourds et de camions,,
+http://data.europa.eu/esco/isco/C834,key_18724,"1e21323e-903e-4379-9527-ea679123cdfa
+61db2f74-eb67-4407-a955-d109f829fbb1
+78b63ce3-19f8-457f-a286-34d48f396391",834,Conducteurs de matériels et engins mobiles,,
+http://data.europa.eu/esco/isco/C8341,key_18725,"0d4e92bb-f54a-40b6-a105-5ac1a57157eb
+52688587-ec6e-4553-9d42-2e7f01404220
+1126a0c1-e986-495b-9430-ae84704ca08e",8341,Conducteurs d’engins mobiles agricoles et forestiers,,
+http://data.europa.eu/esco/isco/C8342,key_18726,"6977ab14-972a-4074-93d1-39283857c615
+5ea68db0-44d7-4251-9f72-6f01cadcbf18
+944eeaf9-124f-4ede-b698-fe27a37816a3",8342,Conducteurs d’engins de terrassement et de matériels similaires,,
+http://data.europa.eu/esco/isco/C8343,key_18727,"e3cdcad4-18ad-4dd6-827c-a44f48a1bd63
+5ef4917c-70ce-4b92-bff0-0132511b50b9
+36fd0266-2c7e-4f60-99c5-8991f782719f",8343,"Conducteurs de grues, d’engins de levage divers et de matériels similaires",,
+http://data.europa.eu/esco/isco/C8344,key_18728,"f78fb503-6290-4df5-aa3b-88487b6dbb15
+5af35953-5b95-4e62-bc38-1e7d38a64de2
+1047f4b9-6925-47d7-8f04-37961750ea82",8344,Conducteurs de chariots élévateurs,,
+http://data.europa.eu/esco/isco/C835,key_18729,"7d4f7a39-6942-4def-b723-d8d70429b0f4
+fb3822a5-2973-416d-88a7-12a9dd1238bf
+03232892-a0fc-4885-9b5e-407063e27632",835,Matelots de pont et assimilés,,
+http://data.europa.eu/esco/isco/C8350,key_18730,"1eb92cc5-6810-44bd-b97b-f7d1e2292f20
+7a2446c0-d5ab-446d-bc00-c0708e5e96cf
+a065438c-0148-472d-9fce-99502f79414c",8350,Matelots de pont et assimilés,,
+http://data.europa.eu/esco/isco/C9,key_18731,"c1e36e9a-e72a-4563-accb-140030b73e57
+4ce1ed66-d806-493f-a1dc-40dd295ada87
+9d7c36e5-9101-467d-9b3e-3c08b6b3086c",9,Professions élémentaires,,
+http://data.europa.eu/esco/isco/C91,key_18732,"1ca42ab9-27c4-4834-b85d-6e0945fc034d
+2b932454-88f8-4b36-85f9-841cb4b733d6
+32fc642d-c7da-4b28-a7c0-438ff551b700",91,Aides de ménage,,
+http://data.europa.eu/esco/isco/C911,key_18733,"e5d66f88-cecd-430a-bffd-d58cb11d0021
+67d5ae37-05d5-496e-a449-90d1813ce197
+dcd9d511-0f94-43e1-a0f6-39e9a00674e0",911,Aides de ménage et agents d’entretien à domicile et dans les hôtels et bureaux,,
+http://data.europa.eu/esco/isco/C9111,key_18734,"cc3e9d1c-aa98-4ae0-a181-9258367cda34
+f5f1bb30-99eb-4c2b-a9bd-1b6be98d3e99
+0e051774-d4e3-4805-9e7c-524435facbbb",9111,Aides de ménage à domicile,,
+http://data.europa.eu/esco/isco/C9112,key_18735,"84c8196a-bf72-4e1b-a933-c8e1e4551721
+ec4acb7a-ed57-42fa-a744-34ce3028d6b0
+ee833cd8-442d-4ae8-bf8d-0f4aae54dbcf",9112,"Agents d’entretien dans les bureaux, les hôtels et autres établissements",,
+http://data.europa.eu/esco/isco/C912,key_18736,"91f31433-5e20-43ec-95f9-ca1f8baad861
+441c900a-0f09-4ea5-a5f1-6d0d56d993c0
+29314e3a-554d-40fc-944a-c5bea26e62ac",912,"Laveurs de véhicules et de vitres, laveurs de linge et autres nettoyeurs manuels",,
+http://data.europa.eu/esco/isco/C9121,key_18737,"56191d79-aaf5-4f44-8638-92b96b9811ba
+8123cd24-c5c0-412a-9235-494798b675dd
+c7b8d0a6-eca6-48a7-b45f-a4420d24ae30",9121,Laveurs et repasseurs de linge à la main,,
+http://data.europa.eu/esco/isco/C9122,key_18738,"b00535fb-97e9-43ef-8c8e-e1f9459744ab
+e34a91f3-f88e-4a63-82fa-49427ed8e8ab
+dbb23eca-d666-42c0-8a18-6838a510f4a8",9122,Laveurs de véhicules,,
+http://data.europa.eu/esco/isco/C9123,key_18739,"b8da8756-7090-4576-a027-a31541cc252e
+f39285ac-0853-40b2-b137-1b6e5a90eb67
+2639b05d-3c8e-4734-9f16-7d423722e9b1",9123,Laveurs de vitres,,
+http://data.europa.eu/esco/isco/C9129,key_18740,"30483a6c-f033-4b8b-bb2d-0763485a5b9a
+4002d946-d295-4989-80ad-da807e4377b2
+5010c90e-5183-4c5e-be90-05d31401b734",9129,Autres nettoyeurs,,
+http://data.europa.eu/esco/isco/C92,key_18741,"fd17d66e-98d5-489d-bfdf-311a1083e28e
+aeb44453-5536-4ddd-9c54-a050e4c06745
+dbd79400-3e1e-4ebc-adfe-452bcf1acafd",92,"Manœuvres de l’agriculture, de la pêche et de la sylviculture",,
+http://data.europa.eu/esco/isco/C921,key_18742,"2e5d2546-6466-4d51-a89c-6a319b2e8d26
+93811f57-8cef-43c6-9139-c44bbd292c57
+2d659435-d33a-45eb-a7e4-1233e5f63fab",921,"Manœuvres de l’agriculture, de la pêche et de la sylviculture",,
+http://data.europa.eu/esco/isco/C9211,key_18743,"7226b07b-29ba-4a17-abc0-326336499aef
+4fe42827-0e2d-48bf-abee-9bd78052e33c
+77b7272e-1032-42f4-96ba-8811dd200307",9211,Manœuvres de l’agriculture,,
+http://data.europa.eu/esco/isco/C9212,key_18744,"80b6cdbc-fac9-499b-a22e-6c77ff7a9c12
+40efa9d4-21d5-4bdd-b72e-f292408794a7
+e9f0f0c3-5cda-43c6-acc5-7d7aea6ac880",9212,Manœuvres de l’élevage,,
+http://data.europa.eu/esco/isco/C9213,key_18745,"2d7ffeb4-e47f-45c1-9507-39ab1b68858d
+b0ecc2f6-bd4c-4118-8a39-642a109bb1a0
+94b5f7cb-5b27-4769-b89f-277950d5aef7",9213,Manœuvres de l’agriculture et de l’élevage,,
+http://data.europa.eu/esco/isco/C9214,key_18746,"402fdf3c-3733-4e05-a78b-834bc5b8a065
+c50e7fba-e37a-4b16-90ad-192bf7f9229a
+eb2770db-4443-407b-9be4-881e8895739d",9214,"Manœuvres, cultures maraîchères et horticulture",,
+http://data.europa.eu/esco/isco/C9215,key_18747,"7d11feab-4f3b-4971-a3a9-1fe61b006c45
+eb9caee9-372c-49d9-ace0-16d57b7bb138
+eb0adc30-2f1c-49d9-8e99-644627081851",9215,Manœuvres forestiers,,
+http://data.europa.eu/esco/isco/C9216,key_18748,"13dc3a9e-b48e-474e-9df7-7b64e73358aa
+e8d9775d-f2e8-4fe7-8cbe-e54b9efe5756
+5b97db75-a0f4-47b7-bf00-0cb363934f09",9216,Manœuvres pêcheurs et aquaculteurs,,
+http://data.europa.eu/esco/isco/C93,key_18749,"4340721e-8a8f-4343-9a2b-b73957029950
+6b1c202f-05d1-4234-b238-1d20e438186b
+e2d6c247-93ba-4f15-a559-2e7e1b73aa91",93,"Manœuvres des mines, du bâtiment et des travaux publics, des industries manufacturières et des transports",,
+http://data.europa.eu/esco/isco/C931,key_18750,"1ff3ff5e-3de9-4cc0-83f5-33d0828db0c9
+4a44f81f-32e9-4987-ab3f-046d78b675f6
+41591fa5-bdc2-48bf-986d-d2d9bff27133",931,"Manœuvres des mines, du bâtiment et des travaux publics",,
+http://data.europa.eu/esco/isco/C9311,key_18751,"f4b00399-6fb5-45d9-8179-0ca9d9033f71
+13cefa26-f603-4492-8284-a121936ab4c5
+3ee93168-77ed-4d00-83c4-5135e27965ff",9311,Manœuvres des mines et des carrières,,
+http://data.europa.eu/esco/isco/C9312,key_18752,"00efb2b9-3b6b-480b-ae8d-07a8b67c6bf8
+07669c6b-d02e-4980-871b-79d6e4478faf
+d27c71a2-e61f-47c8-b68b-121fda367860",9312,Manœuvres de chantier de travaux publics,,
+http://data.europa.eu/esco/isco/C9313,key_18753,"aa82d308-4461-47af-be69-6657d0f80063
+079fa0ef-2b6d-403c-8b33-a817049b05b2
+b15849fe-fafa-46e9-8f4e-9c61fc9f3f89",9313,Manoeuvres du bâtiment,,
+http://data.europa.eu/esco/isco/C932,key_18754,"dc81fa39-f963-4e51-971c-a5f35963448b
+cb80dd91-6988-49e8-a2dc-f21c94f53b9e
+b89fe2e6-e4d5-4846-85ab-be8ab0808993",932,Manœuvres des industries manufacturières,,
+http://data.europa.eu/esco/isco/C9321,key_18755,"031f2ce9-090b-4c0a-aea5-398de1fc98f5
+080ef0a0-17ce-4570-9034-f50b7400b2ad
+e7f0098c-627a-4b86-94cb-467b3b86ff99",9321,Emballeurs à la main et autres manœuvres des industries manufacturières,,
+http://data.europa.eu/esco/isco/C9329,key_18756,"10b3ee04-7eae-4aac-ae5f-c721dad6395d
+93df8aeb-7fd1-4b36-b024-fad6654e86b9
+14388947-766e-4507-98f8-c08c0dc94b73",9329,Manœuvres des industries manufacturières non classés ailleurs,,
+http://data.europa.eu/esco/isco/C933,key_18757,"ade517ec-94b3-46be-93eb-4d10d7325ece
+3aeac4af-f9f5-4350-b6e8-9b6b99b803be
+0d8e186a-0240-4ad4-b39f-99d3bd894559",933,Manœuvres des transports et de l’entreposage,,
+http://data.europa.eu/esco/isco/C9331,key_18758,"f99b5c34-c9dc-4a5e-b463-d37611ce9b24
+19b4c811-aa60-43fc-b1e6-a9a0c1bb38cf
+0f3030b4-ee9d-4bed-8228-5197619d7ff7",9331,Conducteurs de véhicules à bras et à pédales,,
+http://data.europa.eu/esco/isco/C9332,key_18759,"5aa00890-3bcc-466d-9c69-22636ffbe4d1
+97fd9f19-ddde-40dc-86c3-bec652c22379
+51a16dac-3c5d-4313-aa86-49dbb1c9c4b3",9332,Conducteurs de véhicules et de machines à traction animale,,
+http://data.europa.eu/esco/isco/C9333,key_18760,"fbe58d91-4c8b-4a9f-9479-2afd2f6e8b34
+abf610aa-687f-4211-81f6-345784c55304
+1c766347-19ee-4c0a-a451-c2395eaf7889",9333,Manutentionnaires,,
+http://data.europa.eu/esco/isco/C9334,key_18761,"e25656f4-2896-492c-9cc4-744edfa6de3a
+bdfb53a5-da70-443c-8f38-7c338d1a2ec1
+212dbce8-1271-4dc6-b664-459177f4fbef",9334,Garnisseurs de rayons,,
+http://data.europa.eu/esco/isco/C94,key_18762,"af278e0b-d337-4036-aa16-4050eb7ef627
+635069fa-03fc-4ca9-84ba-5fd61a26c2f8
+3f6f6026-480d-461e-9d5f-2639f6c7a4bd",94,Assistants de fabrication de l'alimentation,,
+http://data.europa.eu/esco/isco/C941,key_18763,"91ed38b7-0e20-4ccc-b7f6-d02aae03da87
+4eac7bc3-d142-41f2-84b1-416a06d29bd1
+89578faf-6769-472f-a3ed-7a8a73f8f086",941,Assistants de fabrication de l’alimentation,,
+http://data.europa.eu/esco/isco/C9411,key_18764,"dd042e95-da7e-4bdd-bab4-1df4566fee80
+a0154630-a08d-443f-a1ed-b81ec76bf48a
+7d4ac331-58e1-40d3-8016-fa74a480dab0",9411,"Cuisiniers, restauration rapide",,
+http://data.europa.eu/esco/isco/C9412,key_18765,"0c96f048-1af6-4e97-a3e0-6f628ca42bd5
+c4394a5e-b683-4b20-8226-97f6f326342b
+271f962b-dea2-40bf-a897-b62b1afe4f7f",9412,Aides de cuisine,,
+http://data.europa.eu/esco/isco/C95,key_18766,"bfd543c4-28e3-4ef2-a9af-74ec46aa3894
+329bf10a-9011-4cc2-9f78-241dca01bc30
+a3aad460-3b75-4083-8dc3-6f2f7e13f31c",95,Vendeurs ambulants et autres travailleurs des petits métiers des rues et assimilés,,
+http://data.europa.eu/esco/isco/C951,key_18767,"7473e558-addf-495e-a993-600d8b570ef3
+2267b89d-c1ae-44de-9710-bea2fcd4fae3
+93c19a4c-0d3f-418e-9900-b72c40859278",951,Travailleurs des petits métiers des rues et assimilés,,
+http://data.europa.eu/esco/isco/C9510,key_18768,"0358f8a1-1eda-4b24-9f9a-d991c5f1c293
+20874a46-c4ae-4023-b887-df54aa30bf98
+9c87f22e-3dee-42eb-b4c5-377af845f7a3",9510,Travailleurs des petits métiers des rues et assimilés,,
+http://data.europa.eu/esco/isco/C952,key_18769,"70dff9f5-949b-4e31-83b3-a033e66541a0
+e40c2b0e-3d91-4c35-8db7-175e005beb2b
+34d4fa7e-bf21-4192-9dcf-e194f719361c",952,Vendeurs ambulants (à l’exception de l’alimentation),,
+http://data.europa.eu/esco/isco/C9520,key_18770,"b44cd14a-7722-4921-ab3d-1b44eb62e54f
+a36fdd82-f631-400b-98da-f8b43979e8a7
+20f750ab-a659-4db1-850a-0a7b02ab21ab",9520,Vendeurs ambulants (à l’exception de l’alimentation),,
+http://data.europa.eu/esco/isco/C96,key_18771,"09f21218-7ee9-4c22-8256-1b667ec26c52
+ff4e83f3-5aa4-4469-819f-e36379bd7d38
+b5f3b967-396e-4211-8f09-961edcfda1a2",96,Éboueurs et autres travailleurs non qualifiés,,
+http://data.europa.eu/esco/isco/C961,key_18772,"ac59cb4b-97d7-4ec6-8e94-46388bcc0b8a
+3b3d64bc-50f2-48f2-91be-77c53f1aacc3
+5d4107fe-3d08-4f00-831a-391b409c3dd6",961,Éboueurs,,
+http://data.europa.eu/esco/isco/C9611,key_18773,"36eb2aba-7bd7-4157-a7c6-49e179c77a9e
+87a6c15c-c0e0-4428-91d0-8e67cae41b3e
+fcda77d5-2724-41bd-9530-094b05324ed1",9611,"Manœuvres, enlèvement des ordures et matériel recyclable",,
+http://data.europa.eu/esco/isco/C9612,key_18774,"cdca201e-05b7-463e-9ec7-f93c823e7b55
+d64c15f6-871a-4d86-8e80-2ce4d60e5b3a
+90cf16db-c82d-4d9c-b232-d181fa2e7a3b",9612,Trieurs de déchets,,
+http://data.europa.eu/esco/isco/C9613,key_18775,"e6a72fc8-e675-4d8f-b7b3-ab45f7bb7ae5
+528b11cc-840a-4eb2-8800-f4447dbfb88d
+ff95a2ca-eb81-4096-b13a-220bd3831075",9613,Balayeurs et manœuvres assimilés,,
+http://data.europa.eu/esco/isco/C962,key_18776,"1983e22c-3c69-40cf-a91f-bd2ce1b9ea57
+d844f027-8180-4e10-b444-4c77dd16a440
+2cea89ce-3d8e-40de-8d7c-989e34619daf",962,Autres professions élémentaires,,
+http://data.europa.eu/esco/isco/C9621,key_18777,"1470b03f-b841-4da7-a136-17b007b52822
+079ce2c0-1a63-4453-aad8-d3dc3e773856
+d1c9b489-b26b-4c87-b29f-423d426d3128",9621,"Messagers, porteurs de bagages et livreurs de colis",,
+http://data.europa.eu/esco/isco/C9622,key_18778,"beb6f0bf-b6a2-4efb-ac43-4632e0b90515
+29b5726a-f44c-40e9-b07b-cc0d6d2e9472
+adfa4199-eb44-4ddf-a336-adde7b5e40da",9622,Manœuvres polyvalents,,
+http://data.europa.eu/esco/isco/C9623,key_18779,"8dbe0ada-e18b-4e43-a0b1-6ed6ed241735
+82fb8bde-ecc3-4324-90c6-fc1d536774ac
+88e15bbb-7c40-4963-b324-535d6587778e",9623,Encaisseurs de distributeurs automatiques à prépaiement et releveurs de compteurs,,
+http://data.europa.eu/esco/isco/C9624,key_18780,"d8358b3b-b85c-44be-be5d-4d40657d7f5b
+b7b88860-7432-4d05-b9d0-30abe3f57323
+d635aa35-7808-4dc8-b1e6-344beabba63d",9624,Porteurs d’eau et ramasseurs de bois de feu,,
+http://data.europa.eu/esco/isco/C9629,key_18781,"e0140a51-fbb4-4223-8189-d00be769eb31
+794cd0c9-d78f-4a5d-bddf-4cd20acf024d
+984c0bbe-6f77-4599-8b93-d84a8048583a",9629,Professions élémentaires non classées ailleurs,,
