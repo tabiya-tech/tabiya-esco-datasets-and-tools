@@ -1,6 +1,8 @@
 # Denormalize Occupations to Skills relations
 
 Generate a denormalized occupations-to-skills relations file.
+The algorithm can optionally set a **limit** to the number of skills selected for the occupations,
+**restrict** the skills to only the essential and do **proportionate allocation** between competencies and knowledge.
 
 The script requires an _Input file_, an _ESCO Occupations file_, _ESCO Skills file and_ an _ESCO Occupations-Skills file_.
 
